@@ -1,0 +1,3226 @@
+name,rate,Mean Rating,cuisines,cost
+Jalsa,4.1,3.81,north indian mughlai chinese,800.0
+Spice Elephant,4.1,3.81,chinese north indian thai,800.0
+San Churro Cafe,3.8,3.37,cafe mexican italian,800.0
+Addhuri Udupi Bhojana,3.7,3.22,south indian north indian,300.0
+Grand Village,3.8,3.37,north indian rajasthani,600.0
+Timepass Dinner,3.8,3.37,north indian,600.0
+Rosewood International Hotel - Bar & Restaurant,3.6,3.07,north indian south indian andhra chinese,800.0
+Onesta,4.6,4.44,pizza cafe italian,600.0
+Penthouse Cafe,4.0,3.67,cafe italian continental,700.0
+Smacznego,4.2,3.96,cafe mexican italian momos beverages,550.0
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,4.1,3.81,cafe,500.0
+Cafe Shuffle,4.2,3.96,cafe italian continental,600.0
+The Coffee Shack,4.2,3.96,cafe chinese continental italian,500.0
+Caf-Eleven,4.0,3.67,cafe continental,450.0
+San Churro Cafe,3.8,3.37,cafe mexican italian,800.0
+Cafe Vivacity,3.8,3.37,cafe,650.0
+Catch-up-ino,3.9,3.52,cafe fast food continental chinese momos,800.0
+Kirthi's Biryani,3.8,3.37,chinese cafe italian,700.0
+T3H Cafe,3.9,3.52,cafe italian american,300.0
+360 Atoms Restaurant And Cafe,3.1,2.33,cafe chinese continental italian,400.0
+The Vintage Cafe,3.0,2.19,cafe french north indian,400.0
+Woodee Pizza,3.7,2.48,cafe pizza fast food beverages,500.0
+Cafe Coffee Day,3.6,2.7,cafe fast food,900.0
+My Tea House,3.6,3.07,italian fast food cafe european,600.0
+Hide Out Cafe,3.7,3.22,cafe,300.0
+CAFE NOVA,3.2,2.48,cafe bakery,600.0
+Coffee Tindi,3.8,3.37,cafe south indian,200.0
+Sea Green Cafe,3.3,2.63,cafe fast food beverages,500.0
+Cuppa,3.3,2.73,cafe fast food,550.0
+Srinathji's Cafe,3.8,3.37,north indian cafe chinese fast food,550.0
+Redberrys,4.0,3.67,cafe italian,600.0
+Foodiction,2.8,1.96,north indian fast food chinese burger,500.0
+Sweet Truth,3.9,3.52,bakery desserts,500.0
+Ovenstory Pizza,3.9,3.57,pizza,750.0
+Faasos,4.2,3.65,north indian biryani fast food,500.0
+Behrouz Biryani,3.9,3.59,biryani,650.0
+Fast And Fresh,2.8,1.89,north indian chinese fast food,400.0
+Szechuan Dragon,4.2,3.96,chinese thai momos,600.0
+Empire Restaurant,4.4,3.94,north indian mughlai south indian chinese,750.0
+Maruthi Davangere Benne Dosa,4.0,3.67,south indian,150.0
+Chaatimes,3.8,3.39,street food fast food,200.0
+Havyaka Mess,3.9,3.52,south indian,300.0
+McDonald's,3.9,3.42,burger fast food,500.0
+Domino's Pizza,3.9,3.18,pizza fast food,800.0
+Onesta,4.6,4.44,pizza cafe italian,600.0
+Hotboxit,3.8,3.37,north indian continental italian,400.0
+Kitchen Garden,3.6,3.07,north indian chinese,300.0
+Recipe,4.0,3.67,north indian chinese biryani rolls,450.0
+Beijing Bites,3.7,2.23,chinese thai,850.0
+Tasty Bytes,3.1,2.33,north indian chinese momos rolls,300.0
+Petoo,3.7,3.39,north indian,450.0
+Shree Cool Point,4.1,3.81,fast food street food beverages,150.0
+Corner House Ice Cream,4.3,4.14,ice cream desserts,400.0
+Biryanis And More,4.0,3.72,biryani north indian chinese andhra south indian,750.0
+Roving Feast,4.0,3.67,italian continental fast food chinese momos,450.0
+FreshMenu,3.9,3.04,healthy food chinese biryani north indian continental salad american burger,450.0
+Banashankari Donne Biriyani,3.8,3.37,biryani fast food,300.0
+Wamama,4.2,3.96,asian korean indonesian japanese chinese thai momos,800.0
+Five Star Chicken,3.6,2.94,fast food burger,200.0
+XO Belgian Waffle,3.7,3.72,desserts beverages,400.0
+Peppy Peppers,4.2,3.96,italian north indian mexican,800.0
+Goa 0 Km,3.6,3.07,goan seafood north indian chinese biryani,800.0
+Chinese Kitchen,3.8,3.37,chinese,150.0
+1947,4.0,3.76,north indian chinese,850.0
+Cake of the Day,3.7,3.22,bakery,150.0
+Kabab Magic,4.1,3.44,north indian kebab chinese fast food,400.0
+Namma Brahmin's Idli,3.6,3.07,south indian,100.0
+Gustoes Beer House,4.1,3.81,continental italian mexican north indian chinese steak,1.2
+Sugar Rush,3.8,3.37,bakery desserts,300.0
+Burger King,3.2,3.03,burger fast food beverages,600.0
+The Good Bowl,3.6,3.07,italian north indian biryani,500.0
+The Biryani Cafe,4.1,3.81,biryani chinese kebab,300.0
+LSD Cafe,2.9,2.04,chinese continental italian north indian,700.0
+Rolls On Wheels,3.6,2.88,fast food rolls momos,300.0
+Sri Guru Kottureshwara Davangere Benne Dosa,4.1,3.81,south indian,150.0
+Devanna Dum Biriyani Centre,3.6,3.07,biryani south indian,300.0
+Kolbeh,3.7,3.22,fast food,500.0
+Upahar Sagar,3.8,3.37,south indian chinese north indian,350.0
+Kadalu Sea Food Restaurant,3.8,3.37,seafood north indian chinese andhra biryani kebab,500.0
+Frozen Bottle,4.2,3.59,beverages desserts ice cream,400.0
+Parimala Sweets,3.5,2.93,mithai street food,200.0
+Vaishali Deluxe,3.8,3.37,north indian chinese,700.0
+The Big O Bakes,4.0,3.67,bakery desserts,300.0
+Meghana Foods,4.4,4.31,biryani north indian chinese,600.0
+Krishna Sagar,3.5,2.93,north indian,200.0
+Dessert Rose,3.5,2.93,desserts,500.0
+Chickpet Donne Biryani House,3.7,3.3,biryani,250.0
+Thanco's Natural Ice Creams,3.2,2.48,ice cream,300.0
+Nandhini Deluxe,2.6,2.42,north indian,600.0
+Vi Ra's Bar and Restaurant,3.3,2.63,south indian north indian chinese,800.0
+Kaggis,3.8,3.37,fast food bakery,250.0
+Ayda Persian Kitchen,3.7,3.22,north indian iranian,950.0
+Chatar Patar,3.7,3.22,fast food street food,300.0
+Polar Bear,3.8,3.47,ice cream desserts beverages sandwich,400.0
+Kidambi's Kitchen,3.5,2.93,south indian,300.0
+Mane Thindi,3.7,3.22,south indian,200.0
+Kotian Karavali Restaurant,3.5,2.93,south indian biryani,300.0
+Floured-Baked With Love,3.8,3.37,bakery,400.0
+CAFE NOVA,3.2,2.48,cafe bakery,600.0
+Cakes & Slices,3.5,2.93,bakery desserts,300.0
+Spice 9,3.4,2.78,biryani north indian chinese fast food,300.0
+Naveen Kabab & Biriyani Mane,3.2,2.48,biryani,300.0
+Katriguppe Donne Biryani,3.2,2.48,north indian,300.0
+Atithi Point Ande Ka Funda,3.1,2.33,north indian,150.0
+Just Bake,3.4,2.48,bakery desserts,400.0
+K27 - The Pub,3.1,2.33,chinese north indian,1.0
+Bengaluru Coffee House,4.1,3.81,south indian north indian chinese street food,300.0
+New Mangalore Lunch Home,3.3,2.63,mangalorean south indian north indian,200.0
+Coffee Bytes,3.1,2.33,fast food south indian,100.0
+Parjanya Chat Zone,3.3,2.63,street food fast food,200.0
+Kwality Wall's Swirl's Happiness Station,2.9,2.04,ice cream desserts,200.0
+Ruchi Maayaka,3.3,2.63,south indian,100.0
+Anna Kuteera,4.0,3.67,south indian north indian chinese,450.0
+Darbar,3.0,2.19,north indian chinese,800.0
+Vijayalakshmi,3.9,3.52,south indian,200.0
+Sri Udupi Food Hub,4.1,3.81,south indian north indian chinese beverages,500.0
+Udupi Upahar,3.8,3.37,south indian chinese north indian juices,300.0
+House Of Kebabs,3.8,3.37,north indian kebab biryani chinese,650.0
+Roll N Rock,3.8,3.3,chinese north indian mughlai rolls,400.0
+BOX8- Desi Meals,4.1,3.81,north indian mughlai fast food,500.0
+KFC,3.8,3.26,burger fast food,450.0
+Roll Over,4.1,3.81,desserts ice cream beverages fast food sandwich,500.0
+Imperial Restaurant,3.7,3.22,north indian chinese biryani beverages,750.0
+Lassi Shop,3.9,3.26,beverages juices ice cream,150.0
+The Fortuna,3.0,2.19,north indian chinese,250.0
+Wahab,3.7,3.22,north indian mughlai chinese,350.0
+Al Diwan Biryanis And More,3.3,2.63,biryani,300.0
+New Gowda's Fried Chicken,3.3,2.63,biryani,300.0
+Canton,3.6,3.07,chinese seafood biryani,800.0
+Diabetics Dezire Sugarless Sweets and Bakes,3.3,2.63,desserts mithai,300.0
+The Blue Wagon - Kitchen,4.6,4.56,cafe beverages,400.0
+HOT COFFEE,4.1,3.81,south indian chinese,150.0
+Patio 805,4.1,3.81,thai vietnamese asian chinese,1.2
+Lassi Corner,3.7,3.27,beverages ice cream,150.0
+Sagar Deluxe,3.2,2.48,south indian north indian chinese juices,300.0
+Kanti Sweets,4.0,3.54,mithai street food,400.0
+Vegetalia,3.7,3.22,italian pizza,400.0
+Aramane Donne Biryani,3.5,2.53,biryani,200.0
+Ande Ka Funda,3.8,3.07,north indian fast food rolls,250.0
+Cake Ghar,3.8,3.37,bakery,400.0
+Energy Addaa,4.2,3.96,salad healthy food sandwich juices burger desserts pizza,500.0
+Bhattara Bhojana,3.6,3.07,south indian,150.0
+Tandoori Knight,3.0,2.19,north indian chinese biryani kebab,450.0
+Dev Sagar - Food Street,4.1,3.81,street food,200.0
+Mitraa Da Pizza,3.8,3.37,fast food pizza,250.0
+Paradise Premium,3.1,2.33,biryani andhra hyderabadi north indian,700.0
+Grazers,3.9,3.52,cafe burger continental italian desserts,650.0
+Shakes Theory,4.5,4.41,beverages sandwich,300.0
+@Italy,4.1,3.81,italian,700.0
+Chilli Flakes,3.6,3.07,fast food italian beverages,500.0
+Calcutta Cafe,3.5,2.93,bengali chinese sandwich,350.0
+Old Mumbai Ice Cream,3.9,3.48,ice cream,150.0
+Donne Biriyani House,3.9,3.05,south indian north indian chinese biryani,400.0
+By 2 Coffee,3.9,3.62,south indian,100.0
+Kedia's Fun Food,4.3,4.11,north indian street food juices,200.0
+Davangere Butter Dosa Hotel,3.8,3.37,south indian,150.0
+Just Shawarma,3.9,3.43,arabian,300.0
+Mini Punjabi Dhaba,4.2,3.96,north indian,350.0
+Mulabagilu Dosa,3.6,3.07,south indian,100.0
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,4.1,3.81,cafe,500.0
+Gokul Veg,3.8,3.37,north indian chinese beverages,750.0
+Olive - Era,3.3,2.63,bbq arabian rolls chinese north indian juices kebab desserts,550.0
+Udupi Ruchi,3.9,3.48,south indian north indian chinese street food,200.0
+Madhappa Hindu Military Hotel,3.4,2.78,south indian,300.0
+Gama Gama,3.9,3.52,south indian,200.0
+The Vintage Cafe,3.0,2.19,cafe french north indian,400.0
+Pizza Hut,3.8,2.42,pizza fast food,750.0
+Mangalore Pearl,3.8,3.37,mangalorean seafood chinese biryani,650.0
+Asha Sweets Centre,3.6,3.16,fast food,250.0
+Twiststick House,4.1,3.81,continental fast food street food momos,500.0
+Cool Corner,4.2,3.96,street food fast food,250.0
+Pizza Mane,3.5,2.93,pizza sandwich burger fast food,150.0
+Dal Tadkaa,2.5,1.44,north indian,500.0
+Chutney Chang,4.1,3.81,north indian chinese bbq,1.5
+Mystique Palate,4.1,3.81,chinese fast food,300.0
+Thamboola,3.9,3.52,north indian chinese continental,800.0
+Castle Rock,3.6,3.07,north indian chinese,700.0
+Vietnamese Kitchen,3.6,3.07,vietnamese,700.0
+Smacznego,4.2,3.96,cafe mexican italian momos beverages,550.0
+C Corner,3.2,2.48,fast food street food,200.0
+Paratha Merchant,3.1,2.33,north indian,300.0
+North Rasoe,3.1,2.33,north indian chinese biryani kebab,500.0
+Toscano,4.3,4.11,italian salad,1.3
+Lord Of The Kitchen,3.9,3.52,north indian chinese,350.0
+Stoned Monkey,4.3,3.91,desserts ice cream,500.0
+Central Jail Restaurant,3.8,3.32,andhra seafood north indian chinese,700.0
+Bella,3.9,3.52,mangalorean seafood south indian,1.0
+Vennela Andhra Meals,3.0,2.19,andhra,400.0
+New Prashanth Hotel,3.6,2.95,south indian biryani chinese north indian,750.0
+The Grillo,2.8,1.89,south indian arabian chinese north indian seafood mangalorean,500.0
+Re Malnad Nati Style Hotel,3.6,3.07,south indian,400.0
+Karma Kaapi,4.4,4.26,beverages tea,250.0
+Tiwari's,3.8,3.42,north indian street food,200.0
+Pizza Stop,3.8,3.22,pizza italian,600.0
+Biggies Burger 'n' More,3.6,3.57,cafe burger beverages,650.0
+Srinathji's Cafe,3.8,3.37,north indian cafe chinese fast food,550.0
+Kollapuri's,3.9,3.52,south indian mangalorean,450.0
+Kadamba Classic,3.6,3.07,south indian,300.0
+RS Shiv Sagar,3.7,3.22,north indian chinese south indian fast food juices,450.0
+Kholi Mane,3.6,3.07,andhra south indian biryani north indian,450.0
+Harshi Super Sandwich,3.8,3.37,fast food street food,150.0
+Cake Yard,3.4,2.67,desserts,250.0
+Rosewood International Hotel - Bar & Restaurant,3.6,3.07,north indian south indian andhra chinese,800.0
+Sri Udupi Veg,3.3,2.63,south indian,250.0
+Cake Art,3.5,2.93,bakery,400.0
+Potato House,3.4,2.78,street food,200.0
+Matru Sagar,3.7,3.12,south indian north indian,300.0
+Ugadi,2.9,2.04,north indian chinese biryani andhra mangalorean,700.0
+Sri Krishna Sweets,3.7,3.22,mithai desserts,250.0
+In Time Cane Juice,3.5,2.93,juices beverages,100.0
+Subway,3.7,3.03,salad fast food,600.0
+Daal Roti,2.9,2.04,north indian chinese,250.0
+The Lassi Park,4.1,3.81,juices desserts,200.0
+Cafe Coffee Day,3.2,2.7,cafe fast food,900.0
+A2B - Adyar Ananda Bhavan,3.8,3.07,south indian north indian chinese street food,400.0
+Srikrishna Bhavan,3.8,3.37,south indian north indian chinese,300.0
+Timepass Dinner,3.8,3.37,north indian,600.0
+Green Gardenia,3.8,3.37,north indian chinese,700.0
+J Spice,3.8,3.37,north indian chinese,750.0
+Karavali Family Restaurant,3.5,2.93,seafood biryani south indian north indian chinese,500.0
+Karavali Lunch Home,3.7,3.22,south indian mangalorean,350.0
+Hatti Kaapi,4.0,3.67,south indian beverages,200.0
+Kolkata Kathi Roll's,3.6,3.07,fast food rolls,250.0
+Upahara Darshini,3.9,3.62,north indian chinese south indian fast food,600.0
+The Chaat Shop,2.5,1.7,fast food,200.0
+Anda Ka Funda,3.4,2.78,north indian chinese rolls,250.0
+Shri Vinayaka Ice N Juice,3.2,2.6,beverages fast food,150.0
+My Tea House,3.6,3.07,italian fast food cafe european,600.0
+Ibaco,3.9,3.52,desserts,300.0
+Jalaram Sweets,3.8,3.37,desserts mithai,250.0
+Samskruti - Sanman Gardenia,4.1,3.81,north indian chinese south indian,550.0
+Bendakaluru Bytes,3.2,2.48,fast food,300.0
+Cocoa Bakes,3.6,3.07,bakery desserts,350.0
+Chumma Delicious,3.7,3.22,south indian fast food,200.0
+New Prashanth Hotel,3.9,2.95,biryani north indian seafood andhra,650.0
+Dwaraka Grand,3.9,3.52,south indian chinese street food juices,500.0
+Gufha - The President Hotel,4.1,3.81,north indian afghani mughlai,1.2
+Cafe Vivacity,3.8,3.37,cafe,650.0
+Tanna's Kitchen,3.1,2.33,italian chinese street food,250.0
+Shree Mandarathi Grand,3.7,3.22,south indian north indian,400.0
+Mojo Pizza - 2X Toppings,4.2,3.91,pizza,600.0
+Iceberg Icecreams,4.0,3.67,desserts ice cream,250.0
+South Kitchen,4.3,4.11,south indian,100.0
+Chung Wah,3.7,3.47,chinese thai momos,850.0
+Shanthi Sagar,3.1,2.83,south indian north indian chinese,400.0
+Millet Mama,3.9,3.52,south indian healthy food,200.0
+Bangarpet Chat Express,3.3,2.63,street food fast food,100.0
+Prems Graama Bhojanam,4.3,4.11,south indian,400.0
+Java City,2.6,1.59,cafe american pizza,450.0
+Kamat Bugle Rock,3.9,3.52,south indian fast food,300.0
+Woodee Pizza,3.7,2.48,cafe pizza fast food beverages,500.0
+Puliyogare Point,4.2,3.96,south indian,100.0
+Bangalore Agarwal Bhavan,3.9,3.52,street food north indian south indian,400.0
+Rustic Stove,3.8,3.37,north indian south indian biryani beverages,900.0
+Udupi Ruchi Grand,4.2,3.96,south indian north indian chinese street food,200.0
+De Thaali,3.9,3.52,north indian chinese rolls,550.0
+Spice Elephant,4.1,3.81,chinese north indian thai,800.0
+Just Thindi,3.6,3.07,south indian,200.0
+Matru Sagar,3.6,3.12,south indian north indian chinese,250.0
+Vasanth Vihar - Since 1965,3.6,3.07,south indian street food,150.0
+Sea Spice by 7 Star,4.0,3.67,seafood biryani beverages south indian north indian kebab,1.2
+Desi Dawat,3.7,3.22,north indian fast food,400.0
+Cafe Aira,4.1,3.81,cafe continental beverages desserts,500.0
+Penthouse Cafe,4.0,3.67,cafe italian continental,700.0
+Mast Punjabi,2.6,1.59,north indian chinese rolls biryani kebab,400.0
+South Grand,3.4,2.78,south indian north indian chinese beverages,400.0
+Catch-up-ino,3.9,3.52,cafe fast food continental chinese momos,800.0
+The Pizzeria,2.8,1.89,pizza italian salad,800.0
+Cafe Zone,3.9,3.52,fast food chinese rolls,300.0
+Ruchis Point,3.8,3.37,fast food chinese,200.0
+Firangi Bake,4.0,3.7,mexican italian,600.0
+The Royal Corner - Pai Viceroy,4.2,3.96,north indian chinese,900.0
+Hara Fine Dine,4.0,3.67,north indian chinese,800.0
+Chocoberry,3.5,2.93,ice cream desserts beverages,400.0
+Dakshin Grand,3.0,2.19,south indian north indian chinese street food,300.0
+Sandwichwallas,3.7,3.37,fast food,200.0
+Chai Mane,3.6,2.88,juices fast food,150.0
+SLV Upachar,3.1,2.33,south indian chinese street food,250.0
+Waffle-A-Go Go,3.9,3.52,fast food desserts ice cream,400.0
+Cross Road Cafe,3.9,3.52,cafe fast food chinese,300.0
+Anand Donne Biriyani,3.6,3.07,biryani,200.0
+Seven Star,3.4,2.78,north indian chinese,250.0
+Stop 'N' Joy,3.8,3.37,fast food,150.0
+Sri Yaksha Shiv Sagar,3.6,3.07,north indian chinese,600.0
+Fudge,3.8,3.07,desserts momos,200.0
+Just Bunny,3.5,2.93,fast food,200.0
+Bakers Town,3.8,3.22,cafe continental fast food,650.0
+Shree Mahalakshmi Sweets,3.2,2.48,mithai street food,100.0
+Kaapi Kendra,3.7,3.22,south indian,100.0
+Ivy,3.8,3.37,north indian chinese fast food,600.0
+The Airos,4.1,3.81,cafe italian pizza,650.0
+Chai Kraft,4.1,3.81,beverages tea,100.0
+Kirthi's Biryani,3.8,3.37,chinese cafe italian,700.0
+South Point Pub,3.4,2.78,north indian seafood chinese,800.0
+The Trundle,3.7,3.22,chinese thai continental north indian,700.0
+The Krishna Grand Xpress,4.0,3.67,south indian fast food,350.0
+Sri Krishna Darshini,3.1,2.33,south indian north indian chinese,200.0
+Shringar Sweets & Snacks,3.5,2.93,mithai south indian street food fast food,200.0
+Udupi Grand,3.8,3.37,south indian north indian chinese,300.0
+Ganesh Grand,3.7,3.22,south indian north indian desserts,300.0
+Shreyas Upahar & Burger Point,3.0,2.28,south indian burger,200.0
+Coffee Tindi,3.8,3.37,cafe south indian,200.0
+Little Cafe,3.7,3.22,cafe beverages,600.0
+Mumbai Badam Milk & Lassi Center,3.6,3.07,beverages desserts,100.0
+Sri Krishna Sagar,3.2,2.6,north indian chinese,400.0
+Mylari Biryani Family Restaurant,3.7,3.22,biryani fast food,400.0
+1980s Games Cafe,3.4,2.78,cafe fast food,400.0
+Kadala Tarangaa,3.6,3.11,mangalorean seafood north indian,600.0
+Namma Biryani,3.6,3.07,biryani chinese north indian,250.0
+Nandhanu's Rasoi,3.0,2.19,chinese north indian,400.0
+Hotel Pork Paradise,3.7,3.22,south indian,300.0
+As On Fire,3.5,2.93,pizza fast food bbq,400.0
+J K Fish Land,3.6,3.07,seafood mangalorean,300.0
+Curry Leaves,4.1,3.81,andhra north indian chinese,800.0
+Lassi Shop,3.5,3.26,beverages ice cream fast food,300.0
+Magic Meals,3.7,3.22,fast food desserts beverages,400.0
+Desi Cream Junction,3.7,3.22,chinese north indian pizza italian,650.0
+Drunken Monkey,3.8,3.85,beverages fast food,400.0
+Ruchi's Corner,2.7,1.74,fast food,200.0
+Tandoori Bytes,3.6,3.07,north indian,700.0
+Bangalore Donne Biriyani,3.2,2.48,south indian biryani,300.0
+SGS Non Veg - Gundu Pulav,3.8,3.43,biryani fast food,400.0
+Keventers,3.7,3.3,desserts beverages ice cream,400.0
+Navi Food Point,3.6,3.07,fast food,200.0
+Shawarma Inc,3.1,2.38,rolls lebanese,250.0
+The Cafe Nuts and Bolts,3.0,2.19,cafe fast food chinese,500.0
+AM WOW,3.4,2.78,beverages,100.0
+Lalbagh Grand,3.0,2.23,south indian north indian chinese,250.0
+Funjabi Curries,2.9,2.04,north indian,500.0
+Eat Repeat,3.9,3.52,south indian,150.0
+Salut,4.1,3.81,continental finger food seafood pizza,1.2
+Nammura Donne Biriyani,3.5,2.83,biryani fast food,400.0
+Lassi Stop,3.4,2.78,beverages fast food juices,150.0
+Dakshin Kitchen,3.6,3.07,south indian,100.0
+Sri Sai Cafe,3.5,2.93,south indian,200.0
+Sri Sai 99 Variety Dosa,3.8,3.22,south indian,300.0
+Utsav Restaurant,3.8,3.31,north indian chinese,300.0
+Crunch and Munch,3.7,3.22,chinese street food ice cream,300.0
+Food Geek,3.8,3.37,sandwich fast food rolls,350.0
+Sri Krishna Aramane,3.7,3.22,south indian north indian chinese fast food,200.0
+Great Indian Rolls,3.3,2.58,rolls,100.0
+Chats Point,3.4,2.78,fast food street food,150.0
+Food Point,3.5,2.93,north indian chinese,300.0
+Swarga Ruchi,3.3,2.63,south indian,200.0
+Kolkata King,3.4,2.88,fast food rolls,300.0
+Sandwich Mama's And Frozen Monster,3.8,3.37,ice cream beverages fast food,250.0
+New Rajadhani Spicy,3.7,3.22,north indian,700.0
+Big Mishra Pedha,2.9,2.27,mithai,250.0
+VEGeatz,3.4,2.78,south indian north indian,200.0
+Foodizo,3.6,3.07,desserts fast food continental,300.0
+Food Springs,4.0,3.67,south indian chinese,400.0
+Chung's Chinese Corner,3.9,3.52,chinese,700.0
+Eurasia Pasta and Barbeque by Little Italy,4.1,3.81,italian fast food salad bbq,1.2
+Goli Vada Pav No. 1,3.7,3.07,street food,200.0
+Ragoo's,3.9,3.52,italian pizza north indian salad,800.0
+Pure & Natural,3.9,3.52,fast food continental beverages salad healthy food,500.0
+Maiyas,4.0,3.67,north indian south indian fast food juices,200.0
+Sip n Dine,3.6,3.07,north indian chinese south indian,800.0
+Cafe Mondo,3.7,3.22,cafe italian beverages,600.0
+Jalpaan,4.0,3.67,north indian continental,900.0
+Kataria's Pakwan,3.2,2.48,north indian,400.0
+Juicy Momos,3.5,2.73,tibetan momos,250.0
+Amande Patisserie,4.0,3.67,bakery french desserts,300.0
+Anand Sweets and Savouries,3.9,3.44,mithai street food,400.0
+Chicken Hunt,3.5,2.93,south indian north indian chinese biryani,350.0
+Swadesh Tadka,3.5,2.93,north indian chinese beverages,600.0
+Cane-O-La,3.8,3.37,juices,100.0
+New Biryani Mane,3.7,3.22,north indian chinese biryani south indian,450.0
+Upahara Darshini,3.8,3.62,south indian north indian chinese,400.0
+Karnataka Bhel House,4.1,3.81,street food,100.0
+Sreeraj Lassi Bar,4.1,3.72,beverages,150.0
+Juice Junction Food Court,3.7,3.26,juices south indian chinese fast food,200.0
+Bunt's Biriyani Palace,3.0,2.19,north indian south indian chinese biryani seafood,400.0
+Chai Point,3.2,2.96,tea beverages fast food,250.0
+Janahaar,3.8,3.37,south indian,100.0
+Redberrys,4.0,3.67,cafe italian,600.0
+Utsav,3.7,3.22,north indian street food,200.0
+Meat And Eat,3.1,2.63,fast food burger,500.0
+Snacks Bite,3.0,2.19,fast food momos,400.0
+The Spice Saga,3.7,3.22,biryani north indian chinese seafood,750.0
+Dakshin Cafe,3.7,3.52,south indian,100.0
+Kaulige Millet Corner,3.3,2.63,healthy food south indian,150.0
+Ifruit Ice Cream,3.3,2.63,desserts ice cream,150.0
+Havmor,3.8,3.19,ice cream desserts,200.0
+Grand Food,3.4,2.78,south indian bakery chinese,250.0
+Dining Hut,3.5,2.93,north indian chinese south indian,400.0
+Desi Swaad,3.5,2.93,north indian,400.0
+Yummy Momos,3.2,2.68,momos tibetan chinese,200.0
+Masale Daan,3.1,2.33,north indian,350.0
+Grow Fit,3.6,3.07,healthy food north indian thai,500.0
+Sandwich Hub,3.4,2.78,fast food sandwich,300.0
+Udupi Sri Krishna Cafe,3.9,3.52,north indian south indian,600.0
+Starlite Bakery & Fastfood,3.7,3.22,north indian chinese rolls bakery arabian charcoal chicken desserts,300.0
+Veganbreak24x7,2.8,1.89,south indian chinese continental biryani,199.0
+Aadhya Hotel,3.3,2.63,south indian north indian chinese biryani,800.0
+Dodda Mane Baaduta,3.5,2.93,north indian south indian chinese biryani,250.0
+Swadd Kitchen,3.4,2.78,north indian fast food,500.0
+Happy Chopsticks,3.6,3.07,chinese fast food,300.0
+Udupi Upachar,3.3,2.63,south indian north indian,500.0
+Davanagere Benne Dose Hut,3.4,2.78,south indian,100.0
+Jalsa,4.1,3.81,north indian mughlai chinese,800.0
+Subz,4.2,3.96,north indian south indian,1.0
+Cafe Shuffle,4.2,3.96,cafe italian continental,600.0
+Mint and Mustard,4.0,3.67,north indian chinese,750.0
+Chinese Square,3.9,3.52,chinese,200.0
+Punjabi Raswada,3.5,2.93,north indian,800.0
+Vinny's,4.2,3.96,pizza italian continental desserts,800.0
+Chetty's Corner,3.4,2.93,fast food burger pizza,200.0
+Kapoor's Cafe,4.2,3.86,north indian,800.0
+Donne Biryani & Kabab Corner,3.3,2.63,chinese biryani,200.0
+Sukh Sagar,3.8,3.37,south indian north indian chinese street food,450.0
+S M V Snacks Corner,3.7,3.22,fast food,200.0
+Andhra Ruchulu,4.1,3.89,andhra biryani north indian chinese,1.0
+Steaming Mugs,3.9,3.52,cafe,700.0
+San Churro Cafe,3.8,3.37,cafe mexican italian,800.0
+Rajathadri Food Fort,4.0,3.67,south indian north indian chinese street food,600.0
+Brew Meister,4.1,3.81,north indian continental finger food american asian,1.5
+Rasoi,3.3,2.63,north indian chinese,300.0
+Mr. Singh Da Dhaba,3.6,3.07,north indian chinese,300.0
+Kababs N Biryani,3.4,2.78,south indian,200.0
+Ayodhya Upachar,4.3,4.11,south indian north indian chinese street food,200.0
+Biriyani Mane,3.8,3.27,north indian biryani,400.0
+Cafe Ajfan,4.2,3.96,cafe continental beverages,700.0
+Brundhavana Food Point,4.0,3.67,south indian north indian chinese street food beverages,300.0
+SLV Corner Restaurant,4.1,3.81,south indian chinese north indian street food rolls juices,550.0
+Hotel New Karavali,3.8,3.37,mangalorean south indian north indian,300.0
+The Krishna Grand,3.9,3.52,north indian south indian chinese fast food juices,750.0
+360 Atoms Restaurant And Cafe,3.1,2.33,cafe chinese continental italian,400.0
+Roti Ghar,3.9,3.52,north indian chinese south indian,500.0
+The Coffee Shack,4.2,3.96,cafe chinese continental italian,500.0
+Kettle & Kegs,3.2,2.53,tea beverages,200.0
+Baisakhi,3.8,3.37,north indian,500.0
+Corner House Ice Cream,4.3,4.14,ice cream desserts,400.0
+Poonam Sweets,4.4,4.26,mithai,150.0
+XO Belgian Waffle,3.7,3.72,desserts beverages,400.0
+Old Mumbai Ice Cream,3.9,3.48,ice cream,150.0
+Cake of the Day,3.7,3.22,bakery,150.0
+Amma's Pastries,3.8,3.41,bakery,400.0
+Kanti Sweets,4.0,3.54,mithai street food,400.0
+Sugar Rush,3.8,3.37,bakery desserts,300.0
+Polar Bear,3.9,3.47,ice cream desserts beverages sandwich,400.0
+San Churro Cafe,3.8,3.37,cafe mexican italian,800.0
+Anand Sweets and Savouries,3.7,3.44,mithai street food,400.0
+Ibaco,3.9,3.52,desserts,300.0
+Kirthi's Biryani,3.8,3.37,chinese cafe italian,700.0
+The Lassi and Juice Park,3.8,3.37,juices desserts,150.0
+Stoned Monkey,4.3,3.91,desserts ice cream,500.0
+Parimala Sweets,3.5,2.93,mithai street food,200.0
+The Big O Bakes,4.0,3.67,bakery desserts,300.0
+Shree Mahalakshmi Sweets,3.2,2.48,mithai street food,100.0
+Keventers,3.7,3.3,desserts beverages ice cream,400.0
+Dessert Rose,3.5,2.93,desserts,500.0
+Thanco's Natural Ice Creams,3.2,2.48,ice cream,300.0
+Corner Stone,3.6,3.07,beverages juices desserts italian,300.0
+Kaggis,3.8,3.37,fast food bakery,250.0
+Cocoa Bakes,3.6,3.07,bakery desserts,350.0
+Floured-Baked With Love,3.8,3.37,bakery,400.0
+CAFE NOVA,3.2,2.48,cafe bakery,600.0
+Cakes & Slices,3.5,2.93,bakery desserts,300.0
+Arun Ice Cream,3.4,2.78,ice cream desserts,150.0
+Just Bake,3.4,2.48,bakery desserts,400.0
+Kwality Wall's Swirl's Happiness Station,2.9,2.04,ice cream desserts,200.0
+Sweet N Swirl,3.2,2.48,desserts ice cream,150.0
+Sweet Truth,3.9,3.52,bakery desserts,500.0
+Waffle-A-Go Go,3.9,3.52,fast food desserts ice cream,400.0
+Sri Venkateshwara Sweet Meat Stall,4.0,3.67,mithai street food north indian chinese,400.0
+Baskin Robbins,3.7,3.22,ice cream desserts,250.0
+Redberrys,4.0,3.67,cafe italian,600.0
+Amande Patisserie,4.0,3.67,bakery french desserts,300.0
+Srinivasa Brahmins Bakery,3.6,3.07,bakery street food,150.0
+Jain Bakes,3.6,3.07,bakery desserts,250.0
+Cake Ghar,3.8,3.37,bakery,400.0
+KC Das - Sweet Spot,3.6,3.07,mithai street food,200.0
+Diabetics Dezire Sugarless Sweets and Bakes,3.3,2.63,desserts mithai,300.0
+Cake Yard,3.3,2.67,desserts,250.0
+Iceberg Icecreams,4.0,3.67,desserts ice cream,250.0
+A2B Veg - Adyar Ananda Bhavan,2.7,1.74,south indian north indian chinese street food,400.0
+Sri Krishna Sweets,3.7,3.22,mithai desserts,250.0
+Cake Art,3.5,2.93,bakery,400.0
+Asha Sweets Centre,3.6,3.16,fast food,250.0
+The Krishna Grand,3.9,3.52,north indian south indian chinese fast food juices,750.0
+Sea Spice by 7 Star,4.0,3.67,seafood biryani beverages south indian north indian kebab,1.2
+Mini Punjabi Dhaba,4.2,3.96,north indian,350.0
+Onesta,4.6,4.44,pizza cafe italian,600.0
+Wamama,4.2,3.96,asian korean indonesian japanese chinese thai momos,800.0
+Jalsa,4.1,3.81,north indian mughlai chinese,800.0
+Vinny's,4.2,3.96,pizza italian continental desserts,800.0
+Jcubez,3.8,3.37,finger food,1.3
+Gustoes Beer House,4.1,3.81,continental italian mexican north indian chinese steak,1.2
+Penthouse Cafe,4.0,3.67,cafe italian continental,700.0
+Spice Elephant,4.1,3.81,chinese north indian thai,800.0
+Smacznego,4.2,3.96,cafe mexican italian momos beverages,550.0
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,4.1,3.81,cafe,500.0
+Cafe Shuffle,4.2,3.96,cafe italian continental,600.0
+The Coffee Shack,4.2,3.96,cafe chinese continental italian,500.0
+Peppy Peppers,4.2,3.96,italian north indian mexican,800.0
+Anna Kuteera,4.0,3.67,south indian north indian chinese,450.0
+Szechuan Dragon,4.2,3.96,chinese thai momos,600.0
+1947,4.0,3.76,north indian chinese,850.0
+Caf-Eleven,4.0,3.67,cafe continental,450.0
+Thamboola,3.9,3.52,north indian chinese continental,800.0
+Havyaka Mess,3.9,3.52,south indian,300.0
+San Churro Cafe,3.8,3.37,cafe mexican italian,800.0
+Cafe Vivacity,3.8,3.37,cafe,650.0
+Chung Wah,3.9,3.47,chinese momos thai vietnamese,900.0
+Vietnamese Kitchen,3.6,3.07,vietnamese,700.0
+Blue Wings Bar & Restaurant,3.7,3.22,north indian chinese,700.0
+Anand Sweets and Savouries,3.7,3.44,mithai street food,400.0
+Catch-up-ino,3.9,3.52,cafe fast food continental chinese momos,800.0
+Kirthi's Biryani,3.8,3.37,chinese cafe italian,700.0
+T3H Cafe,3.9,3.52,cafe italian american,300.0
+Srikrishna Bhavan,3.8,3.37,south indian north indian chinese,300.0
+Dal Tadkaa,2.5,1.44,north indian,500.0
+360 Atoms Restaurant And Cafe,3.1,2.33,cafe chinese continental italian,400.0
+New Imperial Restaurant,3.7,3.22,north indian chinese,450.0
+The Vintage Cafe,3.0,2.19,cafe french north indian,400.0
+Green Gardenia,3.8,3.37,north indian chinese,700.0
+Parimala Sweets,3.5,2.93,mithai street food,200.0
+Vaishali Deluxe,3.8,3.37,north indian chinese,700.0
+Paradise Premium,3.1,2.33,biryani andhra hyderabadi north indian,700.0
+Kadala Tarangaa,3.6,3.11,mangalorean seafood north indian,600.0
+Vi Ra's Bar and Restaurant,3.3,2.63,south indian north indian chinese,800.0
+Sri Yaksha Shiv Sagar,3.6,3.07,north indian chinese,600.0
+Nandhini Deluxe,2.6,2.42,north indian,600.0
+Corner Stone,3.6,3.07,beverages juices desserts italian,300.0
+Karavali Fish Center,3.4,2.78,mangalorean chinese,300.0
+Ayda Persian Kitchen,3.7,3.22,north indian iranian,950.0
+J Spice,3.8,3.37,north indian chinese,750.0
+Swadesh Tadka,3.5,2.93,north indian chinese beverages,600.0
+Iyer's Tiffin Centre,3.8,3.37,south indian chinese,150.0
+Kydz Adda,3.4,2.78,continental,500.0
+K27 - The Pub,3.1,2.33,chinese north indian,1.0
+Kotian Karavali Restaurant,3.5,2.93,south indian biryani,300.0
+Food Box Cafe,3.6,3.07,mughlai north indian chinese,500.0
+Hide Out Cafe,3.7,3.22,cafe,300.0
+CAFE NOVA,3.2,2.48,cafe bakery,600.0
+Darbar,3.0,2.19,north indian chinese,800.0
+Sri Ganesh Juice and Chats,3.5,2.93,juices street food,150.0
+Manifest Cafe,3.5,2.93,south indian north indian chinese,500.0
+Beijing Bites,2.7,2.23,chinese thai,850.0
+The Pizzeria,2.8,1.89,pizza italian salad,800.0
+Sri Krishna Sagar,3.2,2.6,north indian chinese,400.0
+Lassi Stop,3.4,2.78,beverages fast food juices,150.0
+Sea Green Cafe,3.3,2.63,cafe fast food beverages,500.0
+As On Fire,3.5,2.93,pizza fast food bbq,400.0
+Pizza Hut,3.7,2.42,pizza fast food,750.0
+New Prashanth Hotel,3.9,2.95,biryani north indian seafood andhra,650.0
+Taaza Thindi,4.7,4.7,south indian,100.0
+Ayodhya Upachar,4.3,4.11,south indian north indian chinese street food,200.0
+Petoo,3.7,3.39,north indian,450.0
+Roving Feast,4.0,3.67,italian continental fast food chinese momos,450.0
+KFC,3.8,3.26,burger fast food,450.0
+Five Star Chicken,3.6,2.94,fast food burger,200.0
+Gama Gama,3.9,3.52,south indian,200.0
+Hotel New Karavali,3.8,3.37,mangalorean south indian north indian,300.0
+McDonald's,3.9,3.42,burger fast food,500.0
+Sri Laxmi Venkateshwara Coffee Bar,4.4,4.26,south indian,100.0
+Bhattara Bhojana,3.6,3.07,south indian,150.0
+Davanagere Benne Dose Hut,3.4,2.78,south indian,100.0
+Utsav Restaurant,3.8,3.31,north indian chinese,300.0
+Messy Bowl,3.8,3.37,fast food beverages,500.0
+Devanna Dum Biriyani Centre,3.6,3.07,biryani south indian,300.0
+Janahaar,3.8,3.37,south indian,100.0
+Stop 'N' Joy,3.8,3.37,fast food,150.0
+Dodda Mane Baaduta,3.5,2.93,north indian south indian chinese biryani,250.0
+Chickpet Donne Biryani House,3.8,3.3,biryani,250.0
+Brahmin Cafe,3.8,3.37,south indian,150.0
+Chumma Delicious,3.7,3.22,south indian fast food,200.0
+Udupi Upachar,3.3,2.63,south indian north indian,500.0
+Bengaluru Coffee House,4.1,3.81,south indian north indian chinese street food,300.0
+Foodiction,2.8,1.96,north indian fast food chinese burger,500.0
+The Biryani Cafe,4.1,3.81,biryani chinese kebab,300.0
+Banashankari Donne Biriyani,3.8,3.37,biryani fast food,300.0
+Addhuri Udupi Bhojana,3.7,3.22,south indian north indian,300.0
+Vasanth Vihar - Since 1965,3.6,3.07,south indian street food,150.0
+Subway,3.7,3.03,salad fast food,600.0
+SGS Non Veg - Gundu Pulav,3.8,3.43,biryani fast food,400.0
+Udupi Ruchi Grand,4.2,3.96,south indian north indian chinese street food,200.0
+Hotel Mangala,3.9,3.52,south indian,250.0
+Simple Thindies,3.5,2.93,south indian,200.0
+Rolls On Wheels,3.4,2.88,fast food rolls momos,300.0
+Chilli Flakes,3.6,3.07,fast food italian beverages,500.0
+Kababs N Biryani,3.4,2.78,south indian,200.0
+Udupi Ruchi,3.9,3.48,south indian north indian chinese street food,200.0
+SLV Swadishta,3.8,3.37,south indian,300.0
+Kolbeh,3.7,3.22,fast food,500.0
+Kolkata Kathi Roll's,3.6,3.07,fast food rolls,250.0
+Mylari Biryani Family Restaurant,3.7,3.22,biryani fast food,400.0
+Upahar Sagar,3.8,3.37,south indian chinese north indian,350.0
+Domino's Pizza,3.9,3.18,pizza fast food,800.0
+New Sagar Fast Food,3.6,3.07,north indian south indian,250.0
+Namma Biryani,3.6,3.07,biryani chinese north indian,250.0
+Parama Ruchi,3.5,2.93,south indian north indian chinese street food,300.0
+Thrilok Restaurant,3.4,2.78,mangalorean seafood,350.0
+Meat And Eat,3.5,2.63,fast food burger,500.0
+Ande Ka Funda,3.8,3.07,north indian fast food rolls,250.0
+Dakshin Grand,3.0,2.19,south indian north indian chinese street food,300.0
+Chicken Hunt,3.5,2.93,south indian north indian chinese biryani,350.0
+Maruthi Davangere Benne Dosa,4.0,3.67,south indian,150.0
+Pizza Stop,3.0,3.22,pizza italian,600.0
+Madhappa Hindu Military Hotel,3.4,2.78,south indian,300.0
+Krishna Sagar,3.5,2.93,north indian,200.0
+Hanumanthanagar Biryani Junction,3.5,2.93,south indian,300.0
+Faasos,4.2,3.65,north indian biryani fast food,500.0
+Rasoi,3.3,2.63,north indian chinese,300.0
+SLV Refreshment,4.1,3.81,south indian,100.0
+Kaggis,3.8,3.37,fast food bakery,250.0
+Chatar Patar,3.7,3.22,fast food street food,300.0
+Seven Star,3.4,2.78,north indian chinese,250.0
+SVKP Daily Fresh,3.3,2.63,south indian,350.0
+Kidambi's Kitchen,3.5,2.93,south indian,300.0
+Ruchi's Corner,2.7,1.74,fast food,200.0
+Tandoori Knight,3.0,2.19,north indian chinese biryani kebab,450.0
+Utsav,3.7,3.22,north indian street food,200.0
+Mane Thindi,3.7,3.22,south indian,200.0
+Fast And Fresh,2.8,1.89,north indian chinese fast food,400.0
+New Gowda's Fried Chicken,3.3,2.63,biryani,300.0
+Juicy Momos,3.5,2.73,tibetan momos,250.0
+Donne Biriyani House,3.9,3.05,south indian north indian chinese biryani,400.0
+Srinagar Kabab Corner,3.4,2.78,north indian,250.0
+Sri Venkateshwara Chat Centre,3.5,2.93,street food,100.0
+Vinay Bhel Corner,3.4,2.78,street food,100.0
+Spice 9,3.4,2.78,biryani north indian chinese fast food,300.0
+Naveen Kabab & Biriyani Mane,3.2,2.48,biryani,300.0
+Nandi Chats and Juice,3.6,3.07,street food,150.0
+Atithi Point Ande Ka Funda,3.1,2.33,north indian,150.0
+Just Shawarma,3.8,3.43,arabian,300.0
+Aramane Donne Biryani,3.1,2.53,biryani,200.0
+FOOD ADDA,3.2,2.48,fast food,200.0
+New Mangalore Lunch Home,3.3,2.63,mangalorean south indian north indian,200.0
+Hotel Nisarga,3.2,2.48,north indian south indian,250.0
+Coffee Bytes,3.1,2.33,fast food south indian,100.0
+Parjanya Chat Zone,3.3,2.63,street food fast food,200.0
+Yo Roll Corner,3.0,2.19,street food rolls,200.0
+New Quality Dum Biryani,3.1,2.33,biryani,200.0
+Sri Lakshmi Kabab Center,3.3,2.63,kebab,200.0
+Tasty Bites,3.7,3.22,fast food pizza,150.0
+Raams Chicken,3.6,3.07,andhra,300.0
+Panchami,3.0,2.19,north indian chinese,300.0
+VEGeatz,3.4,2.78,south indian north indian,200.0
+Grand Food,3.4,2.78,south indian bakery chinese,250.0
+Matru Sagar,3.6,3.12,south indian north indian chinese,250.0
+Kavali,4.0,3.67,south indian street food,300.0
+Bunt's Biriyani Palace,3.0,2.19,north indian south indian chinese biryani seafood,400.0
+Funjabi Curries,2.9,2.04,north indian,500.0
+Udupi Upahar,3.8,3.37,south indian chinese north indian juices,300.0
+Ranganna Military Hotel,4.2,3.96,south indian biryani,350.0
+Roti Ghar,3.9,3.52,north indian chinese south indian,500.0
+Grand Village,3.8,3.37,north indian rajasthani,600.0
+Vidyarthi Bhavan,4.4,4.26,south indian,150.0
+Bharjari Oota,3.9,3.52,south indian,350.0
+Gokul Veg,3.8,3.37,north indian chinese beverages,750.0
+SLV Corner Restaurant,4.1,3.81,south indian chinese north indian street food rolls juices,550.0
+Timepass Dinner,3.8,3.37,north indian,600.0
+Baisakhi,3.8,3.37,north indian,500.0
+Eat Repeat,3.9,3.52,south indian,150.0
+Sri Guru Kottureshwara Davangere Benne Dosa,4.1,3.81,south indian,150.0
+Bridgeway,3.8,3.37,north indian chinese,550.0
+Srinathji's Cafe,3.8,3.37,north indian cafe chinese fast food,550.0
+Soho Bar & Grill,2.7,1.74,north indian chinese thai,1.1
+Kollapuri's,3.9,3.52,south indian mangalorean,450.0
+Aadhya Hotel,3.3,2.63,south indian north indian chinese biryani,800.0
+Bhavani Restaurant,3.9,3.52,south indian north indian chinese,300.0
+Puliyogare Point,4.2,3.96,south indian,100.0
+Zephyr,3.9,3.52,italian continental,650.0
+Redberrys,4.0,3.67,cafe italian,600.0
+Hotel Dwarka,4.2,3.96,south indian,250.0
+Nisarga Garden Restaurant,3.4,2.78,south indian chinese desserts beverages,350.0
+Ma-Arya Family Restaurant,3.7,3.22,biryani south indian north indian chinese andhra,600.0
+A2B - Adyar Ananda Bhavan,3.8,3.07,south indian fast food street food,400.0
+Ragoo's,3.9,3.52,italian pizza north indian salad,800.0
+Imperial Restaurant,3.7,3.22,north indian chinese biryani beverages,750.0
+New Prashanth Hotel,3.9,2.95,south indian,400.0
+Udupi Sri Krishna Bhavan,4.1,3.81,south indian,600.0
+Chinese Kitchen,3.8,3.37,chinese,150.0
+Vijayalakshmi,3.9,3.52,south indian,200.0
+Nammura Donne Biriyani,3.5,2.83,biryani fast food,400.0
+Curry Leaves,4.1,3.81,andhra north indian chinese,800.0
+Goli Vada Pav No. 1,3.7,3.07,street food,200.0
+Ice Thunder,3.8,3.37,south indian fast food north indian desserts,300.0
+South Kitchen,4.3,4.11,south indian,100.0
+Upahara Darshini,4.2,3.62,south indian,150.0
+Mahalaxmi Tiffin Room,4.1,3.81,south indian,100.0
+Starlite Bakery & Fastfood,3.7,3.22,north indian chinese rolls bakery arabian charcoal chicken desserts,300.0
+Sandwichwallas,4.0,3.37,fast food,200.0
+J K Fish Land,3.6,3.07,seafood mangalorean,300.0
+Udupi Grand,3.8,3.37,south indian north indian chinese,300.0
+Chinese Square,3.9,3.52,chinese,200.0
+Castle Rock,3.6,3.07,north indian chinese,700.0
+Swadd Kitchen,3.4,2.78,north indian fast food,500.0
+Kamat Bugle Rock,3.9,3.52,south indian fast food,300.0
+Basavanagudi Mylari,4.0,3.67,south indian,300.0
+RS Shiv Sagar,3.7,3.22,north indian chinese south indian fast food juices,450.0
+New Prashanth Hotel,2.9,2.95,south indian biryani chinese north indian,750.0
+Shrinidhi Military Hotel,3.3,2.63,north indian mughlai,300.0
+Dakshin Kitchen,3.6,3.07,south indian,100.0
+Pramukh Family Restaurant,3.9,3.52,north indian chinese mughlai,700.0
+Chaatimes,3.8,3.39,street food fast food,200.0
+Vybhava,3.8,3.37,south indian north indian,250.0
+Shree Venkateshwara North Karnataka Hotel,4.0,3.67,south indian,200.0
+Kadamba Classic,3.6,3.07,south indian,300.0
+Food Geek,3.8,3.37,sandwich fast food rolls,350.0
+Rosewood International Hotel - Bar & Restaurant,3.6,3.07,north indian south indian andhra chinese,800.0
+Anand Sagar Inn,3.3,2.63,south indian north indian chinese,450.0
+Sangam Military Hotel,3.2,2.48,south indian,250.0
+Kholi Mane,3.6,3.07,andhra south indian biryani north indian,450.0
+Harshi Super Sandwich,3.8,3.37,fast food street food,150.0
+Hotel Pork Paradise,3.7,3.22,south indian,300.0
+Belly Squad Food Truck,3.8,3.37,chinese rolls biryani momos,300.0
+New Rajadhani Spicy,3.7,3.22,north indian,700.0
+Matru Sagar,3.7,3.12,south indian north indian,300.0
+Sri Udupi Veg,3.3,2.63,south indian,250.0
+50-50 EATING HOUSE,3.2,2.48,south indian biryani,100.0
+Om Shiva Shakthi Chats Centre,3.9,3.52,street food fast food,300.0
+Juice Junction Food Court,3.7,3.26,juices south indian chinese fast food,200.0
+Burger King,3.2,3.03,burger fast food beverages,600.0
+Rolls Corner,3.6,3.07,fast food rolls,150.0
+New Ambur Hot Dum Biryani,3.2,2.48,biryani,150.0
+Shri Vinayaka Ice N Juice,3.2,2.6,beverages fast food,150.0
+Happy Chopsticks,3.6,3.07,chinese fast food,300.0
+Jcubez,3.8,3.37,finger food,1.3
+Gustoes Beer House,4.1,3.81,continental italian mexican north indian chinese steak,1.2
+Blue Wings Bar & Restaurant,3.7,3.22,north indian chinese,700.0
+Vi Ra's Bar and Restaurant,3.3,2.63,south indian north indian chinese,800.0
+K27 - The Pub,3.1,2.33,chinese north indian,1.0
+Darbar,3.0,2.19,north indian chinese,800.0
+Soho Bar & Grill,2.7,1.74,north indian chinese thai,1.1
+Deja Vu Resto Bar,4.4,4.26,north indian italian,900.0
+Fattoush,4.2,3.96,arabian biryani chinese middle eastern fast food north indian mughlai seafood,1.0
+Empire Restaurant,4.3,3.94,north indian mughlai south indian chinese,750.0
+Abhiruchi Hotel,3.3,2.63,andhra biryani north indian chinese,550.0
+Tulips,3.1,2.33,north indian south indian chinese continental,800.0
+Barbeque Nation,4.7,4.7,north indian european mediterranean bbq kebab,1.6
+Sattvam,4.3,4.11,north indian south indian,1.2
+24th Main,4.1,3.81,north indian south indian chinese,800.0
+Zaitoon,4.1,3.81,bbq arabian chinese north indian desserts,1.0
+Mango Greens,3.9,3.52,north indian continental chinese,900.0
+Oye Amritsar,3.8,3.37,north indian,1.0
+Melt - Eden Park,4.0,3.67,north indian chinese thai mughlai seafood,1.0
+Spice Code,4.0,3.59,south indian north indian chinese biryani,1.0
+The Onyx - The HHI Select Bengaluru,3.3,2.63,north indian chinese continental,950.0
+The Pavillion,2.7,1.74,north indian continental south indian chinese,1.0
+Sankranthi Veg Restaurant,3.0,2.19,south indian north indian chinese,600.0
+Tisano Cafe,3.8,3.37,cafe fast food chinese continental,500.0
+Cafe Kabana,4.0,3.67,cafe continental,700.0
+Butterly,3.9,3.52,cafe bakery beverages,450.0
+Black Mug Cafe,3.7,3.22,cafe,300.0
+#refuel,3.7,3.22,cafe beverages,400.0
+WAFL,3.9,3.52,cafe fast food desserts beverages,400.0
+Vaho Kafe & Pressery,3.9,3.52,cafe healthy food asian italian north indian biryani juices,500.0
+Dreamcatcher,3.9,3.52,cafe,600.0
+Cafe Coffee Day,3.6,2.7,cafe fast food,900.0
+Cafe Arabica,3.8,3.37,cafe bakery,700.0
+Starbucks,3.9,3.67,cafe desserts,700.0
+Smoor,3.6,3.07,desserts cafe beverages,900.0
+Kalmane Koffees,3.9,3.52,cafe,350.0
+Shee-Sha Cafe,3.6,3.07,cafe north indian chinese continental,800.0
+Brews N Bites,2.7,1.89,chinese fast food cafe street food finger food,650.0
+D2V Cafe,3.6,3.07,cafe,700.0
+Cafe Talk,3.3,2.63,cafe continental north indian bakery desserts,700.0
+Cafe Choco Craze,3.7,3.22,cafe fast food desserts,400.0
+Slate Cafe,4.1,3.81,cafe sandwich burger,600.0
+Dialogues,4.0,3.67,cafe continental,600.0
+Mudpipe Cafe,3.9,3.74,cafe continental north indian,800.0
+TAB - Take A Break,4.1,3.81,cafe continental italian,550.0
+Biggies Burger 'n' More,4.1,3.57,cafe burger beverages,650.0
+Onesta,4.4,4.44,pizza cafe italian,600.0
+Cafe Potpourri,3.7,3.22,cafe sandwich north indian beverages desserts,400.0
+De Oxford Cafe,3.7,3.22,cafe beverages fast food,500.0
+Vinaya Coffee Moments,3.7,3.27,burger cafe desserts sandwich italian,450.0
+Brew Point,3.6,3.07,cafe american burger sandwich fast food,500.0
+The Cravery,2.6,1.59,continental burger beverages cafe italian rolls,500.0
+Cuppa,3.4,2.73,cafe fast food,550.0
+Anju's Cafe,3.4,2.78,cafe north indian,600.0
+Skytouch Le Cafe,3.7,3.22,cafe italian desserts,700.0
+Woodee Pizza,2.7,2.48,cafe pizza fast food beverages,500.0
+Hearts Unlock Cafe,3.2,2.48,cafe healthy food,500.0
+eat.fit,4.5,4.41,healthy food north indian biryani continental sandwich desserts,500.0
+Sai Abhiruchi,3.7,3.22,andhra north indian biryani,800.0
+Capsicum Family Restaurant,3.8,3.37,biryani north indian,800.0
+Box Magic,3.6,3.07,north indian south indian seafood rolls,400.0
+Maa'r Rannaghor,3.8,3.37,bengali chinese,400.0
+Easy Bites,4.1,3.81,fast food sandwich,300.0
+Hiyar Majhe Kolkata,4.0,3.67,bengali north indian,400.0
+Dabba Gosht,3.4,2.78,arabian middle eastern,400.0
+Empire Restaurant,3.6,3.94,kerala seafood south indian chinese north indian charcoal chicken beverages,400.0
+Punjabites,3.7,3.22,north indian charcoal chicken,400.0
+Sri Lakshmi Dhaba,2.9,2.04,north indian,250.0
+XO Belgian Waffle,4.5,3.72,desserts beverages,400.0
+Swadista Aahar,4.1,3.81,south indian north indian chinese street food,300.0
+Vegetarea,3.9,3.52,south indian,250.0
+Al-Bek,3.6,3.07,biryani north indian charcoal chicken chinese seafood rolls,300.0
+Aniram's,4.1,3.81,chinese north indian,500.0
+Punjabi Nawabi,3.8,3.37,north indian,400.0
+YummRajj,3.3,2.63,fast food,500.0
+Swad Punjab Da,4.0,3.44,north indian,150.0
+BOX8- Desi Meals,4.1,3.81,north indian mughlai fast food,500.0
+Roti Wala,4.0,3.67,north indian,300.0
+Midnight Mania,4.1,3.81,pizza italian beverages,700.0
+Kitchens@JP Nagar,3.9,3.52,biryani kerala mughlai street food north indian chinese south indian andhra,400.0
+Krishna Kuteera,4.0,3.67,south indian north indian chinese,400.0
+Apna Punjab,3.6,3.07,north indian chinese fast food,450.0
+Paratha Junction,2.9,1.94,north indian chinese,300.0
+Nellore Bhojanam,3.1,2.33,andhra,250.0
+Momoz,4.0,3.67,chinese momos,600.0
+Kalingas,3.9,3.52,oriya fast food,250.0
+Kanteen The Eatery,3.9,3.52,north indian,400.0
+Kullad Cafe,3.9,3.52,north indian cafe fast food beverages,200.0
+Donne Biriyani House,3.3,3.05,biryani andhra,350.0
+Litti Twist,4.1,3.89,north indian bihari,300.0
+FreshMenu,3.3,3.04,healthy food chinese biryani north indian continental salad american burger,450.0
+Shanthi Sagar,3.6,2.83,south indian north indian chinese,400.0
+Cakebuy,3.9,3.52,desserts,350.0
+Five Star Chicken,3.9,2.94,burger fast food roast chicken finger food,300.0
+Corner House Ice Cream,4.4,4.14,ice cream desserts,400.0
+Delight Food,2.6,1.59,andhra chinese biryani,450.0
+Andhra Kitchen,3.9,3.52,andhra biryani,400.0
+Veg By Nature,3.4,2.78,north indian,200.0
+Fattoush,4.2,3.96,arabian biryani chinese middle eastern fast food north indian mughlai seafood,1.0
+Chicken Magic,3.7,3.22,chinese north indian,300.0
+Behrouz Biryani,4.0,3.59,biryani,650.0
+Abhiruchi Hotel,3.3,2.63,andhra biryani north indian chinese,550.0
+Swathi Restaurant,3.9,3.44,andhra north indian chinese,400.0
+Fresh Kitchen,3.4,2.78,north indian chinese,600.0
+Hind Ka Chulah,3.8,3.37,north indian biryani,600.0
+Kuttanad,3.6,3.07,kerala south indian,200.0
+New Mahesh Friends Food Corner,3.2,2.48,north indian chinese,300.0
+Bohra Bohra CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,3.6,3.07,bohri,300.0
+Pizza Hut,2.7,2.42,pizza,750.0
+Shree Krishna Sannidhi,3.4,2.78,north indian chinese,450.0
+BingeJoy!,3.6,3.07,biryani chinese fast food,100.0
+Shiv Sai Hotel,3.5,2.93,north indian,400.0
+MRA,3.9,3.52,bakery,200.0
+Beijing Bites,3.7,2.23,chinese thai momos,400.0
+A2B - Adyar Ananda Bhavan,4.1,3.07,south indian north indian chinese street food,200.0
+Burj Hotel,3.5,2.85,north indian chinese,350.0
+Shaadi Ki Biryani,3.1,2.33,biryani north indian mughlai,400.0
+Subway,3.2,3.03,salad fast food,600.0
+Madeena Hotel,3.9,3.52,north indian mughlai biryani,400.0
+Biryani Durbar,3.7,3.22,biryani north indian,400.0
+The Good Bowl,3.6,3.07,italian north indian biryani,500.0
+Mahesh Friends Food Center,2.9,2.04,chinese north indian,300.0
+Juice Shop,3.4,2.78,juices beverages ice cream,150.0
+Kabab Magic,4.0,3.44,north indian kebab chinese fast food,400.0
+Nammura Donne Biriyani,3.4,2.83,biryani fast food,400.0
+Burger King,3.8,3.03,burger fast food beverages,600.0
+Dadi's Dum Biryani,4.0,3.72,biryani north indian mughlai,800.0
+Krishna Kuteera South,4.0,3.67,south indian north indian chinese,500.0
+Alankrutha,3.9,3.52,andhra biryani north indian chinese,500.0
+Paradise,4.0,3.67,biryani north indian kebab,800.0
+Kabab Mehal,3.7,3.27,kebab north indian fast food beverages,400.0
+Andhra Ruchulu,4.2,3.89,andhra north indian,800.0
+Sri Punjabi Dhaba,3.3,2.63,north indian,400.0
+Arabian Mexico,3.4,2.78,fast food arabian,400.0
+CakeZone,3.7,3.22,bakery desserts,200.0
+Fujian Express,3.6,3.0,chinese thai,200.0
+Indian Food,2.9,2.04,north indian biryani chinese momos,450.0
+Tandoori Paradise,3.5,2.93,north indian chinese,600.0
+Kolkata Kathi Rolls,3.8,3.37,rolls,150.0
+Adithya,4.0,3.31,south indian north indian chinese,300.0
+Cheesiano Pizza,4.0,3.67,pizza italian,700.0
+Polar Bear,3.9,3.47,desserts ice cream,300.0
+Nati Palace,3.5,2.93,south indian north indian,200.0
+KFC,3.9,3.26,burger fast food,400.0
+Dande's Hyderabad Biryani,3.8,3.37,biryani andhra north indian,700.0
+Onesta,4.4,4.44,pizza cafe italian,600.0
+Upahara Bhavan,3.8,3.37,south indian north indian chinese,300.0
+Sher-E-Punjab,3.2,2.63,north indian chinese,400.0
+Shuddh Desi Khana,4.0,3.67,north indian,400.0
+Karama Restaurant,3.5,2.93,arabian,400.0
+Jaganath Hotel and Restaurant,3.6,3.07,north indian chinese,200.0
+Five Star Chicken,3.5,2.94,fast food beverages,250.0
+Sankranthi Veg Restaurant,3.0,2.19,south indian north indian chinese,600.0
+Aramane Donne Biriyani,3.9,3.52,biryani fast food,300.0
+Cafe Potpourri,3.7,3.22,cafe sandwich north indian beverages desserts,400.0
+Mani's Dum Biryani,4.2,3.86,biryani kebab,750.0
+Amontron,3.9,3.52,bengali,650.0
+A M Biryani Hotel,3.3,2.63,north indian chinese biryani fast food,300.0
+Birinz,4.1,3.81,biryani chinese mughlai fast food kebab,700.0
+Just Shawarma,3.6,3.43,arabian,300.0
+Hyderabadi Bawarchi,3.2,2.48,north indian chinese biryani,500.0
+Fish Chain,3.9,3.52,seafood bbq biryani,250.0
+Prasiddhi Food Corner,3.7,3.22,fast food north indian south indian,200.0
+Biriyani Bhatti,3.7,3.22,chinese hyderabadi north indian,400.0
+Hyderabad Biryaani House,3.6,3.12,biryani north indian chinese,550.0
+Galito's,4.6,4.56,african burger,1.0
+C. K. Mega Hot Food,3.9,3.52,chinese momos,600.0
+Lassi Shop,3.9,3.26,beverages ice cream fast food,300.0
+Red Chilli Restaurant,3.2,2.48,north indian chinese,350.0
+RSS Donne Biryani,3.3,2.63,biryani,300.0
+Rajdhani Thali Restaurant,3.9,3.52,north indian,900.0
+PHEW (Play Hard Eat Wild),3.9,3.52,continental lebanese middle eastern north indian chinese bbq cafe,700.0
+New Kabab Zone,3.6,3.0,north indian chinese biryani rolls,500.0
+Bawarchi Paradise,3.5,2.93,north indian biryani,500.0
+Shree Udupi Grand,3.5,3.22,south indian chinese north indian,450.0
+Chicken County Grand,3.9,3.52,north indian chinese,650.0
+Roll Over,4.1,3.81,desserts ice cream beverages fast food sandwich,500.0
+Darjeeling Momos & Fast Food Center,3.8,3.37,fast food momos,250.0
+Veruthe Oru Thattukada,3.7,3.3,kerala south indian,400.0
+Savoury - Sea Shell Restaurant,3.9,3.52,arabian north indian chinese seafood biryani rolls beverages,900.0
+Warm Oven,3.9,3.47,bakery desserts,500.0
+Firangi Bake,4.0,3.7,mexican italian,600.0
+Zaitoon,4.1,3.81,bbq arabian chinese north indian desserts,1.0
+Kundana,3.7,3.22,andhra biryani,800.0
+Food Ka Masti,3.2,2.48,north indian chinese south indian,400.0
+The Shawarma Shop,4.1,3.81,arabian,250.0
+Momo Junction,3.8,3.37,fast food momos,100.0
+Antilla Aromas,3.7,3.22,desserts ice cream,300.0
+Faasos,3.9,3.65,north indian biryani fast food,500.0
+Punjabi Food Corner,3.0,2.19,north indian chinese street food,400.0
+Mealer.in,4.0,3.59,north indian biryani,450.0
+Pathaan Sir,3.9,2.83,fast food rolls momos,250.0
+Cold Stone Creamery,3.9,3.52,ice cream desserts,400.0
+Hari Super Sandwich,3.9,3.72,sandwich fast food,100.0
+Amritsari Kulcha Land,4.1,3.81,north indian,300.0
+Chokha Chowka,3.9,3.52,north indian chinese,400.0
+Gorbandh,4.1,3.81,fast food north indian,400.0
+Grills & Rolls,2.5,1.44,north indian chinese fast food rolls juices,400.0
+Bathinda Junction,3.9,3.57,north indian,600.0
+Stories,4.2,3.96,american chinese continental north indian,1.2
+New Gongura's,3.7,3.22,andhra biryani north indian chinese,550.0
+Sagar Grand,3.8,3.37,south indian north indian chinese,300.0
+Kanti Sweets,4.0,3.54,mithai street food,400.0
+UBQ By Barbeque Nation,3.4,2.78,north indian bbq biryani kebab,450.0
+Agarwal Food Service,3.8,3.37,north indian chinese biryani,400.0
+Daniyal's,3.1,2.58,north indian biryani mughlai kebab,800.0
+Seasons,3.8,3.37,north indian south indian chinese seafood kerala arabian juices,1.0
+Chef Delicacies,3.1,2.33,kebab rolls charcoal chicken,400.0
+Chung Wah,4.0,3.47,chinese thai momos vietnamese,800.0
+Indiana Burgers,3.4,2.85,burger,300.0
+Moksha,3.6,3.07,chinese north indian andhra south indian,1.5
+Marwa Restaurant,3.5,2.93,north indian chinese fast food bbq,600.0
+Chaatimes,3.9,3.39,street food fast food,200.0
+Shanghai Court,4.2,3.96,chinese thai,700.0
+Akshaya Donne Biriyani,3.1,2.33,biryani south indian kebab,300.0
+Sweet Truth,3.7,3.52,bakery desserts,500.0
+Bhojohori Manna,3.7,3.22,bengali mughlai,650.0
+Richie Rich,3.1,2.33,desserts ice cream beverages,250.0
+Hunger Bee,3.8,3.37,biryani north indian south indian,500.0
+Yum In My Tum,4.1,3.81,chinese continental fast food healthy food,300.0
+Maggi N Maggi House,3.4,2.78,fast food,300.0
+Fresh Dinner,3.1,2.33,north indian biryani,500.0
+B.M.W Bhookh Mitaane Wala,3.5,2.93,north indian south indian chinese,500.0
+Biryani Miya,3.7,3.3,biryani north indian,600.0
+Krispy Kreme,3.7,3.44,desserts beverages,300.0
+Paani Kum Chai,4.0,3.67,beverages fast food,200.0
+Chulha Chauki Da Dhaba,4.2,3.96,north indian,800.0
+SGS Non Veg - Gundu Pulav,3.9,3.43,biryani south indian,300.0
+Dreamcatcher,3.9,3.52,cafe,600.0
+Magix's Parattha Roll,3.7,3.22,fast food north indian chinese mughlai rolls,400.0
+Elegant Dining,3.6,3.07,biryani north indian chinese,700.0
+AlienSip,3.6,3.07,juices,200.0
+Waffle Head,4.0,3.67,desserts beverages bakery ice cream,300.0
+Samruddhi Biryani,3.0,2.19,biryani north indian,700.0
+Ande Ka Funda,3.2,3.07,north indian fast food rolls,250.0
+Basmati Delights,4.0,3.67,biryani chinese mughlai fast food kebab,500.0
+Charlee's Chicken,3.2,2.48,rolls chinese fast food,300.0
+Samosa Singh,4.0,3.67,street food fast food rolls desserts,200.0
+Cravings,3.7,3.22,north indian chinese rolls,400.0
+Nagas,3.1,2.33,andhra,300.0
+Matka,3.7,3.15,biryani north indian,500.0
+Punjabi Swag,3.9,3.52,north indian,500.0
+Taco Bell,3.7,3.22,mexican american fast food,600.0
+Ambur Star Dum Biryani,3.4,2.78,biryani,100.0
+Mother's Rasoi,3.8,3.37,north indian chinese momos,250.0
+Dosa Bazaar,4.0,3.67,street food south indian,200.0
+Babu Moshai,3.0,2.19,fast food bengali,500.0
+The Bong Palate,3.8,3.37,bengali north indian chinese,300.0
+Gowdru Mane Oota,3.7,3.22,south indian andhra,400.0
+Banashankari Nati Style,3.6,3.07,south indian,300.0
+Upahara Darshini,4.0,3.62,south indian north indian chinese,400.0
+Chandrima's Kitchen,3.7,3.22,bengali north indian,400.0
+Keventers,3.8,3.3,desserts beverages ice cream,400.0
+Bikaner Jn,3.9,3.52,rajasthani,300.0
+Lassi Berg,3.4,2.78,juices,100.0
+Kakal-Kai Ruchi,3.7,3.22,north indian south indian chinese,500.0
+Manchu Cafe,3.8,3.37,chinese fast food asian beverages nepalese tibetan,300.0
+Calorie Express,3.6,3.07,healthy food,450.0
+BANGALORE BOX,4.2,3.86,asian continental finger food,1.5
+Yummy Momos,3.6,2.68,momos street food fast food tibetan chinese,200.0
+Hotel Khaaja,3.1,2.33,biryani fast food,250.0
+The Gujarat Express,3.1,2.33,street food mithai north indian,250.0
+Ovenstory Pizza,4.0,3.57,pizza,750.0
+Slate Cafe,4.1,3.81,cafe sandwich burger,600.0
+Vishal Foods,3.3,2.63,chinese north indian street food,250.0
+Lassi Darbar,3.5,2.93,ice cream juices beverages,200.0
+Chavadi,4.4,4.26,continental north indian pizza italian,1.2
+Nanna Munna Paratha House,4.0,3.67,north indian,300.0
+Cucumber Town,4.2,3.96,kerala north indian,600.0
+Sri Sai 99 Variety Dosa,3.7,3.22,south indian,300.0
+Oye Amritsar,3.8,3.37,north indian,1.0
+Kolkata Famous Kati Roll,3.5,2.93,rolls chinese,200.0
+Nellore Ruchulu,3.7,3.22,north indian south indian chinese,800.0
+Brewsky,4.4,4.26,continental american,1.6
+Chefeana,4.0,3.67,north indian,400.0
+Bangaliana,2.9,2.43,bengali,600.0
+Gud Dhani,4.0,3.67,rajasthani,500.0
+The Hunger Room,3.9,3.52,continental sandwich burger italian salad pizza,400.0
+McDonald's,4.0,3.42,burger fast food,500.0
+Parisar Veg Restaurant,3.6,3.07,chinese north indian south indian,400.0
+WAFL,3.9,3.52,cafe fast food desserts beverages,400.0
+Deejas Kitchen,3.9,3.52,south indian kerala,400.0
+Pancuzzi,4.2,3.96,cafe beverages desserts,600.0
+Zhang's - Chinese Restaurant,4.1,3.81,chinese momos,700.0
+Shagun Sweets & Foods,3.5,2.93,mithai north indian street food chinese,400.0
+Eat Well,2.9,2.04,north indian chinese,400.0
+Dev's Gugababa,3.5,2.93,bengali north indian chinese,500.0
+Oogway Express,3.9,3.52,chinese thai momos,600.0
+Domino's Pizza,3.0,3.18,pizza fast food,800.0
+Pizza Stop,3.9,3.22,pizza italian,600.0
+Balaji Bombay Vada Pav Gujrati Dalebi,3.8,3.37,street food sandwich,150.0
+The Cake Ville,3.2,2.48,bakery desserts fast food,300.0
+The Egg Factory,4.0,3.67,continental american,750.0
+Chow San,3.0,2.19,chinese thai momos,500.0
+New Udupi Grand,3.5,2.93,south indian north indian chinese,300.0
+New Karawali Lunch Home,3.5,2.93,mangalorean,350.0
+SR Choco Station,3.4,2.78,desserts,200.0
+Momo Jojo,4.3,4.11,chinese tibetan momos,300.0
+Simply Indian,3.9,3.52,north indian chinese seafood biryani mangalorean,800.0
+Delhi Biryani Cafe,3.5,2.93,north indian biryani,250.0
+Rithika's Kitchen,3.8,3.37,biryani south indian andhra,350.0
+Punjabi Times,4.1,3.81,north indian,1.0
+Chai Point,3.6,2.96,tea beverages fast food,250.0
+Cafe Coffee Day,3.7,2.7,cafe fast food,900.0
+Cravy Wings,4.2,3.96,american burger fast food,400.0
+Funky Punjab,3.9,3.52,north indian chinese,500.0
+A1 Garam Masala,3.6,3.07,north indian south indian andhra chinese,600.0
+Punjabi Corner,3.9,3.52,north indian chinese,250.0
+Guru Palace,3.1,2.33,chinese north indian,450.0
+#refuel,3.7,3.22,cafe beverages,400.0
+Biggies Burger 'n' More,4.1,3.57,cafe burger beverages,650.0
+Zeeshan,3.1,2.33,north indian mughlai biryani rolls,600.0
+Ambara Gardenia,3.8,3.37,andhra north indian chinese seafood,800.0
+LayerBite,3.8,3.37,bakery desserts beverages,450.0
+Five Star Chicken,3.2,2.94,fast food burger,250.0
+Bhavani Chats,3.6,3.07,street food,100.0
+Shawarma Inc,3.2,2.38,rolls lebanese,250.0
+More Pizza,3.8,3.15,pizza,450.0
+Butterly,3.9,3.52,cafe bakery beverages,450.0
+Crafted Plate,4.2,3.96,cafe asian burger continental italian salad,600.0
+Shetty's Kitchen,3.7,3.22,mangalorean,600.0
+Machali Port,3.9,3.52,mangalorean seafood north indian,750.0
+Naati Manae,3.1,2.33,south indian biryani,500.0
+Mad Over Biryani,3.3,2.63,biryani north indian,600.0
+Garma Garam,3.2,2.48,north indian chinese biryani rolls,350.0
+Sambram Biriyani Paradise,3.5,2.93,biryani north indian chinese,600.0
+Mr. Meetharam,3.2,2.48,mithai street food,150.0
+The Coastal Crew by Fujian on 24th,4.2,3.96,chinese thai seafood north indian momos,1.1
+BIB - Breakfast in the Box,3.8,3.37,american sandwich,600.0
+Angel Restaurant,2.8,1.89,kerala south indian north indian,450.0
+Wow Momo,3.3,2.63,tibetan momos,300.0
+Pizza Da Dhaba,2.9,2.26,fast food pizza,400.0
+Kalpavruksha,3.9,3.52,south indian north indian,300.0
+Juice Land,3.9,3.52,juices beverages,300.0
+Tandoor And Spice,4.0,3.67,north indian chinese biryani hyderabadi,550.0
+Rock Stone Ice Cream Factory,4.0,3.67,ice cream,230.0
+Paratha Plaza,3.8,3.37,north indian,250.0
+Krishna Vijayashree,3.5,2.93,biryani north indian chinese,700.0
+Soup Station,3.6,3.07,continental,250.0
+Tasty Point,3.3,2.63,burger sandwich finger food,300.0
+Natural Mumbai Kulfi,3.5,2.93,ice cream,130.0
+Namma Kudla,3.9,3.52,mangalorean north indian chinese seafood,400.0
+Triveni,3.6,3.07,andhra north indian chinese,600.0
+Wangs Kitchen,3.0,2.19,chinese,1.0
+RK Fresh Food,3.5,2.93,fast food,300.0
+Alif Restaurant,3.6,3.07,north indian chinese,600.0
+Dine One One Restaurant,3.6,3.07,south indian continental north indian,500.0
+Pallavas Veg Cuisine,3.6,3.07,north indian south indian chinese,600.0
+The Food Cottage,3.7,3.22,hyderabadi north indian,350.0
+Brundhavana Pure Veg,3.7,3.22,south indian north indian chinese beverages,500.0
+Spice Up,3.8,3.37,chinese,600.0
+Suryawanshi,3.7,3.62,maharashtrian seafood,700.0
+Tempteys,4.2,3.96,beverages,500.0
+DeliBox.in,3.7,3.22,south indian,150.0
+FRYBIES,3.3,2.63,fast food,350.0
+Crumb Together,4.1,3.81,continental finger food north indian chinese,1.2
+The Foodyz,3.7,3.22,north indian chinese,500.0
+Bean D'er Cafe,3.5,2.93,tamil fast food,250.0
+Chaat Chatore,3.1,2.33,fast food,300.0
+Black Mug Cafe,3.7,3.22,cafe,300.0
+Taste Of Kolkata,3.1,2.33,bengali chinese rolls,400.0
+Y Not Restaurant,3.1,2.33,fast food,300.0
+24/7 Food Service,3.0,2.19,south indian north indian fast food,300.0
+Meat And Eat,3.7,2.63,fast food burger,500.0
+Modern Restaurant,3.0,2.19,north indian chinese,450.0
+Vinaya Coffee Moments,3.7,3.27,burger cafe desserts sandwich italian,450.0
+Burrito Boys,3.0,2.19,mexican texmex,400.0
+Trippy Paradise,2.6,1.59,cafe,900.0
+Biryani Magic,3.5,2.93,north indian biryani,300.0
+Nagarjuna,4.2,3.96,andhra biryani,800.0
+Laddoos,3.4,2.78,north indian street food mithai,250.0
+New Prashanth Hotel,3.1,2.95,south indian biryani chinese north indian,750.0
+Waffle Stories,4.0,3.86,desserts beverages,300.0
+Late Night,3.7,3.22,north indian chinese,500.0
+Kettle & Kegs,3.3,2.53,tea beverages,200.0
+Waffle Walle,4.3,4.19,desserts belgian beverages,500.0
+Dakshin Cafe,4.1,3.52,south indian,100.0
+Shake It Off,4.0,3.86,beverages fast food,600.0
+Bombay Kulfi,3.7,3.27,desserts ice cream,150.0
+Chaat Central,3.3,2.63,street food north indian,300.0
+Two Friends Cauldron,4.1,3.81,continental italian american,700.0
+Bun Town,4.0,3.67,cafe bakery,500.0
+Garden Fresh,3.9,3.52,healthy food juices,200.0
+Dhabeliwala,3.8,3.37,street food beverages gujarati,250.0
+Rayaan's BBQ,3.3,2.63,north indian bbq,350.0
+Chaat Junction,3.7,3.22,street food,200.0
+Asharfilal,3.5,2.93,desserts,150.0
+Street Foods by Punjab Grill,3.6,3.07,street food north indian beverages,800.0
+Tiwari's Ghee Paratha and Chats,3.2,2.48,north indian street food,200.0
+Spurthi Foods,3.7,3.22,andhra,300.0
+Melting Pot at Woodrose,3.7,3.22,north indian,800.0
+Pot Biryani,3.1,2.33,north indian chinese biryani seafood,600.0
+Thanco's Natural Ice Cream,3.6,3.07,ice cream desserts,450.0
+Mango Tree- The Beer Garden,4.1,3.81,north indian chinese continental,1.2
+Dessi Cuppa,3.4,2.78,beverages fast food,300.0
+Halli Mane MUDDE OOTA,3.5,2.93,south indian,300.0
+Wow Vada Pav,3.3,2.63,fast food street food,150.0
+The Jade Kitchen,4.0,3.67,chinese thai,400.0
+Krishna Vaibhava,3.5,2.93,north indian south indian,350.0
+Sandwichwallas,3.6,3.37,fast food,200.0
+Drunken Monkey,4.4,3.85,beverages fast food,400.0
+Woodee Pizza,2.7,2.48,cafe pizza fast food beverages,500.0
+Nandhanus Rasoi,3.4,2.78,chinese rolls north indian,200.0
+Donne Biriyani Mane,3.2,2.48,biryani,350.0
+Fish And Dish,3.6,3.07,mangalorean chinese,350.0
+Miss Momo,3.2,2.48,tibetan momos,250.0
+Funky Punjab,3.9,3.52,north indian chinese,400.0
+Intalia,3.6,3.07,pizza italian,800.0
+Chicken County Restaurant,3.5,2.93,north indian chinese fast food,400.0
+Velvet Kitchen,3.5,2.93,north indian chinese,600.0
+Hotel Aradhana,3.7,3.22,north indian,300.0
+The Chervil,4.2,3.96,north indian continental,1.0
+Sri Rajasthani Foods,3.6,3.0,rajasthani north indian,200.0
+New Royal Treat,2.8,1.89,north indian chinese,350.0
+I Cool,4.0,3.67,juices fast food,150.0
+Mahek Pizza,3.9,3.52,pizza,400.0
+Asha Sweets Centre,3.9,3.16,fast food,250.0
+KC Das- Sweet World,3.3,2.63,mithai street food,200.0
+Stoned Monkey,3.9,3.91,desserts ice cream,500.0
+Panther Cafe,3.5,2.93,beverages,200.0
+Udupi Upachar,3.3,2.63,south indian north indian chinese street food,300.0
+Juicy Momos,3.1,2.73,tibetan momos,250.0
+Roots n Fruits,3.6,3.07,beverages juices healthy food,250.0
+Kaizen Wellness Kitchen,3.7,3.22,asian continental european,800.0
+Big Mishra Pedha,3.3,2.27,mithai desserts fast food,300.0
+Mad Over Donuts,3.1,2.33,bakery desserts beverages,450.0
+Kolkata Famous Kati Rolls,3.1,2.33,fast food rolls,100.0
+Vinaya Cafe,3.7,3.0,south indian street food juices,200.0
+RBP Greens Garden,2.7,1.74,north indian chinese,700.0
+Dazu Momoz,3.1,2.33,tibetan momos,200.0
+Desi Dhaba,3.3,2.63,north indian chinese,400.0
+World of Waffles,3.9,3.52,desserts,400.0
+Pika's Kitchen,3.4,2.78,continental italian,800.0
+Lassi Cafe,3.4,2.78,beverages ice cream,150.0
+New Mogul Empire,3.4,2.78,north indian chinese,300.0
+Atithi Biryani Corner,3.3,2.63,biryani south indian,200.0
+Oottupura Family Restaurant,3.4,2.78,kerala south indian biryani,400.0
+Tisano Cafe,3.8,3.37,cafe fast food chinese continental,500.0
+Yumme Veg,3.6,3.07,fast food street food,200.0
+Shree Guru Raghavendra Chats Chintamani Special,3.6,3.07,street food fast food,200.0
+Vyanjan,3.9,3.52,north indian street food,300.0
+Havmor,3.5,3.19,ice cream desserts,200.0
+Sri Sankara Cafe,3.6,3.07,south indian,100.0
+Bhaijaan Barbeques,3.4,2.78,mughlai arabian bbq,200.0
+Sri Krishna Sagar,3.4,2.6,south indian north indian chinese,300.0
+Chatter Platter,3.5,2.93,street food north indian,300.0
+Bikaneri Sweets,3.4,2.78,mithai street food,250.0
+Watson's,4.0,3.67,finger food chinese continental,1.3
+Sri Nandi Grand,3.4,2.78,north indian south indian,300.0
+Chicken Man,3.8,3.37,roast chicken burger,400.0
+Chef Baker's,3.6,3.07,bakery,450.0
+Sree Ganesha Fruits & Juice,3.4,2.78,juices,100.0
+Goli Vada Pav No. 1,3.2,3.07,street food,200.0
+Nandhana Palace,4.1,3.81,andhra biryani north indian chinese,800.0
+Biryani Nights,3.6,3.07,south indian north indian chinese,400.0
+Thejas Bhavan,3.5,2.93,north indian south indian chinese,400.0
+Graffitea,3.7,3.22,beverages fast food,200.0
+Gappe,3.8,3.37,street food,200.0
+On The Nose,3.8,3.37,cafe italian mexican chinese,600.0
+Juicy & Spicy,3.1,2.33,bakery fast food,150.0
+Eat Repeat Express,3.2,2.48,north indian south indian chinese biryani mexican,700.0
+TFI - The Fresh Ice Cream,3.2,2.48,ice cream beverages,400.0
+Mirch Masala,3.4,2.78,north indian,500.0
+Just Chill,3.4,2.78,beverages,250.0
+Bengalooru Tiffany's,3.0,2.19,south indian north indian chinese street food,400.0
+Udupi Thaja Thindi,2.9,2.04,north indian south indian chinese fast food,250.0
+Baba Ka Dhaba,3.7,3.22,north indian,400.0
+Hot Burg,3.5,2.93,fast food juices,200.0
+Northern Bites,3.3,2.63,north indian chinese,400.0
+Hotel Smile,3.1,2.33,north indian chinese,400.0
+Roll Wala,3.3,2.63,rolls juices,300.0
+Natural Ice Cream,4.3,4.16,ice cream desserts,150.0
+Biriyani Mane,3.7,3.27,biryani chinese north indian,700.0
+F3 Food Fun Fiesta,3.3,2.63,chinese fast food north indian,500.0
+Churchill's,4.1,3.81,north indian continental,1.1
+Kulkarni's New Uttara Karnataka Food Speciality Stores,3.4,2.78,south indian,250.0
+The Hungers Zone,3.8,3.37,fast food italian pizza,300.0
+Brew Point,3.6,3.07,cafe american burger sandwich fast food,500.0
+The Chocolate Room,3.9,3.52,cafe desserts,400.0
+Aramane Restaurant,2.9,2.04,north indian south indian seafood biryani chinese,800.0
+Hunger2Eat,3.8,3.37,biryani fast food north indian,400.0
+BBQ Ride 46,3.4,2.78,bbq,200.0
+Bawarchi Inn,3.1,2.33,north indian biryani andhra chinese,600.0
+Ruh's Cafe,4.1,3.81,cafe american italian continental chinese,500.0
+Eatery Have U Been,3.4,2.78,cafe chinese fast food burger north indian,500.0
+Mojo Pizza - 2X Toppings,4.2,3.91,pizza,600.0
+Upahar Banashree,3.4,2.78,south indian north indian,400.0
+Me And My Cake,3.1,2.33,bakery desserts,500.0
+Bhojon Tripti,2.9,2.04,bengali north indian,300.0
+New South Corner,3.7,3.22,south indian north indian chinese,300.0
+Khana Khazana,3.7,3.22,north indian,400.0
+China Tang,3.7,3.22,chinese,600.0
+California Burrito,4.0,3.67,mexican fast food,400.0
+Tandoor Garden,3.6,3.07,north indian chinese kebab,350.0
+Caffe Pascucci,4.0,3.67,continental italian beverages,1.3
+Freeze It,3.6,2.98,ice cream,300.0
+Meal Square,3.2,2.48,north indian chinese,600.0
+Chaitanya Cafe,3.9,3.52,south indian north indian fast food,300.0
+Anand Sweets and Savouries,4.1,3.44,mithai street food,400.0
+Tasty Jigarthanda,3.4,2.78,beverages ice cream,150.0
+Berrylicious,3.8,3.37,ice cream desserts bakery,400.0
+RCS Kitchen,3.3,2.63,continental,500.0
+Pappu Da Dhaba,3.0,2.19,north indian fast food beverages momos,400.0
+Smoke - The Sizzler House,3.8,3.37,continental chinese thai italian bbq steak,1.1
+Sandwich Shop,2.9,2.04,fast food burger sandwich,400.0
+Joon Restaurant,3.7,3.22,arabian chinese north indian kerala juices,400.0
+Shree Udupi Grand,3.8,3.22,south indian north indian chinese,600.0
+Snack Knack,3.0,2.19,north indian chinese,200.0
+Chung Wah Opus,3.0,2.19,chinese thai,650.0
+Chef & Dine,3.2,2.48,north indian arabian fast food,650.0
+Once In Nature,3.7,3.22,healthy food,300.0
+Manjushree Upahara,3.8,3.37,south indian,150.0
+Hotel Annapoorna,3.2,2.48,south indian chinese north indian seafood,400.0
+Dream a Dozen,4.3,4.11,bakery desserts,300.0
+Bread Crumbs Bakery,4.0,3.67,desserts bakery,250.0
+Nite Out,3.9,3.52,north indian chinese biryani,500.0
+Cupcake Bliss,3.5,2.78,bakery,250.0
+Armaani Caffe,3.5,2.93,fast food,250.0
+Muddhe Bytes,3.4,2.78,south indian biryani,300.0
+Bombay Kulfis,3.5,2.93,ice cream,200.0
+Willys Top Cafe,4.0,3.67,cafe continental asian,750.0
+Mist n Creams,3.7,3.15,ice cream,400.0
+Papacream,3.7,3.22,desserts ice cream,350.0
+Woody's,2.6,1.59,chinese south indian north indian,650.0
+JP Fish Land,3.6,3.07,seafood,300.0
+Pepper Crown Restaurant,3.2,2.48,continental north indian chinese,700.0
+Pizza Paradise,3.6,3.07,pizza,500.0
+The Curry Hut Plus,3.4,2.78,north indian south indian chinese,400.0
+Brews N Bites,2.7,1.89,chinese fast food cafe street food finger food,650.0
+Skytouch Le Cafe,3.7,3.22,cafe italian desserts,700.0
+Malabar Mess,3.7,3.22,kerala,250.0
+Malabar Cafe,3.3,2.63,south indian kerala biryani,400.0
+Tangra Indo - Chinese Cuisine,3.6,3.07,chinese thai,400.0
+Juice Junction,2.9,2.04,juices fast food,150.0
+Mudpipe Cafe,3.9,3.74,cafe continental north indian,800.0
+Xpress Chai,3.3,2.93,tea fast food,150.0
+Vaho Kafe & Pressery,3.9,3.52,cafe healthy food asian italian north indian biryani juices,500.0
+Zhangs Classic,2.6,1.59,italian chinese japanese,600.0
+Guru Greens,3.8,3.37,north indian chinese,550.0
+D View Cafe,4.0,3.67,cafe italian chinese beverages,1.0
+The Cuboidal,3.6,3.07,fast food beverages sandwich,300.0
+Delifusion - Hunger Sorted,3.3,2.63,continental chinese north indian,500.0
+Flavour of China,3.8,3.37,chinese,550.0
+Gujrati Mess,3.6,3.07,gujarati,200.0
+Cake-O-Mania,3.4,2.78,bakery desserts,300.0
+The Park Inn Restaurant,3.0,2.19,north indian chinese,450.0
+The Cravery,2.6,1.59,continental burger beverages cafe italian rolls,500.0
+Eagle Ridge,3.2,2.48,south indian north indian chinese,700.0
+Vidya Cafe,3.2,2.48,burger fast food desserts sandwich,300.0
+Kabab Treat,2.8,1.89,north indian chinese,500.0
+Limra Hotel,3.3,2.63,chinese north indian,300.0
+Cafe Arabica,3.8,3.37,cafe bakery,700.0
+Smoor,3.6,3.07,desserts cafe beverages,900.0
+Kafe Nook,3.6,3.07,fast food,300.0
+Kumbha Bhojanam,3.6,3.07,andhra,300.0
+Yummerica Fries,3.3,2.63,fast food beverages,300.0
+Frozen Bottle,3.6,3.59,beverages desserts ice cream,400.0
+Casa Piccosa,4.1,3.81,south american continental italian,1.1
+Rolls On Wheels,3.4,2.88,fast food rolls momos,300.0
+Bake Addiction,4.0,3.67,bakery desserts,500.0
+Tongue Twisters,3.5,2.93,bengali north indian oriya,350.0
+Hot Rolls & House Of Kebabs,3.1,2.33,rolls kebab biryani,200.0
+Aami Kolkata,3.3,2.63,bengali,600.0
+Vaathsalya Millet Cafe,4.1,3.81,healthy food south indian,500.0
+Chaatimes,4.1,3.39,street food fast food,250.0
+Hungry Buddies,3.3,2.63,north indian,150.0
+The Chaat Shop,3.2,1.7,street food,100.0
+TheRiceBowl.In,3.4,2.78,biryani north indian,200.0
+Guru Garden,2.9,2.04,north indian chinese,450.0
+Cakes By M,3.4,2.78,bakery,500.0
+Brewz Coffee,3.0,2.19,cafe,650.0
+Fritz Haber,3.4,2.78,ice cream desserts,450.0
+Athithi,2.8,1.89,andhra biryani chinese north indian,650.0
+Shee-Sha Cafe,3.6,3.07,cafe north indian chinese continental,800.0
+Melt - Eden Park,4.0,3.67,north indian chinese thai mughlai seafood,1.0
+Roll N Rock,3.7,3.3,chinese north indian mughlai rolls,400.0
+Smooth Blender,3.4,2.78,beverages,300.0
+Sri Bhagya Grand,3.4,2.78,south indian north indian chinese street food beverages,450.0
+Shree Guru Juice 'N' Ice,3.3,2.63,fast food chinese beverages,250.0
+Bhavya Military Hotel,3.5,2.93,south indian,300.0
+Neals Cafe,3.1,2.33,north indian chinese,550.0
+Flavorsome Bakes,4.0,3.67,bakery desserts,800.0
+Bake-ooh,3.7,3.22,bakery,350.0
+The Yummy Tummy,3.5,2.93,north indian street food,200.0
+Mast Kalandar,2.4,1.22,north indian,450.0
+Sultan's Biryani,3.0,2.19,biryani north indian,700.0
+Halli Sogasu,3.0,2.19,south indian andhra,600.0
+Crepe Nation,3.8,3.37,fast food desserts,300.0
+RICE BAR,3.1,2.33,north indian biryani,500.0
+Kanika Biryani Paradise,3.4,2.78,north indian andhra biryani,700.0
+Resto,3.7,3.22,chinese north indian fast food momos,350.0
+New Tandoori Point,3.3,2.63,north indian chinese,600.0
+Shiv Sagar,2.9,2.66,south indian street food,250.0
+Little Shangai,3.3,2.63,chinese north indian fast food,400.0
+Nadella's Kitchen,3.3,2.56,north indian biryani,300.0
+Uncle's Kitchen,2.8,1.89,north indian chinese fast food,450.0
+Coastal Inn,3.4,2.78,chinese north indian seafood,800.0
+Mom's Momos,3.3,2.83,chinese,300.0
+Aishwarya Parkland,2.9,2.04,chinese north indian,500.0
+Slice of Spice,3.1,2.33,north indian chinese,400.0
+Bao and Rolls,3.6,3.07,rolls kebab fast food,250.0
+Andhra Bhojanam,3.6,3.07,north indian south indian andhra,600.0
+Kanchan Dhaba,3.2,2.48,north indian chinese,350.0
+Encyclofoodia,3.9,3.52,kerala north indian,350.0
+Bella?s Kitchen,2.9,2.04,chinese seafood north indian,600.0
+Food Feast Multicusine Restaurant,3.3,2.63,north indian chinese hyderabadi,600.0
+Bangalir Rannaghar,2.9,2.04,bengali north indian chinese,250.0
+Sai Samosa & Chat Corner,3.3,2.63,fast food street food,200.0
+Lalchee's Rasoi,3.6,3.07,north indian chinese,500.0
+Kailash Parbat,2.7,2.7,north indian street food,300.0
+Dream's Kitchen,3.1,2.33,north indian andhra chinese,700.0
+Tandoor Hut,2.2,1.0,north indian chinese,750.0
+The Chocolatiers,3.5,2.93,desserts,150.0
+Ballava,3.3,2.63,north indian south indian,400.0
+Zaika Take Away,2.4,1.3,north indian chinese thai,500.0
+Snackiey,3.5,2.93,north indian,250.0
+Sandwich Mamas,3.2,2.48,fast food,300.0
+The Shake Factory Originals,3.3,2.63,beverages fast food,200.0
+Foodiction,2.9,1.96,north indian fast food chinese burger,500.0
+Hotel Lakshmi Paradise,3.3,2.63,north indian mughlai,400.0
+Desi Bites,3.3,2.63,street food,200.0
+Shiv Sai,3.2,2.48,north indian,400.0
+D2V Cafe,3.6,3.07,cafe,700.0
+The Juicy,3.5,2.93,beverages juices,100.0
+Feast and Burp,3.3,2.63,north indian,300.0
+Zengi Pub & Restaurant,3.7,3.22,finger food continental chinese,900.0
+Cafe Indiana,3.5,2.93,fast food desserts,600.0
+Cafe Choco Craze,3.7,3.22,cafe fast food desserts,400.0
+Multi Cakes,3.0,2.19,bakery desserts,200.0
+Bhukkad,3.1,2.33,healthy food fast food,250.0
+Malhar Maharashtrian Cuisine,4.0,3.67,maharashtrian,500.0
+Mandi,3.8,3.37,north indian,800.0
+Pallavi North Indian Veg Restaurant,3.7,3.22,biryani north indian chinese,450.0
+Restro Cafe,3.8,3.37,cafe,400.0
+Idly Pidly,3.2,2.48,south indian,250.0
+Vasudev Adiga's,2.3,1.89,south indian north indian chinese street food juices,250.0
+TGI Fridays,3.9,3.52,american burger italian steak,1.7
+Just Bake,2.6,2.48,bakery desserts,400.0
+Earth Plate Express,3.9,3.52,italian continental,600.0
+Gharelu Zaika,3.7,3.22,north indian,250.0
+Apsara Ice Cream,4.0,3.72,ice cream desserts,200.0
+Jiyo Natural,3.6,3.07,healthy food north indian,300.0
+Zyksha,3.4,2.78,fast food,200.0
+Biryani Times,3.5,2.93,biryani,300.0
+Targaryen's Kitchen,3.6,3.07,chinese north indian mughlai,600.0
+Sakshi,3.0,2.19,north indian biryani chinese seafood,550.0
+MK Dabbawala,3.0,2.19,north indian,400.0
+Desi Vibes,3.7,3.22,north indian,400.0
+The French Loaf,2.9,2.04,bakery desserts sandwich,400.0
+Kulfi & More,3.7,2.93,ice cream desserts juices,150.0
+Dal Roti,3.7,3.22,north indian,150.0
+Deja Vu Resto Bar,4.4,4.26,north indian italian,900.0
+Jhasaa,3.2,2.48,seafood salad north indian biryani chinese,500.0
+Status,3.2,2.48,north indian chinese,600.0
+Juice Fresco & Pizza,3.4,2.78,beverages pizza,300.0
+BMR Hyderabad Biryani,3.6,3.07,biryani,400.0
+Dakshin Food Palace,3.7,3.22,south indian north indian chinese,450.0
+Darjeeling Momo Adda,3.1,2.33,chinese tibetan north indian momos,200.0
+Bottle Breacher,4.1,3.81,italian continental,1.2
+Special Biriyani,2.9,2.04,north indian biryani,300.0
+Sattvam,4.3,4.11,north indian south indian,1.2
+The Tucck Box,3.4,2.78,chinese south indian,300.0
+Swad Plaza,3.4,2.78,north indian chinese,400.0
+Sweet Chariot,2.8,1.89,bakery desserts fast food,500.0
+Kesariya,4.2,3.96,rajasthani,1.2
+Swad Restaurant,3.7,3.22,chinese north indian,550.0
+Checkpost,4.1,3.81,south indian seafood rolls beverages,400.0
+Mango Greens,3.9,3.52,north indian continental chinese,900.0
+Nandhini Paradise,3.8,3.37,north indian,600.0
+New Kabab Plaza,3.7,3.22,north indian chinese,500.0
+Coastal Mama,4.1,3.81,konkan mangalorean north indian seafood,700.0
+Waah Biryani,3.8,3.37,north indian chinese biryani,350.0
+Rara Avis,3.9,3.52,kerala seafood biryani desserts,400.0
+Chillz,3.5,2.93,fast food juices street food,100.0
+Sri Lakshmi Curries & Pickles,2.9,2.04,andhra biryani,400.0
+Baskin Robbins,3.9,3.22,ice cream,250.0
+Royal Chef Naati Oota,4.0,3.67,south indian biryani north indian,500.0
+Cafe Hops,3.7,3.22,desserts bakery,300.0
+Flow - Terrace Bar & Grill,3.8,3.37,pizza continental north indian chinese,1.0
+Ningi Family Restaurant,3.5,2.93,south indian biryani chinese,400.0
+Advika Briyani Center,3.4,2.78,biryani,300.0
+Sai Jagannath Food and Chats Point,3.8,3.37,south indian chinese,300.0
+Joey's,3.7,3.22,chinese fast food,300.0
+Sree Krishna Kafe,3.9,3.52,south indian,200.0
+Dilish Kitchens,3.7,3.22,north indian chinese,500.0
+Daily Bread,3.2,2.48,bakery fast food italian,600.0
+Shanmukha,3.1,3.0,biryani seafood chinese charcoal chicken,400.0
+Jaganath Restaurant And Hotel,3.2,2.48,north indian,300.0
+Thayee Touch,3.6,3.07,north indian chinese south indian,450.0
+Eten,3.8,3.37,salad healthy food,600.0
+Owl's Kitchen,3.1,2.33,north indian chinese,500.0
+Kakal Kai Ruchi,3.9,3.52,south indian north indian chinese,450.0
+Hearts Unlock Cafe,3.2,2.48,cafe healthy food,500.0
+Blue Berry Restaurant,2.9,2.53,north indian kerala chinese,600.0
+Deccan Spice,3.5,2.93,north indian south indian biryani,750.0
+Desi Wok,2.7,1.74,north indian chinese,500.0
+Namana Garden,2.6,1.59,north indian south indian chinese street food,400.0
+Day N Night Kitchen,3.2,2.48,biryani chinese north indian,450.0
+Andhra Grills,3.0,2.19,andhra north indian biryani,800.0
+Appam Centre,3.2,2.48,kerala,200.0
+Sea Horse,3.4,2.78,south indian chinese,400.0
+Sang Grail,3.6,3.07,healthy food,300.0
+Petoo,3.7,3.39,north indian fast food street food,800.0
+Night Panda,2.9,2.04,fast food north indian chinese,500.0
+E2 - EntrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©e Envoy,3.5,2.93,chinese north indian biryani,550.0
+Aha Juice Bar,3.6,3.07,beverages fast food,200.0
+Tandoori Spot,3.5,2.93,north indian chinese,500.0
+Night Hunger,3.1,2.33,north indian,350.0
+Chicken Dera,3.0,2.19,mughlai kebab biryani,400.0
+Cocoa 'n' CrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨me,3.5,2.93,bakery desserts,250.0
+Thirsty Tiger,3.5,2.93,continental finger food,1.3
+Bay Root,3.7,3.22,north indian arabian,400.0
+BTM Cakes,3.3,2.63,bakery desserts,400.0
+Spicy World,3.4,2.78,north indian,200.0
+Shiv Sagar,3.6,2.66,south indian beverages,400.0
+Kamat Swaad,3.9,3.52,south indian north indian chinese,400.0
+Ishta Cafe,3.9,3.52,pizza south indian healthy food,200.0
+Combo Studio,3.1,2.33,north indian biryani chinese,500.0
+Tastte!!,3.7,3.22,biryani north indian chinese,450.0
+Kanhaiyas,3.6,3.07,south indian,150.0
+Juice Lounge,3.1,2.33,beverages healthy food,250.0
+Tandoor Nation,3.0,2.19,north indian chinese,400.0
+Indian Kitchen Eateries-IKE,3.4,2.78,fast food,150.0
+The Little Kitchen,3.4,2.78,chinese north indian,300.0
+Diya's Findish,3.3,2.63,north indian chinese bengali,500.0
+Laa Raiba Restaurant,3.3,2.63,kerala chinese south indian,300.0
+Bhavani Upahara,3.3,2.63,south indian,250.0
+Sampoorna,3.6,3.07,chinese north indian,600.0
+Cafe Mist,3.8,3.37,cafe american continental italian,500.0
+Fat Chef Biryani Wale,3.3,2.63,biryani north indian,400.0
+Kesar Restaurant,3.6,3.07,north indian chinese south indian,200.0
+Chawla's 2 Online.com,3.5,2.93,north indian,800.0
+Namma Halli Jonne Biryani,3.3,2.63,biryani,300.0
+The Biriyani Factory,3.1,2.33,north indian biryani,500.0
+Insta Cafe,2.9,2.04,cafe continental pizza italian beverages,400.0
+Natural Ice Cream,4.3,4.16,ice cream desserts,150.0
+Amma's Pastries,4.0,3.41,bakery,400.0
+Anand Sweets and Savouries,4.1,3.44,mithai street food,400.0
+Bread Crumbs Bakery,4.0,3.67,desserts bakery,250.0
+Butterly,3.9,3.52,cafe bakery beverages,450.0
+Cakes By M,3.4,2.78,bakery,500.0
+Cakebuy,3.9,3.52,desserts,350.0
+Polar Bear,3.9,3.47,ice cream desserts beverages sandwich,400.0
+World on a Swirl,3.8,3.37,ice cream desserts rolls,300.0
+Waffle Walle,4.4,4.19,desserts belgian beverages,500.0
+WAFL,3.9,3.52,cafe fast food desserts beverages,400.0
+Cold Stone Creamery,3.9,3.52,ice cream desserts,400.0
+Flavorsome Bakes,4.0,3.67,bakery desserts,800.0
+Bake-ooh,3.7,3.22,bakery,350.0
+Cafe Arabica,3.8,3.37,cafe bakery,700.0
+Krispy Kreme,3.7,3.44,desserts beverages,300.0
+Smoor,3.6,3.07,desserts cafe beverages,900.0
+Kanti Sweets,3.5,3.54,mithai street food,400.0
+Keventers,3.8,3.3,desserts beverages ice cream,400.0
+Baskin Robbins,3.6,3.22,ice cream desserts,250.0
+Lassi Shop,3.7,3.26,beverages ice cream,200.0
+L J Iyengar Bakery,3.2,2.48,bakery,100.0
+Ice Bowl,3.4,2.78,desserts beverages,250.0
+Just Bake,3.2,2.48,bakery desserts,400.0
+Big Mishra Pedha,3.3,2.27,mithai desserts fast food,300.0
+Sweet Chariot,2.8,1.89,bakery desserts fast food,500.0
+The French Loaf,2.9,2.04,bakery desserts sandwich,400.0
+Bikaneri Sweets,3.4,2.78,mithai street food,250.0
+Sweet Truth,4.1,3.52,bakery desserts,500.0
+K.C Das,3.4,2.78,mithai street food,200.0
+TFI - The Fresh Ice Cream,3.2,2.48,ice cream beverages,400.0
+Mad Over Donuts,3.1,2.33,bakery desserts beverages,450.0
+Antilla Aromas,3.7,3.22,desserts ice cream,300.0
+Chef Baker's,3.6,3.07,bakery,450.0
+Mist n Creams,3.6,3.15,ice cream,400.0
+Mr Gola,3.4,2.78,desserts,100.0
+Cake-O-Mania,3.4,2.78,bakery desserts,300.0
+The Chocolatiers,3.5,2.93,desserts,150.0
+Cafe Indiana,3.5,2.93,fast food desserts,600.0
+Frosty Creams,3.7,3.22,ice cream desserts,300.0
+Cafe Choco Craze,3.7,3.22,cafe fast food desserts,400.0
+Squeez Juice Bars,3.1,2.33,ice cream juices,250.0
+Kulfi Adda,3.4,2.78,ice cream desserts,150.0
+The Sandesh Factory,3.2,2.48,mithai desserts,150.0
+Cafe Coffee Day,3.7,2.7,cafe fast food,900.0
+Multi Cakes,3.0,2.19,bakery desserts,200.0
+Asharfilal,3.5,2.93,desserts,150.0
+Apsara Ice Cream,4.0,3.72,ice cream desserts,200.0
+Two Friends Cauldron,4.1,3.81,continental italian american,700.0
+Slate Cafe,4.1,3.81,cafe sandwich burger,600.0
+Mango Greens,3.9,3.52,north indian continental chinese,900.0
+Dream a Dozen,4.3,4.11,bakery desserts,300.0
+Roll Over,4.1,3.81,desserts ice cream beverages fast food sandwich,500.0
+Stoned Monkey,3.9,3.91,desserts ice cream,500.0
+TAB - Take A Break,4.1,3.81,cafe continental italian,550.0
+Amma's Pastries,3.6,3.41,desserts,400.0
+Cakes And Crumbs,3.4,2.78,bakery,350.0
+Cafe Hops,3.7,3.22,desserts bakery,300.0
+Cream Stone,4.0,3.67,desserts beverages,500.0
+Berrylicious,3.8,3.37,ice cream desserts bakery,400.0
+Daily Bread,3.2,2.48,bakery fast food italian,600.0
+CakeZone,3.7,3.22,bakery desserts,200.0
+Papacream,3.7,3.22,desserts ice cream,350.0
+Venkateshwara Sweets and Restaurant,3.6,3.07,south indian mithai chinese north indian,400.0
+Calvin's,2.9,2.04,desserts italian pizza,800.0
+Mr. Meetharam,3.2,2.48,mithai street food,150.0
+Mini Forest,3.3,2.63,fast food desserts,500.0
+Kulfi & More,3.3,2.93,ice cream desserts juices,150.0
+The Cake Ville,3.2,2.48,bakery desserts fast food,300.0
+Delhi Sweets,3.1,2.33,street food mithai,100.0
+Frozen Bottle,3.6,3.59,beverages desserts ice cream,400.0
+Bombay Kulfi,3.7,3.27,desserts ice cream,150.0
+Havmor,3.5,3.19,ice cream desserts,200.0
+Cocoa 'n' CrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨me,3.5,2.93,bakery desserts,250.0
+eat.fit,4.5,4.41,healthy food north indian biryani continental sandwich desserts,500.0
+Warm Oven,3.9,3.47,bakery desserts,500.0
+BTM Cakes,3.3,2.63,bakery desserts,400.0
+Whisk' N Creme',3.5,2.93,bakery,300.0
+Hyderabad Biryaani House,3.6,3.12,biryani north indian chinese,550.0
+Seasons,3.8,3.37,north indian south indian chinese seafood kerala arabian juices,1.0
+Simply Indian,3.9,3.52,north indian chinese seafood biryani mangalorean,800.0
+Dande's Hyderabad Biryani,3.8,3.37,biryani andhra north indian,700.0
+Chung Wah,4.0,3.47,chinese thai momos vietnamese,800.0
+Tisano Cafe,3.8,3.37,cafe fast food chinese continental,500.0
+Pika's Kitchen,3.4,2.78,continental italian,800.0
+Nellore Ruchulu,3.7,3.22,north indian south indian chinese,800.0
+Shanghai Court,4.2,3.96,chinese thai,700.0
+Chicken County Grand,3.9,3.52,north indian chinese,650.0
+Punjabi Times,4.1,3.81,north indian,1.0
+Elegant Dining,3.6,3.07,biryani north indian chinese,700.0
+Cafe Kabana,4.0,3.67,cafe continental,700.0
+Dadi's Dum Biryani,4.0,3.72,biryani north indian mughlai,800.0
+Veruthe Oru Thattukada,3.8,3.3,kerala south indian,400.0
+Butterly,3.9,3.52,cafe bakery beverages,450.0
+Kundana,3.7,3.22,andhra biryani,800.0
+Black Mug Cafe,3.7,3.22,cafe,300.0
+#refuel,3.7,3.22,cafe beverages,400.0
+Malabar Mess,3.7,3.22,kerala,250.0
+Krishna Vijayashree,3.5,2.93,biryani north indian chinese,700.0
+Pallavas Veg Cuisine,3.6,3.07,north indian south indian chinese,600.0
+Guru Palace,3.1,2.33,chinese north indian,450.0
+Suryawanshi,3.7,3.62,maharashtrian seafood,700.0
+Savoury - Sea Shell Restaurant,3.9,3.52,arabian north indian chinese seafood biryani rolls beverages,900.0
+Tulips,3.1,2.33,north indian south indian chinese continental,800.0
+Vaho Kafe & Pressery,3.9,3.52,cafe healthy food asian italian north indian biryani juices,500.0
+Kabab Treat,2.8,1.89,north indian chinese,500.0
+Dreamcatcher,3.9,3.52,cafe,600.0
+Chef & Dine,3.2,2.48,north indian arabian fast food,650.0
+Guru Greens,3.8,3.37,north indian chinese,550.0
+A2B - Adyar Ananda Bhavan,2.7,3.07,south indian north indian chinese street food,400.0
+Malhar Maharashtrian Cuisine,4.0,3.67,maharashtrian,500.0
+Hyderabadi Bawarchi,3.2,2.48,north indian chinese biryani,500.0
+Eagle Ridge,3.2,2.48,south indian north indian chinese,700.0
+Beijing Bites,2.7,2.23,chinese thai,850.0
+Cafe Coffee Day,3.6,2.7,cafe fast food,900.0
+Sri Bhagya Grand,3.4,2.78,south indian north indian chinese street food beverages,450.0
+Cafe Arabica,3.8,3.37,cafe bakery,700.0
+Upahar Banashree,3.4,2.78,south indian north indian,400.0
+Starbucks,3.9,3.67,cafe desserts,700.0
+Sakshi,3.0,2.19,north indian biryani chinese seafood,550.0
+Kabab Magic,3.7,3.44,north indian kebab chinese fast food,400.0
+Triveni,3.6,3.07,andhra north indian chinese,600.0
+Drunken Monkey,4.4,3.85,beverages fast food,400.0
+Marwa Restaurant,3.5,2.93,north indian chinese fast food bbq,600.0
+Chow San,3.0,2.19,chinese thai momos,500.0
+Thalassery Food Court,3.1,2.33,kerala north indian chinese,500.0
+Chicken County Restaurant,3.5,2.93,north indian chinese fast food,400.0
+Guru Garden,2.9,2.04,north indian chinese,450.0
+Guru Paradise,2.9,2.04,chinese south indian north indian,1.0
+Status,3.2,2.48,north indian chinese,600.0
+Athithi,2.8,1.89,andhra biryani chinese north indian,650.0
+Shee-Sha Cafe,3.6,3.07,cafe north indian chinese continental,800.0
+Diletto,3.5,2.93,north indian chinese,800.0
+Terrace Lounge,3.6,3.07,north indian chinese seafood,1.6
+Utsav Restaurant,3.6,3.31,north indian chinese italian south indian,1.0
+Halli Sogasu,3.0,2.19,south indian andhra,600.0
+D2V Cafe,3.6,3.07,cafe,700.0
+Northern Bites,3.3,2.63,north indian chinese,400.0
+Bhaijaan Barbeques,3.4,2.78,mughlai arabian bbq,200.0
+Pepper Crown Restaurant,3.2,2.48,continental north indian chinese,700.0
+Zhangs Classic,2.6,1.59,italian chinese japanese,600.0
+Kanika Biryani Paradise,3.4,2.78,north indian andhra biryani,700.0
+Fresh Lemon Soda,3.1,2.33,beverages street food,150.0
+Coastal Inn,3.4,2.78,chinese north indian seafood,800.0
+Aishwarya Parkland,2.9,2.04,chinese north indian,500.0
+Andhra Bhojanam,3.6,3.07,north indian south indian andhra,600.0
+Donne Biriyani Mane,3.2,2.48,biryani,300.0
+Bella?s Kitchen,2.9,2.04,chinese seafood north indian,600.0
+Lalchee's Rasoi,3.6,3.07,north indian chinese,500.0
+Aramane Restaurant,2.9,2.04,north indian south indian seafood biryani chinese,800.0
+Dream's Kitchen,3.1,2.33,north indian andhra chinese,700.0
+Tandoor Hut,2.2,1.0,north indian chinese,750.0
+Cafe Talk,3.3,2.63,cafe continental north indian bakery desserts,700.0
+Zaika Take Away,2.4,1.3,north indian chinese thai,500.0
+Cafe Choco Craze,3.7,3.22,cafe fast food desserts,400.0
+A M Biryani Hotel,3.3,2.63,north indian chinese biryani fast food,300.0
+Combo Studio,3.1,2.33,north indian biryani chinese,500.0
+The Curry Hut Plus,3.4,2.78,north indian south indian chinese,400.0
+Chai Point,3.6,2.96,tea beverages fast food,250.0
+Velvet Kitchen,3.5,2.93,north indian chinese,600.0
+Dine One One Restaurant,3.6,3.07,south indian continental north indian,500.0
+Upahara Bhavan,3.8,3.37,south indian north indian chinese,300.0
+Wangs Kitchen,3.0,2.19,chinese,1.0
+Vasudev Adiga's,2.3,1.89,south indian north indian chinese street food juices,250.0
+Fresh Kitchen,3.4,2.78,north indian chinese,600.0
+Ambara Gardenia,3.8,3.37,andhra north indian chinese seafood,800.0
+Krishna Kuteera,4.0,3.67,south indian north indian chinese,400.0
+Madeena Hotel,3.9,3.52,north indian mughlai biryani,400.0
+California Burrito,4.0,3.67,mexican fast food,400.0
+Biryani Nights,3.6,3.07,south indian north indian chinese,400.0
+McDonald's,4.0,3.42,burger fast food,500.0
+Kanteen The Eatery,3.9,3.52,north indian,400.0
+Punjabi Nawabi,3.8,3.37,north indian,400.0
+New Kabab Zone,3.5,3.0,north indian chinese biryani rolls,500.0
+Taco Bell,3.7,3.22,mexican american fast food,600.0
+Purani Dilli By Anand Sweets,4.1,3.81,north indian continental street food,500.0
+SGS Non Veg - Gundu Pulav,3.9,3.43,biryani south indian,300.0
+Shetty's Kitchen,3.7,3.22,mangalorean,600.0
+Domino's Pizza,3.7,3.18,pizza fast food,800.0
+Polar Bear,3.9,3.47,ice cream desserts beverages sandwich,400.0
+Cravings,3.7,3.22,north indian chinese rolls,400.0
+Manjushree Upahara,3.8,3.37,south indian,150.0
+Box Magic,3.6,3.07,north indian south indian seafood rolls,400.0
+Burger King,3.8,3.03,burger fast food beverages,600.0
+Babu Moshai,3.0,2.19,fast food bengali,500.0
+KFC,3.8,3.26,burger fast food,400.0
+Ingu Tengu,3.9,3.52,south indian,150.0
+World on a Swirl,3.8,3.37,ice cream desserts rolls,300.0
+Soup Station,3.6,3.07,continental,250.0
+Green Onion,3.3,2.63,chinese,400.0
+Malabar Cafe,3.3,2.63,south indian kerala biryani,400.0
+Punjabi Corner,3.9,3.52,north indian chinese,250.0
+Chaitanya Grand,3.6,3.07,south indian north indian chinese,300.0
+Sagar Grand,3.8,3.37,south indian north indian chinese,300.0
+Burj Hotel,3.4,2.85,north indian chinese,350.0
+Five Star Chicken,3.5,2.94,fast food beverages,250.0
+Thejas Bhavan,3.5,2.93,north indian south indian chinese,400.0
+Cravy Wings,4.2,3.96,american burger fast food,400.0
+Kailash Parbat,3.1,2.7,north indian street food,600.0
+Garma Garam,3.2,2.48,north indian chinese biryani rolls,350.0
+Oottupura Family Restaurant,3.4,2.78,kerala south indian biryani,400.0
+Darjeeling Momos & Fast Food Center,3.8,3.37,fast food momos,250.0
+The Park Inn Restaurant,3.0,2.19,north indian chinese,450.0
+Five Star Chicken,3.2,2.94,fast food burger,250.0
+Pot Biryani,3.1,2.33,north indian chinese biryani seafood,600.0
+Subway,3.2,3.03,salad fast food,600.0
+Charlee's Chicken,3.2,2.48,rolls chinese fast food,300.0
+FRYBIES,3.3,2.63,fast food,350.0
+Kuttanad,3.6,3.07,kerala south indian,200.0
+Shuddh Desi Khana,4.0,3.67,north indian,400.0
+More Pizza,3.5,3.15,italian,500.0
+Hunger Bee,3.8,3.37,biryani north indian south indian,500.0
+Spar Refresh,3.4,2.78,north indian south indian pizza,300.0
+Vishal Foods,3.3,2.63,chinese north indian street food,250.0
+Marhaba,3.5,2.93,arabian mediterranean north indian,500.0
+Smoor,3.6,3.07,desserts cafe beverages,900.0
+Kumbha Bhojanam,3.6,3.07,andhra,300.0
+Manjushree Veg,3.5,2.93,south indian chinese,150.0
+Kalpavruksha,3.9,3.52,south indian north indian,300.0
+Mom's Momos,3.7,2.83,chinese,100.0
+Rolls On Wheels,3.4,2.88,fast food rolls momos,300.0
+Just Shawarma,3.6,3.43,arabian,300.0
+Faasos,3.9,3.65,north indian biryani fast food,500.0
+Sai Shiv Sagar,2.8,1.89,south indian north indian,300.0
+Tiwari's,3.9,3.42,north indian street food,200.0
+Namma Halli Jonne Biryani,3.3,2.63,biryani,300.0
+Shree Guru Raghavendra Chats Chintamani Special,3.6,3.07,street food fast food,200.0
+Hot Burg,3.5,2.93,fast food juices,200.0
+Idly Pidly,3.2,2.48,south indian,250.0
+Pizza Hut,2.4,2.42,pizza,750.0
+Burrito Boys,3.0,2.19,mexican texmex,400.0
+Bangaliana,2.9,2.43,bengali,600.0
+Ishta Cafe,3.9,3.52,pizza south indian healthy food,200.0
+Brews N Bites,2.7,1.89,chinese fast food cafe street food finger food,650.0
+Arabian Mexico,3.4,2.78,fast food arabian,400.0
+Mother's Rasoi,3.8,3.37,north indian chinese momos,250.0
+Bhavya Military Hotel,3.5,2.93,south indian,300.0
+Neals Cafe,3.1,2.33,north indian chinese,550.0
+Smoke - The Sizzler House,3.8,3.37,continental chinese thai italian bbq steak,1.1
+Shree Krishna Sannidhi,3.4,2.78,north indian chinese,450.0
+New Royal Treat,2.8,1.89,north indian chinese,350.0
+Pathaan Sir,3.2,2.83,fast food rolls momos,250.0
+The Yummy Tummy,3.5,2.93,north indian street food,200.0
+Thrupthi Restaurant,3.4,2.78,kerala,150.0
+Panchami Garden,3.5,2.93,south indian north indian,400.0
+Santrupti Sagar,2.9,2.04,south indian fast food north indian,300.0
+Bhojon Tripti,2.9,2.04,bengali north indian,300.0
+Darjeeling Momo Adda,3.1,2.33,chinese tibetan north indian momos,200.0
+Muddhe Bytes,3.4,2.78,south indian biryani,300.0
+Pizza Da Dhaba,3.2,2.26,fast food pizza,400.0
+Resto,3.7,3.22,chinese north indian fast food momos,350.0
+SLV Kabab Centre,3.2,2.48,biryani fast food,100.0
+New Tandoori Point,3.3,2.63,north indian chinese,600.0
+Shiv Sagar,2.9,2.66,south indian street food,250.0
+Little Shangai,3.3,2.63,chinese north indian fast food,400.0
+Nadella's Kitchen,3.2,2.56,north indian biryani,300.0
+Uncle's Kitchen,2.8,1.89,north indian chinese fast food,450.0
+Wow Vada Pav,3.3,2.63,fast food street food,150.0
+Juicy Hut,3.2,2.48,juices fast food,200.0
+Mom's Momos,3.3,2.83,chinese,300.0
+Slice of Spice,3.1,2.33,north indian chinese,400.0
+Bao and Rolls,3.6,3.07,rolls kebab fast food,250.0
+Loca Moca - The Indian Grub,3.4,2.78,north indian biryani,600.0
+Shanghai Times,3.2,2.48,chinese asian,450.0
+Kanchan Dhaba,3.2,2.48,north indian chinese,350.0
+Encyclofoodia,3.9,3.52,kerala north indian,350.0
+Food Feast Multicusine Restaurant,3.3,2.63,north indian chinese hyderabadi,600.0
+Bangalir Rannaghar,2.9,2.04,bengali north indian chinese,250.0
+Cane Recipes,3.5,2.93,juices,100.0
+Food Memories,3.3,2.63,fast food,200.0
+Kanhaiyas,3.6,3.07,south indian,150.0
+Hotel Annapoorna,3.2,2.48,south indian chinese north indian seafood,400.0
+Hotel Aradhana,3.7,3.22,north indian,300.0
+Nammura Donne Biriyani,3.2,2.83,biryani,300.0
+Chaat Central,3.3,2.63,street food north indian,300.0
+Chaat Chatore,3.1,2.33,fast food,300.0
+Cafe Indiana,3.5,2.93,fast food desserts,600.0
+Snackiey,3.5,2.93,north indian,250.0
+Naga's,2.7,1.74,hyderabadi andhra north indian,500.0
+Suchi Ruchi Veg & Non Veg Resturant,3.2,2.48,south indian north indian,400.0
+Foodiction,2.9,1.96,north indian fast food chinese burger,500.0
+Hotel Lakshmi Paradise,3.3,2.63,north indian mughlai,400.0
+Shiv Sagar,3.6,2.66,south indian beverages,400.0
+Desi Bites,3.3,2.63,street food,200.0
+Shiv Sai,3.2,2.48,north indian,400.0
+Ammachide Addukala,3.5,2.93,kerala,300.0
+Chefeana,4.0,3.67,north indian,400.0
+Ande Ka Funda,3.2,3.07,north indian fast food rolls,250.0
+Hind Ka Chulah,3.8,3.37,north indian biryani,600.0
+Street Foods by Punjab Grill,3.6,3.07,street food north indian beverages,800.0
+Paratha Junction,2.4,1.94,north indian chinese,300.0
+Angel Restaurant,2.8,1.89,kerala south indian north indian,450.0
+Bhukkad,3.1,2.33,healthy food fast food,250.0
+Laa Raiba Restaurant,3.3,2.63,kerala chinese south indian,300.0
+Shiv Sai Hotel,3.5,2.93,north indian,400.0
+Red Chilli Restaurant,3.2,2.48,north indian chinese,350.0
+Chaatimes,3.4,3.39,street food fast food,200.0
+Parisar Veg Restaurant,3.6,3.07,chinese north indian south indian,400.0
+Hotel Khaaja,3.1,2.33,biryani fast food,250.0
+Intalia,3.6,3.07,pizza italian,800.0
+Juicy Momos,3.1,2.73,tibetan momos,250.0
+Nellore Bhojanam,3.1,2.33,andhra,250.0
+Shiv Sagar,3.6,2.66,south indian beverages,400.0
+Hakuna Matata,4.5,4.41,north indian asian seafood chinese,1.2
+Barbeque Nation,4.7,4.7,north indian european mediterranean bbq kebab,1.6
+Sattvam,4.3,4.11,north indian south indian,1.2
+Brewsky,4.4,4.26,continental american,1.6
+Three Dots & A Dash,4.3,4.11,european continental,1.5
+Hunger Camp,4.6,4.56,north indian south indian chinese seafood,1.3
+Kesariya,4.2,3.96,rajasthani,1.2
+24th Main,4.1,3.81,north indian south indian chinese,800.0
+55 Wall Street,3.9,3.52,finger food north indian chinese,1.3
+Zaitoon,4.1,3.81,bbq arabian chinese north indian desserts,1.0
+Checkpost,4.1,3.81,south indian seafood rolls beverages,400.0
+Crumb Together,4.1,3.81,continental finger food north indian chinese,1.2
+Mani's Dum Biryani,4.2,3.86,biryani kebab,750.0
+The Coastal Crew by Fujian on 24th,4.2,3.96,chinese thai seafood north indian momos,1.1
+Two Friends Cauldron,4.1,3.81,continental italian american,700.0
+Bottle Breacher,4.1,3.81,italian continental,1.2
+Tandoor And Spice,4.0,3.67,north indian chinese biryani hyderabadi,550.0
+Watson's,4.0,3.67,finger food chinese continental,1.3
+The Chervil,4.2,3.96,north indian continental,1.0
+Mango Greens,3.9,3.52,north indian continental chinese,900.0
+Casa Piccosa,4.1,3.81,south american continental italian,1.1
+Mango Tree- The Beer Garden,4.1,3.81,north indian chinese continental,1.2
+Caffe Pascucci,4.0,3.67,continental italian beverages,1.3
+Nandhini Paradise,3.8,3.37,north indian,600.0
+Oye Amritsar,3.8,3.37,north indian,1.0
+Machali Port,3.9,3.52,mangalorean seafood north indian,750.0
+Melt - Eden Park,4.0,3.67,north indian chinese thai mughlai seafood,1.0
+Vaathsalya Millet Cafe,4.1,3.81,healthy food south indian,500.0
+Oogway Express,3.9,3.52,chinese thai momos,600.0
+Zhang's - Chinese Restaurant,4.1,3.81,chinese momos,700.0
+The Egg Factory,4.0,3.67,continental american,750.0
+Coastal Mama,4.1,3.81,konkan mangalorean north indian seafood,700.0
+Parkview,4.0,3.67,south indian north indian chinese,300.0
+Kakal-Kai Ruchi,3.7,3.22,north indian south indian chinese,500.0
+Waah Biryani,3.8,3.37,north indian chinese biryani,350.0
+Danapani,3.8,3.37,north indian south indian chinese,400.0
+Inchara,3.7,3.22,north indian continental chinese,950.0
+Kabab Mehal,3.8,3.27,north indian chinese kebab juices,400.0
+Adithya,3.9,3.31,south indian north indian chinese,450.0
+Mudpipe Cafe,3.9,3.74,cafe continental north indian,800.0
+Pallavi North Indian Veg Restaurant,3.7,3.22,biryani north indian chinese,450.0
+Sri Lakshmi Curries & Pickles,2.9,2.04,andhra biryani,400.0
+TAB - Take A Break,4.1,3.81,cafe continental italian,550.0
+Chatori Gali,2.9,2.04,north indian street food,600.0
+Swathi Restaurant,3.8,3.44,mangalorean,400.0
+Brundhavana Pure Veg,3.7,3.22,south indian north indian chinese beverages,500.0
+Onesta,4.4,4.44,pizza cafe italian,600.0
+Royal Chef Naati Oota,4.0,3.67,south indian biryani north indian,500.0
+White Horse,3.8,3.37,north indian mangalorean chinese,400.0
+Spice Code,3.9,3.59,south indian north indian chinese biryani,1.0
+Coconut Grove,3.4,2.78,south indian chettinad kerala seafood,1.1
+Cafe Potpourri,3.7,3.22,cafe sandwich north indian beverages desserts,400.0
+Flow - Terrace Bar & Grill,3.8,3.37,pizza continental north indian chinese,1.0
+De Oxford Cafe,3.7,3.22,cafe beverages fast food,500.0
+Funky Punjab,3.9,3.52,north indian chinese,500.0
+Vinaya Coffee Moments,3.8,3.27,burger cafe desserts sandwich italian,450.0
+Dakshin Food Palace,3.7,3.22,south indian north indian chinese,450.0
+Brew Point,3.6,3.07,cafe american burger sandwich fast food,500.0
+The Onyx - The HHI Select Bengaluru,3.3,2.63,north indian chinese continental,950.0
+Sampoorna,3.6,3.07,chinese north indian,600.0
+Spice Up,3.8,3.37,chinese,600.0
+Jaganath Restaurant And Hotel,3.2,2.48,north indian,300.0
+Kaizen Wellness Kitchen,3.7,3.22,asian continental european,800.0
+Venkateshwara Sweets and Restaurant,3.6,3.07,south indian mithai chinese north indian,400.0
+Zeeshan,3.1,2.33,north indian mughlai biryani rolls,600.0
+The Cravery,2.6,1.59,continental burger beverages cafe italian rolls,500.0
+Sambram Biriyani Paradise,3.5,2.93,biryani north indian chinese,600.0
+Thayee Touch,3.6,3.07,north indian chinese south indian,450.0
+Cuppa,3.4,2.73,cafe fast food,550.0
+The Pavillion,2.7,1.74,north indian continental south indian chinese,1.0
+Mast Kalandar,2.3,1.22,north indian,450.0
+Kakal Kai Ruchi,3.9,3.52,south indian north indian chinese,450.0
+New Prashanth Hotel,3.1,2.95,south indian biryani chinese north indian,750.0
+Deccan Spice,3.5,2.93,north indian south indian biryani,750.0
+Turquoise,2.8,1.89,north indian,1.2
+Anju's Cafe,3.4,2.78,cafe north indian,600.0
+Andhra Grills,3.0,2.19,andhra north indian biryani,800.0
+Eagle Bar & Restaurant,3.2,2.48,north indian chinese,700.0
+Sea Horse,3.4,2.78,south indian chinese,400.0
+Petoo,3.7,3.39,north indian fast food street food,800.0
+Chung Wah Opus,3.0,2.19,chinese thai,650.0
+Zyksha,3.4,2.78,fast food,200.0
+Skytouch Le Cafe,3.7,3.22,cafe italian desserts,700.0
+Sandwichwallas,3.6,3.37,fast food,200.0
+Grills & Rolls,2.5,1.44,north indian chinese fast food rolls juices,400.0
+Juice Fresco & Pizza,3.4,2.78,beverages pizza,300.0
+Atithi Biryani Corner,3.3,2.63,biryani south indian,200.0
+Chaitanya Cafe,3.9,3.52,south indian north indian fast food,300.0
+Hot Rolls & House Of Kebabs,3.1,2.33,rolls kebab biryani,200.0
+Udupi Upachar,3.3,2.63,south indian north indian chinese street food,300.0
+Sree Krishna Kafe,3.9,3.52,south indian,200.0
+Pizza Stop,3.9,3.22,pizza italian,600.0
+Donne Biriyani House,3.3,3.05,biryani andhra,350.0
+Bengalooru Tiffany's,3.0,2.19,south indian north indian chinese street food,400.0
+Gowdru Mane Oota,3.7,3.22,south indian andhra,400.0
+Calvin's,2.9,2.04,desserts italian pizza,800.0
+Melting Pot at Woodrose,3.7,3.22,north indian,800.0
+Kesar Restaurant,3.6,3.07,north indian chinese south indian,200.0
+Mini Forest,3.3,2.63,fast food desserts,500.0
+Gopal Kabab Centre,3.3,2.63,north indian,350.0
+The Cake Ville,3.2,2.48,bakery desserts fast food,300.0
+Nandi Bidadi Thatte Idli,2.9,2.04,south indian,100.0
+Gowdru Military Hotel,3.2,2.56,biryani south indian,300.0
+Appam Centre,3.2,2.48,kerala,200.0
+Sang Grail,3.6,3.07,healthy food,300.0
+Akshaya Donne Biriyani,3.1,2.33,biryani south indian kebab,300.0
+Once In Nature,3.7,3.22,healthy food,300.0
+Biryani Times,3.5,2.93,biryani,300.0
+Tandoori Spot,3.5,2.93,north indian chinese,500.0
+Chicken Dera,3.0,2.19,mughlai kebab biryani,400.0
+Nati Palace,3.5,2.93,south indian north indian,200.0
+Fujian Express,3.5,3.0,chinese thai,200.0
+Banashankari Nati Style,3.6,3.07,south indian,300.0
+Five Star Chicken,3.9,2.94,burger fast food roast chicken finger food,300.0
+Halli Mane MUDDE OOTA,3.5,2.93,south indian,300.0
+BANGALORE BOX,4.1,3.86,asian continental finger food,1.5
+Gud Dhani,4.0,3.67,rajasthani,500.0
+Zatar House,4.0,3.67,south indian north indian chinese,400.0
+Bathinda Junction,3.9,3.57,north indian,600.0
+New Kabab Plaza,3.7,3.22,north indian chinese,500.0
+Hiyar Majhe Kolkata,4.0,3.67,bengali north indian,400.0
+Sankranthi Veg Restaurant,3.0,2.19,south indian north indian chinese,600.0
+Swad Restaurant,3.7,3.22,chinese north indian,550.0
+Litti Twist,4.2,3.89,north indian bihari,300.0
+RBP Greens Garden,2.7,1.74,north indian chinese,700.0
+Kalingas,3.9,3.52,oriya fast food,250.0
+YummRajj,3.3,2.63,fast food,500.0
+Gorbandh,4.1,3.81,fast food north indian,400.0
+JP Fish Land,3.6,3.07,seafood,300.0
+Nanna Munna Paratha House,4.0,3.67,north indian,300.0
+Daniyal's,3.1,2.58,north indian biryani mughlai kebab,800.0
+Swad Punjab Da,3.7,3.44,north indian,150.0
+New South Corner,3.7,3.22,south indian north indian chinese,300.0
+Taste Of Kolkata,3.1,2.33,bengali chinese rolls,400.0
+Dilish Kitchens,3.7,3.22,north indian chinese,500.0
+The Hungers Zone,3.8,3.37,fast food italian pizza,300.0
+Baba Ka Dhaba,3.7,3.22,north indian,400.0
+Sai Jagannath Food and Chats Point,3.8,3.37,south indian chinese,300.0
+Joey's,3.7,3.22,chinese fast food,300.0
+Limra Hotel,3.3,2.63,chinese north indian,300.0
+Hungry Buddies,3.3,2.63,north indian,150.0
+Hearts Unlock Cafe,3.2,2.48,cafe healthy food,500.0
+Blue Berry Restaurant,2.9,2.53,north indian kerala chinese,600.0
+Kafe Nook,3.6,3.07,fast food,300.0
+RSS Donne Biryani,3.3,2.63,biryani,300.0
+Aha Juice Bar,3.6,3.07,beverages fast food,200.0
+RK Fresh Food,3.5,2.93,fast food,300.0
+RCS Kitchen,3.3,2.63,continental,500.0
+Desi Wok,2.7,1.74,north indian chinese,500.0
+Namana Garden,2.6,1.59,north indian south indian chinese street food,400.0
+Biriyani Angadi,3.2,2.48,biryani,200.0
+Biryani Magic,3.5,2.93,north indian biryani,300.0
+Sri Sankara Cafe,3.6,3.07,south indian,100.0
+Mahesh Friends Food Center,2.9,2.04,chinese north indian,300.0
+Swad Plaza,3.4,2.78,north indian chinese,400.0
+Diya's Findish,3.3,2.63,north indian chinese bengali,500.0
+Chicken Magic,3.7,3.22,chinese north indian,300.0
+New Mahesh Friends Food Corner,3.2,2.48,north indian chinese,300.0
+Bay Root,3.7,3.22,north indian arabian,400.0
+Amontron,3.9,3.52,bengali,650.0
+Sri Lakshmi Dhaba,2.9,2.04,north indian,250.0
+Deja Vu Resto Bar,4.4,4.26,north indian italian,900.0
+Chavadi,4.4,4.26,continental north indian pizza italian,1.2
+TGI Fridays,3.9,3.52,american burger italian steak,1.7
+Simply Indian,3.9,3.52,north indian chinese seafood biryani mangalorean,800.0
+Terrace Lounge,3.6,3.07,north indian chinese seafood,1.6
+Hakuna Matata,4.5,4.41,north indian asian seafood chinese,1.2
+Brewsky,4.4,4.26,continental american,1.6
+55 Wall Street,3.9,3.52,finger food north indian chinese,1.3
+Crumb Together,4.1,3.81,continental finger food north indian chinese,1.2
+Bottle Breacher,4.1,3.81,italian continental,1.2
+Watson's,4.0,3.67,finger food chinese continental,1.3
+Casa Piccosa,4.1,3.81,south american continental italian,1.1
+Coconut Grove,3.4,2.78,south indian chettinad kerala seafood,1.1
+Turquoise,2.8,1.89,north indian,1.2
+BANGALORE BOX,4.1,3.86,asian continental finger food,1.5
+Subz,4.2,3.96,north indian south indian,1.0
+Grand Village,3.8,3.37,north indian rajasthani,600.0
+Timepass Dinner,3.8,3.37,north indian,600.0
+MG's Fine Dining & Bar - Springs Hotel & Spa,3.8,3.37,north indian asian continental,800.0
+1947,4.1,3.76,north indian chinese,950.0
+Chutney Chang,4.1,3.81,north indian chinese bbq,1.5
+Empire Restaurant,4.4,3.94,north indian mughlai south indian chinese,750.0
+Jalsa,4.1,3.81,north indian mughlai chinese,800.0
+Udupi Sri Krishna Cafe,3.9,3.52,north indian south indian,600.0
+San Churro Cafe,3.8,3.37,cafe mexican italian,800.0
+Tree Top,3.8,3.37,continental chinese north indian south indian,1.0
+Samskruti - Sanman Gardenia,4.1,3.81,north indian chinese south indian,550.0
+The Sofraah Kebabs & Kurries - Eden Park Restaurants,3.8,3.37,north indian afghani,1.35
+The Yellow Chilli,3.8,3.37,north indian mughlai biryani,1.2
+Tea Villa Cafe,4.3,4.11,cafe continental mediterranean italian desserts,800.0
+Cafe Cosy,4.1,3.81,cafe chinese continental fast food,800.0
+Onesta,4.6,4.44,pizza cafe italian,600.0
+Steaming Mugs,3.9,3.52,cafe,700.0
+Srinathji's Cafe,3.8,3.37,north indian cafe chinese fast food,550.0
+Redberrys,4.0,3.67,cafe italian,600.0
+Cafe Aira,4.1,3.81,cafe continental beverages desserts,500.0
+Cafe Mondo,3.7,3.22,cafe italian beverages,600.0
+1980s Games Cafe,3.4,2.78,cafe fast food,400.0
+Cafe Coffee Day,2.8,2.7,cafe fast food,900.0
+Go Native,4.3,4.11,healthy food cafe beverages,800.0
+Alchemy Coffee Roasters,4.2,3.96,cafe,500.0
+Rooftop Cafe,4.1,3.81,cafe fast food beverages,400.0
+Enerjuvate Studio & Cafe,4.2,3.96,cafe continental beverages healthy food desserts sandwich pizza salad,800.0
+The Caramelts Cafe,4.2,3.96,cafe salad wraps beverages,800.0
+SlimSins Cafe,4.1,3.81,cafe healthy food,850.0
+Cafe Ajfan,4.2,3.96,cafe continental beverages,700.0
+Cafe Shuffle,4.2,3.96,cafe italian continental,600.0
+Krazzy Folds,4.2,3.96,cafe continental sandwich beverages,800.0
+Penthouse Cafe,4.0,3.67,cafe italian continental,700.0
+The Blue Wagon - Kitchen,4.6,4.56,cafe beverages,400.0
+Smacznego,4.2,3.96,cafe mexican italian momos beverages,550.0
+The Airos,4.1,3.81,cafe italian pizza,650.0
+Starbucks,4.1,3.67,cafe desserts,700.0
+San Churro Cafe,3.8,3.37,cafe mexican italian,800.0
+Cafe Vivacity,3.8,3.37,cafe,650.0
+The Studio Cafe,3.8,3.37,cafe beverages,400.0
+Kirthi's Biryani,3.8,3.37,chinese cafe italian,700.0
+La Grande Cafe,3.8,3.37,cafe,400.0
+36th Cross Coffee Mane,3.6,3.07,south indian chinese beverages cafe coffee fast food momos north indian,200.0
+4th Tea Block,4.0,3.67,cafe,150.0
+Grazers,3.9,3.52,cafe burger continental italian desserts,650.0
+Cuppa,3.2,2.73,cafe fast food,550.0
+Coffee Tindi,3.8,3.37,cafe south indian,200.0
+Brews N Bites,2.9,1.89,chinese fast food cafe,650.0
+Brew Bakes,3.4,2.78,cafe continental italian,550.0
+Bread and Circus,3.7,3.22,cafe fast food pizza burger,550.0
+Java City,2.6,1.59,cafe american pizza,450.0
+Swati Cafe,2.9,2.04,cafe fast food,500.0
+Sea Green Cafe,3.3,2.63,cafe fast food beverages,500.0
+Rustic Treats,3.3,2.63,street food cafe,400.0
+360 Atoms Restaurant And Cafe,3.1,2.33,cafe chinese continental italian,400.0
+People Tree Cafe,3.7,3.22,cafe fast food beverages,400.0
+Al Diwan Biryanis And More,3.3,2.63,biryani,300.0
+eat.fit,4.6,4.41,healthy food north indian biryani continental sandwich desserts,500.0
+FreshMenu,3.9,3.04,healthy food chinese biryani north indian continental salad american burger,450.0
+Five Star Chicken,3.4,2.94,fast food burger,200.0
+Leon Grill,4.1,3.81,burger turkish arabian fast food salad healthy food desserts,500.0
+Dr. Bubbles,4.2,3.96,beverages desserts,400.0
+Empire Restaurant,4.4,3.94,north indian mughlai south indian chinese,750.0
+Anna Kuteera,4.0,3.67,south indian north indian chinese,450.0
+Energy Addaa,4.2,3.96,salad healthy food sandwich juices burger desserts pizza,500.0
+Dev Sagar - Food Street,4.1,3.81,street food,200.0
+KFC,3.8,3.26,burger fast food,450.0
+Bengaluru Coffee House,4.1,3.81,south indian north indian chinese street food,300.0
+Shanmukha,4.0,3.0,biryani andhra north indian chinese,800.0
+Bhukkhad Baba,3.7,3.22,north indian beverages,250.0
+Chinese Square,3.9,3.52,chinese,200.0
+House Of Kebabs,3.8,3.37,north indian kebab biryani chinese,650.0
+Subway,3.7,3.03,salad fast food,600.0
+Kolkata Kathi Rolls,3.8,3.37,rolls,150.0
+Mysuru Coffee Thindi,4.1,3.81,south indian coffee,200.0
+Smoke-A-Pot,3.6,3.07,biryani north indian rolls,500.0
+Chaatimes,3.8,3.39,street food fast food,200.0
+Wamama,4.2,3.96,asian korean indonesian japanese chinese thai momos,800.0
+Shanthi Sagar,3.6,2.83,south indian north indian chinese,400.0
+Just Shawarma,4.3,3.43,arabian,300.0
+Chinese Kitchen,3.8,3.37,chinese,150.0
+Vijayalakshmi,3.9,3.52,south indian,200.0
+Burger King,3.2,3.03,burger fast food beverages,600.0
+Smacznego,4.2,3.96,cafe mexican italian momos beverages,550.0
+Kabab Magic,4.1,3.44,north indian kebab chinese fast food,400.0
+Lassi Corner,3.7,3.27,beverages ice cream,150.0
+The Biriyani Pedia,3.9,3.52,biryani,300.0
+Paratha Junction,3.2,1.94,north indian chinese,300.0
+SL Vadapav,4.0,3.67,maharashtrian,100.0
+Adithya,4.0,3.31,south indian north indian chinese,300.0
+Paradise,4.0,3.67,biryani north indian kebab,800.0
+Biryanis And More,4.0,3.72,biryani north indian chinese andhra south indian,750.0
+Wazir's,3.3,2.63,north indian chinese,500.0
+Krispy Kreme,4.0,3.44,desserts beverages,300.0
+Udupi Upahar,3.8,3.37,south indian chinese north indian juices,300.0
+Kababs N Biryani,3.4,2.78,south indian,200.0
+Madeena Hotel,3.9,3.52,north indian mughlai biryani,400.0
+Roti Ghar,3.9,3.52,north indian chinese south indian,500.0
+Marenahalli Donne Biriyani,3.9,3.52,biryani fast food,300.0
+Onesta,4.6,4.44,pizza cafe italian,600.0
+Namma Brahmin's Idli,3.6,3.07,south indian,100.0
+Polar Bear,3.8,3.47,ice cream desserts beverages sandwich,400.0
+Behrouz Biryani,3.9,3.59,biryani,650.0
+Namma Banashankari Donne Biryani,4.0,3.67,biryani kebab,250.0
+Puliyogare Point,4.2,3.96,south indian,100.0
+Kedia's Fun Food,4.3,4.11,north indian street food juices,200.0
+Sri Udupi Food Hub,4.1,3.81,south indian north indian chinese beverages,500.0
+Udupi Ruchi,3.9,3.48,south indian north indian chinese street food,200.0
+Donne Biriyani House,3.9,3.05,south indian north indian chinese biryani,400.0
+Banashankari Donne Biriyani,3.8,3.37,biryani fast food,300.0
+Dadi's Dum Biryani,4.1,3.72,biryani north indian mughlai,800.0
+Pizza Hut,3.8,2.42,pizza fast food,750.0
+Bhattara Bhojana,3.6,3.07,south indian,150.0
+Meghana Foods,4.4,4.31,biryani north indian chinese,600.0
+Kabab Mehal,3.7,3.27,kebab north indian fast food beverages,400.0
+Ovenstory Pizza,3.9,3.57,pizza,750.0
+Chicken County Grand,3.9,3.52,north indian chinese,650.0
+Sweet Truth,3.9,3.52,bakery desserts,500.0
+Prasiddhi Food Corner,3.7,3.22,fast food north indian south indian,200.0
+Fresh Kitchen,3.4,2.78,north indian chinese,600.0
+Chai Point,3.2,2.96,tea beverages fast food,250.0
+Twiststick House,4.1,3.81,continental fast food street food momos,500.0
+Starlite Bakery & Fastfood,3.7,3.22,north indian chinese rolls bakery arabian charcoal chicken desserts,300.0
+Wahab,3.7,3.22,north indian mughlai chinese,350.0
+Faasos,4.2,3.65,north indian biryani fast food,500.0
+Grazers,3.9,3.52,cafe burger continental italian desserts,650.0
+Szechuan Dragon,4.2,3.96,chinese thai momos,600.0
+Patio 805,4.1,3.81,thai vietnamese asian chinese,1.2
+Janahaar,3.8,3.37,south indian,100.0
+Juicy Momos,3.5,2.73,tibetan momos,250.0
+Gama Gama,3.9,3.52,south indian,200.0
+Upahara Darshini,4.0,3.62,south indian north indian chinese,400.0
+Bangalore Agarwal Bhavan,3.9,3.52,street food north indian south indian,400.0
+Just Thindi,3.6,3.07,south indian,200.0
+SLV Corner Restaurant,4.1,3.81,south indian chinese north indian street food rolls juices,550.0
+Tummy Fuel,4.2,3.96,cafe beverages fast food,400.0
+XO Belgian Waffle,3.9,3.72,desserts beverages,400.0
+Kanti Sweets,3.9,3.54,mithai street food,400.0
+Firangi Bake,4.0,3.7,mexican italian,600.0
+Vinny's,4.2,3.96,pizza italian continental desserts,800.0
+Pani Kum Chai,3.9,3.52,fast food,200.0
+Mini Punjabi Dhaba,4.2,3.96,north indian,350.0
+Matru Sagar,3.6,3.12,south indian north indian chinese,250.0
+Stories,4.2,3.96,american chinese continental north indian,1.2
+Lassi Shop,3.7,3.26,beverages juices,100.0
+Tanna's Kitchen,3.1,2.33,italian chinese street food,250.0
+Andhra Ruchulu,4.2,3.89,andhra north indian,800.0
+HOT COFFEE,4.1,3.81,south indian chinese,150.0
+Goli Vada Pav No. 1,3.7,3.07,street food,200.0
+Savoury - Sea Shell Restaurant,3.9,3.52,arabian north indian chinese seafood biryani rolls beverages,900.0
+Rajanna Military Hotel,4.1,3.81,biryani fast food,400.0
+Rustic Stove,3.8,3.37,north indian south indian biryani beverages,900.0
+Cafe Zone,3.9,3.52,fast food chinese rolls,300.0
+Sri Sai 99 Variety Dosa,3.6,3.22,south indian,300.0
+Hotel New Karavali,3.8,3.37,mangalorean south indian north indian,300.0
+Donne Biryani & Kabab Corner,3.3,2.63,chinese biryani,200.0
+Shawarma Inc,3.1,2.38,rolls lebanese,250.0
+Protein Grillhouse,4.2,3.96,healthy food continental juices salad burger beverages desserts,800.0
+Pizza Mane,3.5,2.93,pizza sandwich burger fast food,150.0
+Diabetics Dezire Sugarless Sweets and Bakes,3.3,2.63,desserts mithai,300.0
+Sandwichwallas,3.9,3.37,fast food,200.0
+Old Mumbai Ice Cream,3.9,3.48,ice cream,150.0
+Shakes Theory,4.5,4.41,beverages sandwich,300.0
+Punjabi by Nature 2.0,4.2,3.96,north indian,1.6
+Peace Restaurant,2.8,1.89,chinese tibetan,500.0
+Bhojohori Manna,3.7,3.22,bengali mughlai,650.0
+Pin Me Down,4.5,4.41,continental mexican chinese north indian,800.0
+Swathi Deluxe Restaurant,3.0,2.19,north indian,500.0
+Ishta Cafe,3.9,3.52,pizza south indian healthy food,500.0
+Bikaner Jn,3.9,3.52,rajasthani,300.0
+Chilli Flakes,3.6,3.07,fast food italian beverages,500.0
+Chetty's Corner,3.6,2.93,fast food burger,150.0
+Pathaan Sir,3.2,2.83,fast food rolls momos,250.0
+Cake Ghar,3.8,3.37,bakery,400.0
+Cakewala,4.3,4.04,bakery desserts,500.0
+The Belgian Waffle Co.,3.8,3.37,desserts beverages,350.0
+Mystique Palate,4.1,3.81,chinese fast food,300.0
+UP Style North Indian Food,3.6,3.07,north indian,100.0
+Namma Biryani,3.6,3.07,biryani chinese north indian,250.0
+Cool Corner,4.2,3.96,street food fast food,250.0
+Wat-a-Burger!,4.0,3.67,burger sandwich beverages,500.0
+Roll Over,4.1,3.81,desserts ice cream beverages fast food sandwich,500.0
+Sri Sai Cafe,3.5,2.93,south indian,200.0
+Cake Yard,3.3,2.67,desserts,250.0
+Classic Shop,3.7,3.22,beverages juices,150.0
+Food And You,3.9,3.52,north indian south indian gujarati,350.0
+Iyengar Bakery,3.6,3.12,bakery fast food desserts beverages,200.0
+Vakulaa Veg Restaurant,3.9,3.52,south indian north indian,200.0
+Paradise Premium,3.1,2.33,biryani andhra hyderabadi north indian,700.0
+Ande Ka Funda,3.8,3.07,north indian fast food rolls,250.0
+McDonald's,3.6,3.42,burger fast food,500.0
+Malabar Bay,4.2,3.96,kerala seafood chinese biryani juices,800.0
+Sahana's (Nati Style),3.7,3.22,north indian,350.0
+Eurasia Pasta and Barbeque by Little Italy,4.1,3.81,italian fast food salad bbq,1.2
+Cafe Coffee Day,3.4,2.7,cafe fast food,900.0
+Turkish Shawarma,3.6,3.07,rolls,200.0
+Swadd Kitchen,3.4,2.78,north indian fast food,500.0
+Canton,3.6,3.07,chinese seafood biryani,800.0
+Pure & Natural,3.9,3.52,fast food continental beverages salad healthy food,500.0
+Stoned Monkey,4.3,3.91,desserts ice cream,500.0
+Cravy Wings,4.2,3.96,american burger fast food,400.0
+Dakshin Grand,3.0,2.19,south indian north indian chinese street food,300.0
+Frozen Bottle,4.2,3.59,beverages desserts ice cream,400.0
+Soup Station,3.6,3.07,continental,250.0
+Pancuzzi,4.2,3.96,cafe beverages desserts,600.0
+Meat And Eat,3.1,2.63,fast food burger,500.0
+Asha Sweets Centre,3.6,3.16,fast food,250.0
+Ross Kitchen,3.6,3.07,chinese,400.0
+Sandwich Hub,3.4,2.78,fast food sandwich,300.0
+Ambur Star Dum Biryani,3.4,2.78,biryani,100.0
+Fanoos Xprss,3.7,3.22,arabian rolls north indian bbq,400.0
+Khan Saheb Grills and Rolls,3.9,3.52,fast food rolls,350.0
+Desi Vdesi,3.9,3.52,fast food north indian rolls,250.0
+Bhavani Chats N Juice,3.9,3.52,beverages street food,200.0
+Chai Mane,3.6,2.88,juices fast food,150.0
+Chumma Delicious,3.7,3.22,south indian fast food,200.0
+LIT Gastro Pub,3.8,3.37,chinese continental burger pizza,1.0
+Catch-up-ino,3.9,3.52,cafe fast food continental chinese momos,800.0
+Bake Addiction,4.0,3.67,bakery desserts,500.0
+Go Native,4.3,4.11,healthy food cafe beverages,800.0
+Rooftop Cafe,4.1,3.81,cafe fast food beverages,400.0
+San Churro Cafe,3.8,3.37,cafe mexican italian,800.0
+Karavali Kolimane,3.7,3.22,mangalorean chinese north indian,350.0
+Sukh Sagar,3.8,3.37,south indian north indian chinese street food,450.0
+Durga Sagar,3.3,2.63,south indian,150.0
+Steaming Mugs,3.9,3.52,cafe,700.0
+Jayanagara Donne Biryani,3.6,3.07,biryani south indian,400.0
+Bakers Town,3.6,3.22,cafe continental fast food,700.0
+Anda Ka Funda,3.4,2.78,north indian chinese rolls,250.0
+Juice Junction Food Court,3.7,3.26,juices south indian chinese fast food,200.0
+Domino's Pizza,3.7,3.18,pizza fast food,800.0
+Big Mishra Pedha,2.9,2.27,mithai,250.0
+Amande Patisserie,4.0,3.67,bakery french desserts,300.0
+S M V Snacks Corner,3.7,3.22,fast food,200.0
+Kaapi Kendra,3.7,3.22,south indian,100.0
+Ice Cream Works,4.1,3.81,desserts ice cream,300.0
+Sri Rajasthani Foods,3.5,3.0,rajasthani north indian,200.0
+Sandwich Mama's And Frozen Monster,3.8,3.37,ice cream beverages fast food,250.0
+Sreeraj Lassi Bar,3.9,3.72,beverages desserts,150.0
+Mangalore Pearl,3.8,3.37,mangalorean seafood chinese biryani,650.0
+Rajathadri Food Fort,4.0,3.67,south indian north indian chinese street food,600.0
+Penthouse Cafe,4.0,3.67,cafe italian continental,700.0
+Lalbagh Grand,3.0,2.23,south indian north indian chinese,250.0
+Rahhams,2.6,1.59,mughlai north indian chinese,700.0
+Udupi Upachar,3.3,2.63,south indian north indian,500.0
+Baskin Robbins,3.6,3.22,ice cream desserts,250.0
+Shree Mahalakshmi Sweets,3.2,2.48,mithai street food,100.0
+Hushy's Kitchen,3.5,2.93,fast food,300.0
+Magic Meals,3.7,3.22,fast food desserts beverages,400.0
+Cafe Shuffle,4.2,3.96,cafe italian continental,600.0
+Tandoori Knight,3.0,2.19,north indian chinese biryani kebab,450.0
+Shreyas Upahar & Burger Point,3.0,2.28,south indian burger,200.0
+The Cake City,3.2,2.48,chinese continental desserts bakery,300.0
+Bubblewrap Waffle Co.,4.4,4.26,desserts beverages,400.0
+Waffle Stories,4.2,3.86,desserts beverages,300.0
+Grillopia,3.8,3.37,burger pizza fast food,1.0
+Cross Road Cafe,3.9,3.52,cafe fast food chinese,300.0
+Pizza Stop,3.8,3.22,pizza italian,600.0
+Kolkata King,3.4,2.88,fast food rolls,300.0
+North Rasoe,3.1,2.33,north indian chinese biryani kebab,500.0
+Ruchi's Corner,2.7,1.74,fast food,200.0
+Naati Manae,3.1,2.33,south indian biryani,500.0
+Hotel Empark,3.4,2.78,chinese north indian arabian,800.0
+Swadesh Tadka,3.5,2.93,north indian chinese beverages,600.0
+Lassi Stop,3.4,2.78,beverages fast food juices,150.0
+The Chocolate Room,3.9,3.52,cafe desserts,400.0
+Navami,3.5,2.93,andhra north indian chinese mangalorean seafood biryani,600.0
+Sri Guru Kottureshwara Davangere Benne Dosa,4.1,3.81,south indian,150.0
+Ibaco,4.0,3.52,desserts,300.0
+Toscano,4.3,4.11,italian salad,1.3
+Shringar Sweets & Snacks,3.5,2.93,mithai south indian street food fast food,200.0
+Utsav Restaurant,3.8,3.31,north indian chinese,300.0
+Hatti Kaapi,4.0,3.67,south indian beverages,200.0
+Havmor,3.8,3.19,ice cream desserts,200.0
+The Pizzeria,2.8,1.89,pizza italian salad,800.0
+Karavali Family Restaurant,3.5,2.93,seafood biryani south indian north indian chinese,500.0
+Little Cafe,3.7,3.22,cafe beverages,600.0
+Bangarpet Chat Express,3.3,2.63,street food fast food,100.0
+Salut,4.1,3.81,continental finger food seafood pizza,1.2
+Aadhya Hotel,3.3,2.63,south indian north indian chinese biryani,800.0
+Sri Krishna Sweets,3.7,3.22,mithai desserts,250.0
+Quench & Crunch,3.6,3.07,beverages fast food,150.0
+Shake It Off,4.4,3.86,beverages fast food,600.0
+Xpress Chai,3.7,2.93,tea,150.0
+Cafe Ajfan,4.2,3.96,cafe continental beverages,700.0
+Kettle & Kegs,3.2,2.53,tea beverages,200.0
+Curry Leaves,4.1,3.81,andhra north indian chinese,800.0
+Thanco's Natural Ice Cream,3.6,3.07,ice cream desserts,450.0
+Cane-O-La,3.8,3.37,juices,100.0
+Ruchis Point,3.8,3.37,fast food chinese,200.0
+Mudpipe Cafe,4.5,3.74,cafe continental burger,900.0
+Karavali Grand,3.7,3.22,mangalorean seafood north indian chinese,600.0
+Chai Kraft,4.1,3.81,beverages tea,100.0
+Vietnamese Kitchen,3.6,3.07,vietnamese,700.0
+Udupi Grand,3.8,3.37,south indian north indian chinese,300.0
+The Krishna Grand Xpress,4.0,3.67,south indian fast food,350.0
+City Durbar,3.7,3.22,north indian chinese biryani,450.0
+World of Waffles,3.9,3.52,desserts,400.0
+Just Bunny,3.5,2.93,fast food,200.0
+Chinese House,2.8,1.89,chinese thai momos,300.0
+Ragoo's,3.9,3.52,italian pizza north indian salad,800.0
+Nammura Donne Biriyani,3.5,2.83,mughlai biryani,400.0
+Marzipan @ The Bohemian House,4.2,3.96,cafe,700.0
+Masale Daan,3.1,2.33,north indian,350.0
+Udupi Sri Krishna Cafe,3.9,3.52,north indian south indian,600.0
+A2B Veg - Adyar Ananda Bhavan,2.7,1.74,south indian fast food street food,400.0
+J K Fish Land,3.6,3.07,seafood mangalorean,300.0
+Shri Vinayaka Ice N Juice,3.2,2.6,beverages fast food,150.0
+Kirthi's Biryani,3.8,3.37,chinese cafe italian,700.0
+Indori Chatorey,2.8,1.89,north indian street food,300.0
+Brew Meister,4.1,3.81,north indian continental finger food american asian,1.5
+Maruthi Davangere Benne Dosa,4.0,3.67,south indian,150.0
+Thamboola,3.9,3.52,north indian chinese continental,800.0
+Swarga Ruchi,3.3,2.63,south indian,200.0
+Bombay Kulfi,3.8,3.27,desserts ice cream,150.0
+Nandhanus Rasoi,3.4,2.78,chinese rolls north indian,200.0
+Cafe Mondo,3.7,3.22,cafe italian beverages,600.0
+Mockaholic Restro Beer Cafe,3.9,3.52,north indian chinese pizza bbq,1.0
+Navi Food Point,3.6,3.07,fast food,200.0
+Ugadi,2.9,2.04,north indian chinese biryani andhra mangalorean,700.0
+3 Spice,3.9,3.52,north indian chinese,450.0
+Ascharya Hotel,3.3,2.63,mangalorean south indian,300.0
+Waffle-A-Go Go,3.9,3.52,fast food desserts ice cream,400.0
+Mug N Bean,3.9,3.52,cafe continental italian burger,400.0
+Jalaram Sweets,3.8,3.37,desserts mithai,250.0
+My Tea House,3.6,3.07,italian fast food cafe european,600.0
+Bakers77,4.0,3.67,bakery fast food,400.0
+Chai Culture,3.6,3.07,beverages,200.0
+In Time Cane Juice,3.5,2.93,juices beverages,100.0
+Pappu Da Dhaba,3.0,2.19,north indian fast food beverages momos,400.0
+Desi Inn,3.5,2.93,north indian,300.0
+360 Atoms Restaurant And Cafe,3.1,2.33,cafe chinese continental italian,400.0
+Paratha Merchant,3.1,2.33,north indian,300.0
+Black Cup Cafe,3.7,3.22,cafe fast food beverages,400.0
+Pop Hop,4.1,3.81,ice cream desserts,300.0
+Sri Yaksha Shiv Sagar,3.6,3.07,north indian chinese,600.0
+Chung Wah,3.9,3.47,chinese momos thai vietnamese,900.0
+Aramane Donne Briyani,4.0,3.67,biryani fast food,300.0
+Nandhi Andhra Style Family Restaurant,3.4,2.78,seafood biryani south indian north indian chinese kebab,400.0
+New Udupi Upahar,3.5,2.93,south indian north indian,300.0
+Ramji Chaiwale,3.6,3.07,beverages fast food,250.0
+Tangra Indo - Chinese Cuisine,3.6,3.07,chinese thai,400.0
+1441 Pizzeria,4.1,3.81,pizza salad,800.0
+New Chickpete Donne Biryani,3.5,2.93,biryani,250.0
+The Airos,4.1,3.81,cafe italian pizza,650.0
+Woody's,2.6,1.59,chinese south indian north indian,650.0
+Sea Spice by 7 Star,4.0,3.67,seafood biryani beverages south indian north indian kebab,1.2
+Rasoi,3.3,2.63,north indian chinese,300.0
+Bread and Circus,3.7,3.22,cafe fast food pizza burger,550.0
+Maiyas,4.0,3.67,north indian south indian fast food juices,200.0
+Mumbai Badam Milk & Lassi Center,3.6,3.07,beverages desserts,100.0
+South Point Pub,3.4,2.78,north indian seafood chinese,800.0
+Hari Super Sandwich,4.1,3.72,fast food street food,200.0
+Gokul Veg,3.8,3.37,north indian chinese beverages,750.0
+AM WOW,3.4,2.78,beverages,100.0
+Hotel Smile,3.1,2.33,north indian chinese,400.0
+David's Kitchen,3.5,2.93,north indian south indian chinese,200.0
+Prems Graama Bhojanam,4.3,4.11,south indian,400.0
+Fudge,3.2,3.07,desserts momos,200.0
+Navya Foods,3.4,2.78,north indian fast food,300.0
+Cafe Vivacity,3.8,3.37,cafe,650.0
+Eat Repeat Express,3.2,2.48,north indian south indian chinese biryani mexican,700.0
+Shyvan Restaurant,3.6,3.07,north indian chinese,500.0
+Iceberg Icecreams,4.0,3.67,desserts ice cream,250.0
+Mecaf Family Restaurant,3.9,3.52,north indian chinese fast food,400.0
+By 2 Coffee,4.3,3.62,south indian,100.0
+Chocoberry,3.5,2.93,ice cream desserts beverages,400.0
+Java City,2.6,1.59,cafe american pizza,450.0
+Coffee Tindi,3.8,3.37,cafe south indian,200.0
+Quench The Juice Lounge,3.6,3.07,beverages juices ice cream,150.0
+Euki,4.1,3.81,italian mexican,900.0
+Bangalore Donne Biriyani,3.2,2.48,south indian biryani,300.0
+The Grillo,2.8,1.89,south indian arabian chinese north indian seafood mangalorean,500.0
+Kalpavriksha Upahara,3.9,3.52,south indian north indian chinese,400.0
+Churchill's,4.1,3.81,north indian continental,1.1
+Bunt's Biriyani Palace,3.0,2.19,north indian south indian chinese biryani seafood,400.0
+Anand Donne Biriyani,3.6,3.07,biryani,200.0
+Shree Udupi Grand,3.8,3.22,south indian north indian chinese,600.0
+Vinaya Cafe,3.4,3.0,south indian street food juices,200.0
+Vidya Cafe,3.2,2.48,burger fast food desserts sandwich,300.0
+Bombay Talkies,3.7,3.22,maharashtrian fast food street food sandwich,200.0
+Bakers Day,3.9,3.52,bakery desserts,200.0
+Davanagere Benne Dose Hut,3.4,2.78,south indian,100.0
+New Royal Treat,2.8,1.89,north indian chinese,350.0
+New Punjabi Hotel,3.7,3.22,north indian chinese,400.0
+Baisakhi,3.8,3.37,north indian,500.0
+Lassi Shop,3.5,3.26,beverages ice cream fast food,300.0
+The Blue Wagon - Kitchen,4.6,4.56,cafe beverages,400.0
+Biriyani Mane,3.7,3.27,biryani chinese north indian,700.0
+Sri Krishna Darshini,3.1,2.33,south indian north indian chinese,200.0
+Willys Top Cafe,4.0,3.67,cafe continental asian,750.0
+Srinathji's Cafe,3.8,3.37,north indian cafe chinese fast food,550.0
+New Prashanth Hotel,3.9,2.95,biryani north indian seafood andhra,650.0
+Tiwari's,3.8,3.42,north indian street food,200.0
+Srikrishna Bhavan,3.8,3.37,south indian north indian chinese,300.0
+De Thaali,3.9,3.52,north indian chinese rolls,550.0
+Ice Land,3.6,3.07,ice cream desserts,300.0
+Vasanth Vihar - Since 1965,3.6,3.07,south indian street food,150.0
+Ice Stone Creamery,3.7,3.22,desserts ice cream,400.0
+D View Cafe,4.0,3.67,cafe italian chinese beverages,1.0
+The Trundle,3.7,3.22,chinese thai continental north indian,700.0
+Rajdhani Thali Restaurant,3.9,3.52,north indian,900.0
+Kadala Tarangaa,3.6,3.11,mangalorean seafood north indian,600.0
+Tree Top,3.8,3.37,continental chinese north indian south indian,1.0
+Cafe Aira,4.1,3.81,cafe continental beverages desserts,500.0
+Mulabagilu Dosa,3.6,3.07,south indian,100.0
+Foodizo,3.6,3.07,desserts fast food continental,300.0
+Karma Kaapi,4.4,4.26,beverages tea,250.0
+Arabian Bites,3.4,2.78,north indian chinese,300.0
+The Krishna Grand,3.9,3.52,north indian south indian chinese fast food juices,750.0
+Anand Sweets and Savouries,3.9,3.44,mithai street food,400.0
+Bake and Juice,3.5,2.93,fast food beverages,400.0
+Green Gardenia,3.8,3.37,north indian chinese,700.0
+Krazzy Folds,4.2,3.96,cafe continental sandwich beverages,800.0
+Hotel Pork Paradise,3.7,3.22,south indian,300.0
+Chats Point,3.4,2.78,fast food street food,150.0
+Rajvardhan Foods,3.9,3.52,street food maharashtrian,300.0
+New Prashanth Hotel,3.6,2.95,south indian biryani chinese north indian,750.0
+Veganbreak24x7,2.8,1.89,south indian chinese continental biryani,199.0
+Timepass Dinner,3.8,3.37,north indian,600.0
+Aniram's,4.1,3.81,chinese north indian,500.0
+Sri Krishna Veg,3.5,2.93,south indian,100.0
+The Chaat Shop,2.5,1.7,fast food,200.0
+SGS Non Veg - Gundu Pulav,3.8,3.43,biryani fast food,400.0
+Crafted Plate,4.2,3.96,cafe asian burger continental italian salad,600.0
+Gufha - The President Hotel,4.1,3.81,north indian afghani mughlai,1.2
+Cafe 221B,3.7,3.22,cafe beverages,300.0
+Desi Rasoi,3.8,3.37,biryani north indian chinese rajasthani,600.0
+Parathe Wali Gali,3.9,3.52,north indian,250.0
+Red Onion,4.3,4.11,chinese north indian biryani kebab,1.2
+Spice Elephant,4.1,3.81,chinese north indian thai,800.0
+Baba Chatkora,4.1,3.81,north indian street food,1.0
+Eat Repeat,3.9,3.52,south indian,150.0
+Kapoor's Cafe,4.2,3.86,north indian,800.0
+Chulha Chauki Da Dhaba,4.2,3.96,north indian,800.0
+Dal Tadkaa,2.5,1.44,north indian,500.0
+RS Shiv Sagar,3.7,3.22,north indian chinese south indian fast food juices,450.0
+Mainland China,4.3,4.11,chinese momos,1.7
+Food Springs,4.0,3.67,south indian chinese,400.0
+Miss Momo,3.2,2.48,tibetan momos,250.0
+The Jade Kitchen,4.0,3.67,chinese thai,400.0
+Kamat Minerva,2.6,1.59,south indian north indian chinese,300.0
+Gujrati Mess,3.6,3.07,gujarati,200.0
+Kollapuri's,3.9,3.52,south indian mangalorean,450.0
+Davangere Benna Dose Hotel,4.1,3.81,south indian,100.0
+1980s Games Cafe,3.4,2.78,cafe fast food,400.0
+Harshi Super Sandwich,3.8,3.37,fast food street food,150.0
+Chung's Chinese Corner,3.9,3.52,chinese,700.0
+Jalsa,4.1,3.81,north indian mughlai chinese,800.0
+Punjabi Raswada,3.5,2.93,north indian,800.0
+The Yellow Chilli,3.8,3.37,north indian mughlai biryani,1.2
+New Banashankari Donne Biryani,3.5,2.93,biryani north indian,300.0
+B & B The Pub,3.6,3.07,asian continental,1.0
+Lumbini Snax,3.3,2.7,burger fast food italian,300.0
+Cake Of The Day,3.2,2.48,bakery,150.0
+Cake Art,3.5,2.93,bakery,400.0
+Garage Pizza,3.2,2.48,pizza,400.0
+Night Restro,3.1,2.33,north indian chinese,500.0
+Millet Mama,3.9,3.52,south indian healthy food,200.0
+Kholi Mane,3.6,3.07,andhra south indian biryani north indian,450.0
+Mint and Mustard,4.0,3.67,north indian chinese,750.0
+Chamrajpet Kabab Junction,3.2,2.48,north indian mughlai,250.0
+Yummy Momos,3.2,2.68,chinese tibetan fast food,200.0
+Karnataka Bhel House,4.1,3.81,street food,100.0
+Just Bake,3.3,2.48,bakery desserts,400.0
+Namma Kudla,3.9,3.52,mangalorean north indian chinese seafood,400.0
+Restro Cafe,3.8,3.37,cafe,400.0
+Shake Tat Bottle,3.3,2.63,beverages,200.0
+Jalpaan,4.0,3.67,north indian continental,900.0
+Central Jail Restaurant,3.8,3.32,andhra seafood north indian chinese,700.0
+Dal Roti,3.7,3.22,north indian,150.0
+Gandharva Family Restaurant,3.6,3.07,north indian chinese,900.0
+Chutney Chang,4.1,3.81,north indian chinese bbq,1.5
+Kudla - Hotel Ramanashree,4.1,3.81,south indian andhra chinese,1.2
+Kataria's Pakwan,3.2,2.48,north indian,400.0
+Kamat Bugle Rock,3.9,3.52,south indian fast food,300.0
+Hara Fine Dine,4.0,3.67,north indian chinese,800.0
+The Royal Corner - Pai Viceroy,4.2,3.96,north indian chinese,900.0
+Utsav,3.7,3.22,north indian street food,200.0
+Subz,4.2,3.96,north indian south indian,1.0
+Hotel Ruchi Priya,3.6,3.07,north indian,350.0
+Anupam's Coastal Express,4.1,3.81,seafood mangalorean south indian,600.0
+New Rajadhani Spicy,3.7,3.22,north indian,700.0
+Bella,3.9,3.52,mangalorean seafood south indian,1.0
+Polamma's Mess,4.2,3.96,north indian chinese biryani,300.0
+B.M.W Bhookh Mitaane Wala,3.5,2.93,north indian south indian chinese,500.0
+Cable Car,4.4,4.26,north indian italian,1.0
+Dakshin Kitchen,3.6,3.07,south indian,100.0
+South Kitchen,4.3,4.11,south indian,100.0
+Roofnic,3.1,2.33,fast food,300.0
+Sri Krishna Sagar,3.2,2.6,north indian chinese,400.0
+Vindu Andhra Ruchulu,3.8,3.37,biryani north indian andhra,800.0
+Tawa Sagara,3.8,3.37,mangalorean seafood,700.0
+Mandi,3.8,3.37,north indian,800.0
+Brews N Bites,2.9,1.89,chinese fast food cafe,650.0
+Earth Plate Express,3.9,3.52,italian continental,600.0
+The Lounge - Eden Park Restaurants,3.7,3.22,north indian afghani,1.35
+Samskruti - Sanman Gardenia,4.1,3.81,north indian chinese south indian,550.0
+Freeze It,3.5,2.98,ice cream,300.0
+Redberrys,4.0,3.67,cafe italian,600.0
+1947,4.1,3.76,north indian chinese,950.0
+Mayuri,4.0,3.67,north indian chinese,650.0
+Nandhini Deluxe,3.5,2.42,north indian,600.0
+Hotboxit,3.8,3.37,north indian continental italian,400.0
+The Sofraah Kebabs & Kurries - Eden Park Restaurants,3.8,3.37,north indian afghani,1.35
+Kidambi's Kitchen,3.5,2.93,south indian,300.0
+Kotian Karavali Restaurant,3.5,2.93,south indian biryani,300.0
+Beijing Bites,2.7,2.23,chinese thai,850.0
+Coffee Bytes,3.1,2.33,fast food south indian,100.0
+Food Geek,3.8,3.37,sandwich fast food rolls,350.0
+Happy Chopsticks,3.6,3.07,chinese fast food,300.0
+Bhandary's Kitchen,3.6,3.07,north indian,300.0
+Parika Multicuisine Restaurant,3.8,3.37,north indian chinese mughlai,1.2
+Eshanya,4.1,3.81,north indian chinese,1.0
+Siddique Kabab Centre,3.1,2.33,mughlai north indian kebab rolls chinese,550.0
+The Lassi Park,4.1,3.81,juices desserts,200.0
+Upahara Darshini,3.9,3.62,north indian chinese south indian fast food,600.0
+Targaryen's Kitchen,3.6,3.07,chinese north indian mughlai,600.0
+Shri Vinayaka Ice N Juice,3.7,2.6,fast food beverages,200.0
+Desi Cream Junction,3.7,3.22,chinese north indian pizza italian,650.0
+Kickin Burger,3.1,2.33,fast food,400.0
+Grow Fit,3.6,3.07,healthy food north indian thai,500.0
+Baker's Glove,3.3,2.63,desserts bakery,550.0
+Vennela Andhra Meals,3.0,2.19,andhra,400.0
+Upahara Sagar,3.0,2.19,south indian north indian chinese,300.0
+Gustoes Beer House,4.1,3.81,continental italian mexican north indian chinese steak,1.2
+Clove Rooftop,3.8,3.37,konkan seafood,1.0
+K27 - The Pub,3.1,2.33,chinese north indian,1.0
+Darbar,3.0,2.19,north indian chinese,800.0
+Ganesh Grand,3.7,3.22,south indian north indian desserts,300.0
+Falafal,3.3,2.63,healthy food juices,200.0
+VEGeatz,3.4,2.78,south indian north indian,200.0
+Heritage Cafe,3.6,3.07,fast food tea,200.0
+Chef Master,3.8,3.37,kerala north indian chinese,300.0
+Adithya,3.2,3.31,north indian chinese,400.0
+Jayanagar Grill House,3.5,2.93,biryani kebab,250.0
+Mane Holige,4.3,4.11,mithai south indian,200.0
+Nagarjuna Chimney,4.0,3.67,andhra biryani,600.0
+Kailash Parbat,3.8,2.7,south indian chinese north indian,1.2
+Enerjuvate Studio & Cafe,4.2,3.96,cafe continental beverages healthy food desserts sandwich pizza salad,800.0
+Corner House Ice Cream,4.3,4.14,ice cream desserts,400.0
+Cafe Cosy,4.1,3.81,cafe chinese continental fast food,800.0
+Peppy Peppers,4.2,3.96,italian north indian mexican,800.0
+Roving Feast,4.0,3.67,italian continental fast food chinese momos,450.0
+Mishra's Pedha Big Foods,3.9,3.52,desserts mithai,200.0
+La Casa,3.6,3.07,continental italian chinese north indian,800.0
+Sugar Rush,3.8,3.37,bakery desserts,300.0
+Revoli Hotel,3.5,2.93,south indian chinese,450.0
+Al-Madina Restaurant,3.4,2.78,arabian north indian chinese kerala,400.0
+Alfa Family Restaurant,3.0,2.19,north indian arabian chinese,400.0
+Trendz Corner,3.6,3.07,south indian north indian,200.0
+Rolls On Wheels,3.6,2.88,fast food rolls momos,300.0
+Fishland Deluxe,3.5,2.93,south indian north indian chinese kebab,500.0
+Hungry Lion,3.0,2.19,street food beverages,200.0
+Kolbeh,3.7,3.22,fast food,500.0
+Upahar Sagar,3.8,3.37,south indian chinese north indian,350.0
+Adda,3.3,2.63,south indian,300.0
+4th Tea Block,4.0,3.67,cafe,150.0
+Parimala Sweets,3.5,2.93,mithai street food,200.0
+Big Bites,3.6,3.07,chinese fast food,200.0
+The Big O Bakes,4.0,3.67,bakery desserts,300.0
+The Taj Hotel,3.5,2.93,biryani mughlai,350.0
+Vijaya Sagar,3.6,3.07,south indian north indian chinese,300.0
+Krishna Sagar,3.5,2.93,north indian,200.0
+Cuppa,3.2,2.73,cafe fast food,550.0
+Divina - Eden Park Restaurants,4.0,3.67,desserts,400.0
+Kaggis,3.8,3.37,fast food bakery,250.0
+Juicemaker,3.8,3.37,juices fast food,300.0
+Ayda Persian Kitchen,3.7,3.22,north indian iranian,950.0
+Rakesh Kumar Pani Poori,3.6,3.07,street food,100.0
+Take A Break,3.4,2.78,north indian,600.0
+Chatar Patar,3.7,3.22,fast food street food,300.0
+Sihi Chocolaterie,3.7,3.22,desserts,300.0
+Fitbakes,3.6,3.07,bakery healthy food,400.0
+Cakes & Slices,3.5,2.93,bakery desserts,300.0
+MRS Paradise,3.4,2.78,south indian north indian chinese,650.0
+Sri Udupi Veg,3.3,2.63,south indian,250.0
+Atithi Point Ande Ka Funda,3.1,2.33,north indian,150.0
+Parjanya Chat Zone,3.3,2.63,street food fast food,200.0
+Kwality Wall's Swirl's Happiness Station,2.9,2.04,ice cream desserts,200.0
+Rustic Treats,3.3,2.63,street food cafe,400.0
+Hotel Coronation,3.3,2.63,north indian chinese kebab rolls,350.0
+Kolkata Restaurant,3.0,2.19,bengali north indian chinese,300.0
+Kamat Restaurant,3.6,3.07,south indian north indian chinese desserts juices,400.0
+Sk Grand Hotel,3.2,2.48,south indian,400.0
+As On Fire,3.5,2.93,pizza fast food bbq,400.0
+Drunken Monkey,3.9,3.85,beverages fast food,400.0
+Parivar,3.8,3.37,north indian chinese,500.0
+Kamat Swaad,3.9,3.52,south indian north indian chinese,400.0
+J Spice,3.8,3.37,north indian chinese,750.0
+Cakeport,3.4,2.78,bakery,400.0
+Cafe Mist,3.8,3.37,cafe american continental italian,500.0
+Great Indian Rolls,3.3,2.58,rolls,100.0
+Kaulige Millet Corner,3.3,2.63,healthy food south indian,150.0
+Petoo,3.9,3.39,north indian fast food street food,800.0
+Just Sandwiches,3.6,3.07,sandwich,100.0
+V B Bakery,4.2,3.96,bakery,150.0
+Corner House Ice Cream,4.3,4.14,ice cream desserts,400.0
+Sri Venkateshwara Sweet Meat Stall,4.0,3.67,mithai street food north indian chinese,400.0
+XO Belgian Waffle,3.9,3.72,desserts beverages,400.0
+Bakers Day,3.9,3.52,bakery desserts,200.0
+Amma's Pastries,3.9,3.41,bakery,400.0
+Iceberg Icecreams,4.0,3.67,desserts ice cream,250.0
+Baskin Robbins,3.7,3.22,ice cream desserts,250.0
+Amande Patisserie,4.0,3.67,bakery french desserts,300.0
+Fudge,3.8,3.07,desserts momos,200.0
+Redberrys,4.0,3.67,cafe italian,600.0
+Srinivasa Brahmins Bakery,3.6,3.07,bakery street food,150.0
+Jain Bakes,3.6,3.07,bakery desserts,250.0
+Polar Bear,3.8,3.47,ice cream desserts beverages sandwich,400.0
+Havmor,3.8,3.19,ice cream desserts,200.0
+Cafe Aira,4.1,3.81,cafe continental beverages desserts,500.0
+KC Das - Sweet Spot,3.6,3.07,mithai street food,200.0
+Diabetics Dezire Sugarless Sweets and Bakes,3.3,2.63,desserts mithai,300.0
+Sri Ganesh Sweets,3.7,3.22,mithai,250.0
+Frozen Bottle,4.1,3.59,beverages desserts,400.0
+A2B Veg - Adyar Ananda Bhavan,2.7,1.74,south indian fast food street food,400.0
+The Bakery World,3.7,3.22,bakery desserts,250.0
+Cake Yard,3.3,2.67,desserts,250.0
+Old Mumbai Ice Cream,3.8,3.48,ice cream,150.0
+Sri Krishna Sweets,3.7,3.22,mithai desserts,250.0
+Cake Ghar,3.8,3.37,bakery,400.0
+Just Bake,3.3,2.48,bakery desserts,400.0
+Mumbai Badam Milk & Lassi Center,3.6,3.07,beverages desserts,100.0
+Thanco's Natural Ice Cream,3.6,3.07,ice cream desserts,450.0
+Shringar Sweets & Snacks,3.5,2.93,mithai south indian street food fast food,200.0
+Asha Sweets Centre,3.6,3.16,fast food,250.0
+Cake Of The Day,3.2,2.48,bakery,150.0
+Cake Art,3.5,2.93,bakery,400.0
+Ibaco,3.8,3.52,desserts,300.0
+Tea Villa Cafe,4.3,4.11,cafe continental mediterranean italian desserts,800.0
+Milano Ice Cream,4.5,4.41,ice cream desserts,400.0
+Mane Holige,4.3,4.11,mithai south indian,200.0
+Maiyas,4.0,3.67,north indian south indian fast food juices,200.0
+Natural Ice Cream,4.4,4.16,ice cream desserts,150.0
+The Caramelts Cafe,4.2,3.96,cafe salad wraps beverages,800.0
+Cool Joint,4.2,3.96,beverages desserts,250.0
+Poonam Sweets,4.4,4.26,mithai,150.0
+Bubblewrap Waffle Co.,4.4,4.26,desserts beverages,400.0
+Mishra's Pedha Big Foods,3.9,3.52,desserts mithai,200.0
+Dr. Bubbles,4.2,3.96,beverages desserts,400.0
+Cakewala,4.2,4.04,bakery desserts,500.0
+The Belgian Waffle Co.,3.8,3.37,desserts beverages,350.0
+Roll Over,4.1,3.81,desserts ice cream beverages fast food sandwich,500.0
+Starbucks,4.1,3.67,cafe desserts,700.0
+Stoned Monkey,4.3,3.91,desserts ice cream,500.0
+Jalaram Sweets,3.8,3.37,desserts mithai,250.0
+Chocoberry,3.5,2.93,ice cream desserts beverages,400.0
+Magic Meals,3.7,3.22,fast food desserts beverages,400.0
+San Churro Cafe,3.8,3.37,cafe mexican italian,800.0
+Krispy Kreme,4.0,3.44,desserts beverages,300.0
+Sugar Rush,3.8,3.37,bakery desserts,300.0
+Big Mishra Pedha,2.9,2.27,mithai,250.0
+Kanti Sweets,4.0,3.54,mithai street food,400.0
+Iyengar Bakery,3.6,3.12,bakery fast food desserts beverages,200.0
+Keventers,3.9,3.3,desserts beverages ice cream,400.0
+The Studio Cafe,3.8,3.37,cafe beverages,400.0
+Baker's Glove,3.3,2.63,desserts bakery,550.0
+Sreeraj Lassi Bar,4.1,3.72,beverages desserts,150.0
+Anand Sweets and Savouries,3.7,3.44,mithai street food,400.0
+Kirthi's Biryani,3.8,3.37,chinese cafe italian,700.0
+Durga Bikaner Sweets,3.7,3.22,street food mithai,100.0
+Iyengar Bakery,3.7,3.12,bakery,200.0
+Waffle Stories,4.2,3.86,desserts beverages,300.0
+Parimala Sweets,3.5,2.93,mithai street food,200.0
+Apsara Ice Cream,4.1,3.72,ice cream desserts,200.0
+The Big O Bakes,4.0,3.67,bakery desserts,300.0
+Divina - Eden Park Restaurants,4.0,3.67,desserts,400.0
+Kaggis,3.8,3.37,fast food bakery,250.0
+Cocoa Bakes,3.6,3.07,bakery desserts,350.0
+Take A Break,3.4,2.78,north indian,600.0
+Cakeport,3.4,2.78,bakery,400.0
+Waffle-A-Go Go,3.9,3.52,fast food desserts ice cream,400.0
+Freeze It,3.5,2.98,ice cream,300.0
+Pop Hop,4.1,3.81,ice cream desserts,300.0
+Sihi Chocolaterie,3.7,3.22,desserts,300.0
+Fitbakes,3.6,3.07,bakery healthy food,400.0
+Cakes & Slices,3.5,2.93,bakery desserts,300.0
+Kulfreeze,3.9,3.52,ice cream desserts,200.0
+Arun Ice Cream,3.4,2.78,ice cream desserts,150.0
+Kwality Wall's Swirl's Happiness Station,2.9,2.04,ice cream desserts,200.0
+Sweet N Swirl,3.2,2.48,desserts ice cream,150.0
+Roti Ghar,3.9,3.52,north indian chinese south indian,500.0
+The Rogue Elephant,4.3,4.11,desserts asian beverages,1.0
+Mint and Mustard,4.0,3.67,north indian chinese,750.0
+Grand Village,3.8,3.37,north indian rajasthani,600.0
+Bharjari Oota,3.9,3.52,south indian,350.0
+Onesta,4.6,4.44,pizza cafe italian,600.0
+Baba Chatkora,4.1,3.81,north indian street food,1.0
+Gokul Veg,3.8,3.37,north indian chinese beverages,750.0
+Steaming Mugs,3.9,3.52,cafe,700.0
+Baisakhi,3.8,3.37,north indian,500.0
+SLV Corner Restaurant,4.1,3.81,south indian chinese north indian street food rolls juices,550.0
+Soho Bar & Grill,2.7,1.74,north indian chinese thai,1.1
+Srinathji's Cafe,3.8,3.37,north indian cafe chinese fast food,550.0
+Timepass Dinner,3.8,3.37,north indian,600.0
+Aadhya Hotel,3.3,2.63,south indian north indian chinese biryani,800.0
+Kollapuri's,3.9,3.52,south indian mangalorean,450.0
+Zephyr,3.9,3.52,italian continental,650.0
+Nandhini Deluxe,3.6,2.42,andhra chinese north indian,800.0
+Nisarga Garden Restaurant,3.4,2.78,south indian chinese desserts beverages,350.0
+Redberrys,4.0,3.67,cafe italian,600.0
+New Prashanth Hotel,3.9,2.95,south indian,400.0
+Prakash Cafe,3.4,2.78,south indian,700.0
+Beetle Juice Bar - Springs Hotel & Spa,3.7,3.22,finger food,2.2
+Cafe Aira,4.1,3.81,cafe continental beverages desserts,500.0
+Cafe Mondo,3.7,3.22,cafe italian beverages,600.0
+Little Cafe,3.7,3.22,cafe beverages,600.0
+A2B Veg - Adyar Ananda Bhavan,2.7,1.74,south indian fast food street food,400.0
+MG's Fine Dining & Bar - Springs Hotel & Spa,3.8,3.37,north indian asian continental,800.0
+Curry Leaves,4.1,3.81,andhra north indian chinese,800.0
+House Of Kebabs,3.8,3.37,north indian kebab biryani chinese,650.0
+1980s Games Cafe,3.4,2.78,cafe fast food,400.0
+RS Shiv Sagar,3.7,3.22,north indian chinese south indian fast food juices,450.0
+South Point Pub,3.4,2.78,north indian seafood chinese,800.0
+Swadd Kitchen,3.4,2.78,north indian fast food,500.0
+Ma-Arya Family Restaurant,3.7,3.22,biryani south indian north indian chinese andhra,600.0
+Cafe Coffee Day,2.8,2.7,cafe fast food,900.0
+Pramukh Family Restaurant,3.9,3.52,north indian chinese mughlai,700.0
+Upahara Darshini,3.9,3.62,north indian chinese south indian fast food,600.0
+New Prashanth Hotel,2.9,2.95,south indian biryani chinese north indian,750.0
+Shringar Sweets & Snacks,3.5,2.93,mithai south indian street food fast food,200.0
+B & B The Pub,3.6,3.07,asian continental,1.0
+The Upper Deck - Raaj Residency,3.6,3.07,north indian chinese,800.0
+Chai Mane,3.2,2.88,beverages sandwich,100.0
+Anand Sagar Inn,3.3,2.63,south indian north indian chinese,450.0
+Belly Squad Food Truck,3.8,3.37,chinese rolls biryani momos,300.0
+Gandharva Family Restaurant,3.6,3.07,north indian chinese,900.0
+Mavalli Tiffin Room (MTR),4.5,4.41,south indian,250.0
+Vidyarthi Bhavan,4.4,4.26,south indian,150.0
+Brahmin's Coffee Bar,4.8,4.85,south indian,100.0
+Eat Repeat,3.9,3.52,south indian,150.0
+Kabab Magic,4.1,3.44,north indian kebab chinese fast food,400.0
+Sri Guru Kottureshwara Davangere Benne Dosa,4.1,3.81,south indian,150.0
+Energy Addaa,4.2,3.96,salad healthy food sandwich juices burger desserts pizza,500.0
+Karnataka Bhel House,4.1,3.81,street food,100.0
+KFC,3.8,3.26,burger fast food,400.0
+Bhavani Restaurant,3.9,3.52,south indian north indian chinese,300.0
+Chinese Kitchen,3.8,3.37,chinese,150.0
+McDonald's,3.6,3.42,burger fast food,500.0
+Hotel Dwarka,4.2,3.96,south indian,250.0
+Vijayalakshmi,3.9,3.52,south indian,200.0
+Puliyogare Point,4.2,3.96,south indian,100.0
+Hari Super Sandwich,4.1,3.72,fast food street food,200.0
+South Kitchen,4.3,4.11,south indian,100.0
+Udupi Sri Krishna Bhavan,4.1,3.81,south indian,600.0
+Goli Vada Pav No. 1,3.7,3.07,street food,200.0
+Udupi Grand,3.8,3.37,south indian north indian chinese,300.0
+Ice Thunder,3.8,3.37,south indian fast food north indian desserts,300.0
+Millet Mama,3.9,3.52,south indian healthy food,200.0
+Domino's Pizza,3.9,3.18,pizza fast food,400.0
+Upahara Darshini,4.2,3.62,south indian,150.0
+Chinese Square,3.9,3.52,chinese,200.0
+Cool Corner,4.2,3.96,street food fast food,250.0
+Sandwichwallas,4.0,3.37,fast food,200.0
+Twiststick House,4.1,3.81,continental fast food street food momos,500.0
+By 2 Coffee,3.7,3.62,south indian,100.0
+Kamat Bugle Rock,3.9,3.52,south indian fast food,300.0
+Mahalaxmi Tiffin Room,4.1,3.81,south indian,100.0
+Lalbagh Grand,3.1,2.23,south indian north indian chinese,250.0
+Pizza Hut,2.9,2.42,pizza fast food,750.0
+Polar Bear,3.9,3.47,desserts ice cream beverages sandwich,400.0
+Kaulige Millet Corner,3.3,2.63,healthy food south indian,150.0
+Ganesh Grand,3.7,3.22,south indian north indian desserts,300.0
+Kadala Tarangaa,3.7,3.11,seafood chinese south indian north indian,300.0
+Chinese Corner,2.8,1.89,chinese,200.0
+Basavanagudi Mylari,4.0,3.67,south indian,300.0
+Mulabagilu Dosa,3.6,3.07,south indian,100.0
+Kolkata King,3.6,2.88,fast food rolls,300.0
+Subway,3.8,3.03,salad fast food sandwich healthy food,500.0
+New Modern Hotel,4.2,3.96,south indian,150.0
+The Sip Shop,3.3,2.63,pizza beverages ice cream,200.0
+Sri Krishna Veg,3.5,2.93,south indian,100.0
+Shrinidhi Military Hotel,3.3,2.63,north indian mughlai,300.0
+Ganesh Chats,3.7,3.22,street food fast food,100.0
+New Udupi Anand Bhavan,3.5,2.93,south indian,150.0
+Hotel Janatha,4.1,3.81,south indian,150.0
+New Chickpete Donne Biryani,3.5,2.93,biryani,250.0
+Dakshin Kitchen,3.6,3.07,south indian,100.0
+Nammura Donne Biriyani,3.5,2.83,mughlai biryani,400.0
+Chaatimes,3.9,3.39,street food fast food,200.0
+New Shanthi Sagar,2.7,1.74,south indian north indian chinese street food,600.0
+The Chaat Shop,2.5,1.7,fast food,200.0
+Shree Venkateshwara North Karnataka Hotel,4.0,3.67,south indian,200.0
+Faasos,3.4,3.65,north indian biryani fast food,500.0
+Shreyas Upahar & Burger Point,3.2,2.28,south indian burger,200.0
+Sri Krishna Darshini,3.1,2.33,south indian north indian chinese,200.0
+Kamat Minerva,2.6,1.59,south indian north indian chinese,300.0
+Juice Junction Food Court,3.8,3.26,juices south indian chinese fast food,200.0
+Food Geek,3.8,3.37,sandwich fast food rolls,350.0
+Great Indian Rolls,3.2,2.58,rolls,100.0
+Kesar Rajasthani Parotha Point,3.9,3.52,north indian rajasthani,200.0
+Kholi Mane,3.6,3.07,andhra south indian biryani north indian,450.0
+Harshi Super Sandwich,3.8,3.37,fast food street food,150.0
+Shri Vinayaka Ice N Juice,3.1,2.6,beverages fast food,150.0
+Inchara Restaurant,3.3,2.63,north indian chinese,300.0
+Sri Idli Mane,3.7,3.22,south indian,150.0
+Chamarajpet Non Veg Restaurant,3.6,3.07,south indian biryani,200.0
+Sri Vasavi Mane Thindi,2.9,2.04,south indian,150.0
+New Banashankari Donne Biryani,3.5,2.93,biryani north indian,300.0
+Ganga Sagar,3.7,3.22,street food,150.0
+Joshi's Mumbai Masala,3.3,2.63,street food fast food,150.0
+Uphara Kendra,3.6,3.07,south indian,100.0
+Hotel Girish,3.2,2.48,south indian,300.0
+Gowdru Military Hotel,3.3,2.56,biryani seafood south indian,150.0
+50-50 EATING HOUSE,3.2,2.48,south indian biryani,100.0
+Lumbini Snax,3.4,2.7,burger fast food italian,300.0
+Chamrajpet Kabab Junction,3.2,2.48,north indian mughlai,250.0
+Subzero Korner,3.3,2.63,fast food,250.0
+Garage Pizza,3.2,2.48,pizza,400.0
+Om Shiva Shakthi Chats Centre,3.9,3.52,street food fast food,300.0
+Swarga Ruchi,3.3,2.63,south indian,200.0
+Rolls Corner,3.6,3.07,fast food rolls,150.0
+Pizza Stop,3.8,3.22,pizza italian,600.0
+Happy Chopsticks,3.6,3.07,chinese fast food,300.0
+Roofnic,3.1,2.33,fast food beverages,300.0
+Five Star Chicken,3.3,2.94,fast food,200.0
+Burger King,4.0,3.03,burger fast food beverages,600.0
+Rajastani Rasoi,3.2,2.48,north indian,100.0
+Subz,4.2,3.96,north indian south indian,1.0
+Meghana Foods,4.5,4.31,biryani andhra north indian seafood,600.0
+Gufha - The President Hotel,4.1,3.81,north indian mughlai afghan,1.2
+1947,4.1,3.76,north indian chinese,950.0
+Go Native,4.3,4.11,healthy food cafe beverages,800.0
+Chutney Chang,4.1,3.81,north indian chinese bbq,1.5
+Once Upon a Rooftop,4.3,4.11,pizza italian chinese thai,1.0
+Thyme & Whisk,4.2,3.96,asian chinese continental italian,800.0
+Fusion Theory,4.1,3.81,continental biryani desserts italian north indian chinese modern indian asian,700.0
+Toscano,4.3,4.11,italian salad,1.3
+Ranganna Military Hotel,4.2,3.96,south indian biryani,350.0
+Kapoor's Cafe,4.0,3.86,north indian,800.0
+Central Jail Restaurant,3.7,3.32,andhra seafood north indian chinese,700.0
+Alchemy Coffee Roasters,4.2,3.96,cafe,500.0
+Andhra Ruchulu,4.1,3.89,andhra biryani north indian chinese,1.0
+Brew Meister,4.1,3.81,north indian continental finger food american asian,1.5
+Rooftop Cafe,4.1,3.81,cafe fast food beverages,400.0
+Mini Punjabi Dhaba,4.2,3.96,north indian,350.0
+Empire Restaurant,4.4,3.94,north indian mughlai south indian chinese,750.0
+Jalsa,4.1,3.81,north indian mughlai chinese,800.0
+Jalpaan,4.0,3.67,north indian continental,900.0
+Nagarjuna Chimney,4.0,3.67,andhra biryani,600.0
+Biryanis And More,4.1,3.72,biryani north indian chinese andhra south indian,750.0
+Enerjuvate Studio & Cafe,4.2,3.96,cafe continental beverages healthy food desserts sandwich pizza salad,800.0
+Salut,4.1,3.81,continental finger food seafood pizza,1.2
+Wamama,4.2,3.96,asian korean indonesian japanese chinese thai momos,800.0
+Cafe Cosy,4.1,3.81,cafe chinese continental fast food,800.0
+Patio 805,4.1,3.81,thai vietnamese asian chinese,1.2
+Rajathadri Food Fort,4.0,3.67,south indian north indian chinese street food,600.0
+Mangalore Pearl,3.8,3.37,mangalorean seafood chinese biryani,650.0
+Vinny's,4.2,3.96,pizza italian continental desserts,800.0
+The Caramelts Cafe,4.2,3.96,cafe salad wraps beverages,800.0
+Prems Graama Bhojanam,4.3,4.11,south indian,400.0
+Eurasia Pasta and Barbeque by Little Italy,4.1,3.81,italian fast food salad bbq,1.2
+Karma Kaapi,4.4,4.26,beverages tea,250.0
+Peppy Peppers,4.2,3.96,italian north indian mexican,800.0
+Saarangi Fine Dining,3.9,3.52,north indian chinese south indian,450.0
+Chung's Chinese Corner,3.9,3.52,chinese,700.0
+Gustoes Beer House,4.1,3.81,continental italian mexican north indian chinese steak,1.2
+SlimSins Cafe,4.1,3.81,cafe healthy food,850.0
+Cafe Ajfan,4.2,3.96,cafe continental beverages,700.0
+Jcubez,3.8,3.37,finger food,1.3
+Cafe Shuffle,4.2,3.96,cafe italian continental,600.0
+Krazzy Folds,4.2,3.96,cafe continental sandwich beverages,800.0
+Mayuri,4.0,3.67,north indian chinese,650.0
+Penthouse Cafe,4.0,3.67,cafe italian continental,700.0
+The Blue Wagon - Kitchen,4.6,4.56,cafe beverages,400.0
+Smacznego,4.2,3.96,cafe mexican italian momos beverages,550.0
+Golden Oak - La Marvella Sarovar Premiere Hotel,4.0,3.67,north indian continental chinese south indian,1.0
+Szechuan Dragon,4.2,3.96,chinese thai momos,600.0
+The Airos,4.1,3.81,cafe italian pizza,650.0
+The Royal Corner - Pai Viceroy,4.2,3.96,north indian chinese,900.0
+Halli Jonne Biriyani,4.2,3.96,biryani kebab,400.0
+La Casa,3.6,3.07,continental italian chinese north indian,800.0
+Punjabi Raswada,3.5,2.93,north indian,800.0
+Maiyas,4.0,3.67,north indian south indian fast food juices,200.0
+Starbucks,4.1,3.67,cafe desserts,700.0
+The Krishna Grand Xpress,4.0,3.67,south indian fast food,350.0
+Euki,4.1,3.81,italian mexican,900.0
+Udupi Sri Krishna Cafe,3.9,3.52,north indian south indian,600.0
+Thamboola,3.9,3.52,north indian chinese continental,800.0
+San Churro Cafe,3.8,3.37,cafe mexican italian,800.0
+J Spice,3.8,3.37,north indian chinese,750.0
+Kailash Parbat,3.8,2.7,south indian chinese north indian,1.2
+Empark Inn Restaurant,3.7,3.22,north indian chinese south indian,350.0
+Ragoo's,3.9,3.52,italian pizza north indian salad,800.0
+Vietnamese Kitchen,3.6,3.07,vietnamese,700.0
+Desi Inn,3.5,2.93,north indian,300.0
+Sukh Sagar,3.8,3.37,south indian north indian chinese street food,450.0
+Revoli Hotel,3.5,2.93,south indian chinese,450.0
+Bengaluru Cafe,4.4,4.26,south indian,150.0
+Cafe Vivacity,3.8,3.37,cafe,650.0
+Swathi Deluxe Restaurant,3.0,2.19,north indian,500.0
+De Thaali,3.9,3.52,north indian chinese rolls,550.0
+The Lounge - Eden Park Restaurants,3.7,3.22,north indian afghani,1.35
+Roving Feast,4.0,3.67,italian continental fast food chinese momos,450.0
+Hara Fine Dine,4.0,3.67,north indian chinese,800.0
+Nandhini Deluxe,3.5,2.42,north indian,600.0
+Hotel New Karavali,3.8,3.37,mangalorean south indian north indian,300.0
+Al-Madina Restaurant,3.4,2.78,arabian north indian chinese kerala,400.0
+NV Naidu Hotel,3.9,3.52,biryani,250.0
+Taj Restaurant,3.8,3.37,north indian biryani,400.0
+Vakulaa Veg Restaurant,3.9,3.52,south indian north indian,200.0
+Blue Wings Bar & Restaurant,3.7,3.22,north indian chinese,700.0
+Anand Sweets and Savouries,3.7,3.44,mithai street food,400.0
+Brahmin Tiffins & Coffee,4.2,3.96,south indian,100.0
+Upahara Darshini,3.8,3.62,south indian north indian chinese,400.0
+Alfa Family Restaurant,3.0,2.19,north indian arabian chinese,400.0
+Kirthi's Biryani,3.8,3.37,chinese cafe italian,700.0
+The Krishna Grand,3.9,3.52,north indian south indian chinese fast food juices,750.0
+Clove Rooftop,3.8,3.37,konkan seafood,1.0
+New Imperial Restaurant,3.7,3.22,north indian chinese,450.0
+La Grande Cafe,3.8,3.37,cafe,400.0
+Rustic Stove,3.8,3.37,north indian south indian biryani beverages,900.0
+Pure & Natural,3.9,3.52,fast food continental beverages salad healthy food,500.0
+Bhattara Bhojana,3.6,3.07,south indian,150.0
+Sri Laxmi Venkateshwara Coffee Bar,4.4,4.26,south indian,100.0
+Food Springs,4.0,3.67,south indian chinese,400.0
+Magic Meals,3.7,3.22,fast food desserts beverages,400.0
+Uphar Dharshni,3.6,3.07,south indian north indian,150.0
+English Channel,3.7,3.22,finger food,1.2
+Tree Top,3.8,3.37,continental chinese north indian south indian,1.0
+Sarvam's,3.7,3.22,north indian chinese continental pizza,550.0
+Samskruti - Sanman Gardenia,4.1,3.81,north indian chinese south indian,550.0
+Messy Bowl,3.8,3.37,fast food beverages,500.0
+Petoo,3.9,3.39,north indian fast food street food,800.0
+Utsav Restaurant,3.8,3.31,north indian chinese,300.0
+Mystique Palate,4.1,3.81,chinese fast food,300.0
+The Trundle,3.7,3.22,chinese thai continental north indian,700.0
+J K Fish Land,3.6,3.07,seafood mangalorean,300.0
+Fanoos Xprss,3.7,3.22,arabian rolls north indian bbq,400.0
+Udupi Upachar,3.3,2.63,south indian north indian,500.0
+Parimala Sweets,3.5,2.93,mithai street food,200.0
+Parivar,3.8,3.37,north indian chinese,500.0
+Brahmin Cafe,3.8,3.37,south indian,150.0
+Starlite Bakery & Fastfood,3.7,3.22,north indian chinese rolls bakery arabian charcoal chicken desserts,300.0
+Iyengar's Inn,4.1,3.81,south indian,100.0
+Bella,3.9,3.52,mangalorean seafood south indian,1.0
+Kaapi Kendra,3.7,3.22,south indian,100.0
+Sandwich Hub,3.4,2.78,fast food sandwich,300.0
+Bangalore Agarwal Bhavan,3.9,3.52,street food north indian south indian,400.0
+Naidu Military Hotel,2.7,1.74,south indian chinese biryani,600.0
+The Sofraah Kebabs & Kurries - Eden Park Restaurants,3.8,3.37,north indian afghani,1.35
+Grazers,3.9,3.52,cafe burger continental italian desserts,650.0
+Hotel Mangala,3.9,3.52,south indian,250.0
+Rolls On Wheels,3.4,2.88,fast food rolls momos,300.0
+Vasudev Adiga's,3.8,1.89,south indian north indian chinese street food juices,250.0
+Trendz Corner,3.6,3.07,south indian north indian,200.0
+Matru Sagar,3.6,3.12,south indian north indian chinese,250.0
+Fishland Deluxe,3.5,2.93,south indian north indian chinese kebab,500.0
+Hungry Lion,3.0,2.19,street food beverages,200.0
+36th Cross Coffee Mane,3.6,3.07,south indian chinese beverages cafe coffee fast food momos north indian,200.0
+Chilli Flakes,3.6,3.07,fast food italian beverages,500.0
+SLV Swadishta,3.8,3.37,south indian,300.0
+Kolbeh,3.7,3.22,fast food,500.0
+Karavali Family Restaurant,3.5,2.93,seafood biryani south indian north indian chinese,500.0
+The Grillo,2.8,1.89,south indian arabian chinese north indian seafood mangalorean,500.0
+Thrilok Restaurant,3.4,2.78,mangalorean seafood,350.0
+Bunt's Biriyani Palace,3.0,2.19,north indian south indian chinese biryani seafood,400.0
+Upahar Sagar,3.8,3.37,south indian chinese north indian,350.0
+Nandhi Andhra Style Family Restaurant,3.4,2.78,seafood biryani south indian north indian chinese kebab,400.0
+Davanagere Benne Dose Hut,3.4,2.78,south indian,100.0
+Anand Donne Biriyani,3.6,3.07,biryani,200.0
+Adda,3.3,2.63,south indian,300.0
+New Sagar Fast Food,3.6,3.07,north indian south indian,250.0
+The Yellow Chilli,3.8,3.37,north indian mughlai biryani,1.2
+Desi Cream Junction,3.7,3.22,chinese north indian pizza italian,650.0
+Namma Biryani,3.6,3.07,biryani chinese north indian,250.0
+Kababs N Biryani,3.4,2.78,south indian,200.0
+Udupi Upahar,3.8,3.37,south indian chinese north indian juices,300.0
+Tandoori Knight,3.0,2.19,north indian chinese biryani kebab,450.0
+Brew Bakes,3.4,2.78,cafe continental italian,550.0
+Karavali Fish Center,3.4,2.78,mangalorean chinese,300.0
+Adiga's,3.3,2.63,south indian,150.0
+Bread and Circus,3.7,3.22,cafe fast food pizza burger,550.0
+Java City,2.6,1.59,cafe american pizza,450.0
+Ugadi,2.9,2.04,north indian chinese biryani andhra mangalorean,700.0
+The Pizzeria,2.8,1.89,pizza italian salad,800.0
+Banashankari Donne Biriyani,3.8,3.37,biryani fast food,300.0
+Big Bites,3.6,3.07,chinese fast food,200.0
+The Taj Hotel,3.5,2.93,biryani mughlai,350.0
+Rasoi,3.3,2.63,north indian chinese,300.0
+21 C - La Marvella Sarovar Premiere Hotel,3.6,3.07,continental,1.0
+Ayda Persian Kitchen,3.7,3.22,north indian iranian,950.0
+Vybhava,3.8,3.37,south indian north indian,250.0
+Vijaya Sagar,3.6,3.07,south indian north indian chinese,300.0
+As On Fire,3.5,2.93,pizza fast food bbq,400.0
+Sri Krishna Sagar,3.2,2.6,north indian chinese,400.0
+Lassi Stop,3.4,2.78,beverages fast food juices,150.0
+Sri Yaksha Shiv Sagar,3.6,3.07,north indian chinese,600.0
+Chumma Delicious,3.7,3.22,south indian fast food,200.0
+Khan Saheb Grills and Rolls,3.9,3.52,fast food rolls,350.0
+Leon Grill,4.1,3.81,burger turkish arabian fast food salad healthy food desserts,500.0
+Krishna Sagar,3.5,2.93,north indian,200.0
+Iyer's Tiffin Centre,3.8,3.37,south indian chinese,150.0
+Kydz Adda,3.4,2.78,continental,500.0
+Hotel Anand Vihar,3.2,2.48,north indian chinese,400.0
+Hanumanthanagar Biryani Junction,3.5,2.93,south indian,300.0
+Swadesh Tadka,3.5,2.93,north indian chinese beverages,600.0
+Wahab,3.7,3.22,north indian mughlai chinese,350.0
+Vennela Andhra Meals,3.0,2.19,andhra,400.0
+SLV Refreshment,4.1,3.81,south indian,100.0
+Pavithra Restaurant,3.4,2.78,south indian north indian chinese,300.0
+K27 - The Pub,3.1,2.33,chinese north indian,1.0
+Kotian Karavali Restaurant,3.5,2.93,south indian biryani,300.0
+Biryani Paradise,3.4,2.78,biryani fast food,400.0
+Ande Ka Funda,3.8,3.07,north indian fast food rolls,250.0
+Durga Sagar,3.3,2.63,south indian,150.0
+Ruchi's Corner,2.7,1.74,fast food,200.0
+Brews N Bites,2.9,1.89,chinese fast food cafe,650.0
+Anda Ka Funda,3.4,2.78,north indian chinese rolls,250.0
+Kaggis,3.8,3.37,fast food bakery,250.0
+Darbar,3.0,2.19,north indian chinese,800.0
+MRS Paradise,3.4,2.78,south indian north indian chinese,650.0
+Shree Sagar,2.8,1.89,north indian south indian chinese,500.0
+Beijing Bites,2.7,2.23,chinese thai,850.0
+Juicy Momos,3.5,2.73,tibetan momos,250.0
+Meat And Eat,3.1,2.63,fast food burger,500.0
+Rakesh Kumar Pani Poori,3.6,3.07,street food,100.0
+Sangam Military Hotel,3.2,2.48,south indian,250.0
+Chatar Patar,3.7,3.22,fast food street food,300.0
+Just Bunny,3.5,2.93,fast food,200.0
+Aramane Donne Biryani,3.1,2.53,biryani,200.0
+VEGeatz,3.4,2.78,south indian north indian,200.0
+Just Shawarma,3.8,3.43,arabian,300.0
+Adithya,3.7,3.31,south indian north indian chinese,300.0
+SVKP Daily Fresh,3.3,2.63,south indian,350.0
+Kidambi's Kitchen,3.5,2.93,south indian,300.0
+Sea Green Cafe,3.3,2.63,cafe fast food beverages,500.0
+Hotel Coronation,3.3,2.63,north indian chinese kebab rolls,350.0
+360 Atoms Restaurant And Cafe,3.1,2.33,cafe chinese continental italian,400.0
+Shree Balaji Paratha House,3.0,2.19,north indian,200.0
+Srinagar Kabab Corner,3.4,2.78,north indian,250.0
+Sri Venkateshwara Chat Centre,3.5,2.93,street food,100.0
+Donne Biryani,3.2,2.48,biryani,200.0
+Saarangi Express,3.4,2.78,fast food south indian,250.0
+Sri Udupi Veg,3.3,2.63,south indian,250.0
+Adithya Veg,3.3,2.63,south indian chinese,300.0
+Nandi Chats and Juice,3.6,3.07,street food,150.0
+Atithi Point Ande Ka Funda,3.1,2.33,north indian,150.0
+FOOD ADDA,3.2,2.48,fast food,200.0
+Coffee Bytes,3.1,2.33,fast food south indian,100.0
+Parjanya Chat Zone,3.3,2.63,street food fast food,200.0
+Yo Roll Corner,3.0,2.19,street food rolls,200.0
+Sri Lakshmi Kabab Center,3.3,2.63,kebab,200.0
+Tasty Bites,3.7,3.22,fast food pizza,150.0
+Rustic Treats,3.3,2.63,street food cafe,400.0
+Hotel Renowned,3.3,2.63,north indian biryani,200.0
+Hotel Kalpaka,3.4,2.78,south indian kerala,400.0
+Raams Chicken,3.6,3.07,andhra,300.0
+Panchami,3.0,2.19,north indian chinese,300.0
+Poornima Restaurant,3.3,2.63,south indian,200.0
+Canton,3.6,3.07,chinese seafood biryani,800.0
+Kavali,4.0,3.67,south indian street food,300.0
+Kolkata Restaurant,3.0,2.19,bengali north indian chinese,300.0
+People Tree Cafe,3.7,3.22,cafe fast food beverages,400.0
+Chung Wah,3.7,3.47,chinese thai momos,850.0
+Chinese House,2.8,1.89,chinese thai momos,300.0
+Hotel Empark,3.4,2.78,chinese north indian arabian,800.0
+Once Upon a Rooftop,4.3,4.11,pizza italian chinese thai,1.0
+Soho Bar & Grill,2.7,1.74,north indian chinese thai,1.1
+Beetle Juice Bar - Springs Hotel & Spa,3.7,3.22,finger food,2.2
+Brew Meister,4.1,3.81,north indian continental finger food american asian,1.5
+Salut,4.1,3.81,continental finger food seafood pizza,1.2
+Gustoes Beer House,4.1,3.81,continental italian mexican north indian chinese steak,1.2
+Jcubez,3.8,3.37,finger food,1.3
+The Lounge - Eden Park Restaurants,3.7,3.22,north indian afghani,1.35
+Blue Wings Bar & Restaurant,3.7,3.22,north indian chinese,700.0
+Clove Rooftop,3.8,3.37,konkan seafood,1.0
+K27 - The Pub,3.1,2.33,chinese north indian,1.0
+Darbar,3.0,2.19,north indian chinese,800.0
+Kava - Fairfield by Marriott,3.9,3.52,north indian south indian continental,1.5
+The Fisherman's Wharf,4.4,4.26,seafood goan north indian continental asian,1.4
+MoMo Cafe - Courtyard by Marriott,4.2,3.96,asian north indian south indian momos,2.0
+Ruh,4.1,3.81,north indian mughlai mediterranean iranian,1.0
+Tipsy Bull - The Bar Exchange,4.4,4.26,north indian chinese continental mexican,1.4
+Nook - Aloft Bengaluru Cessna Business Park,4.3,4.11,north indian continental asian,1.8
+Chaarcoal,4.0,3.67,north indian,1.2
+Sharaab Factory,3.9,3.52,biryani north indian,1.5
+Skylit - Citrus Hotels,3.6,3.07,north indian mughlai mediterranean,1.5
+Punjabi Times,4.1,3.81,north indian,1.1
+Flavors of India,3.7,3.22,chinese north indian salad fast food,1.5
+Monsoon,2.8,1.89,continental,1.0
+BISO - Citrus Hotels,3.0,2.19,north indian italian chinese asian,1.0
+Chef's Gallery,3.5,2.93,chinese italian north indian,700.0
+Palki's,3.0,2.19,north indian biryani,800.0
+W XYZ Bar - Aloft Bengaluru Cessna Business Park,3.8,3.37,finger food north indian,2.0
+The Black Pearl,4.8,4.85,north indian european mediterranean bbq,1.5
+The Fisherman's Wharf,4.4,4.26,seafood goan north indian continental asian,1.4
+Jalsa Gold,4.5,4.41,north indian mughlai italian,1.3
+AB's - Absolute Barbecues,4.7,4.7,european mediterranean north indian bbq,1.6
+The Hidden Home,4.3,4.11,asian chinese continental north indian south indian,1.3
+Barbecoa,4.3,4.11,north indian continental chettinad andhra bengali,1.0
+Opus Food Stories,4.7,4.7,goan asian north indian european continental,1.5
+Village - The Soul of India,3.9,3.52,north indian lucknowi gujarati maharashtrian south indian bengali,1.1
+Little Italy,4.3,4.11,italian pizza,1.5
+Xtreme Sports Bar,4.0,3.67,continental chinese north indian,1.3
+RRoyal Rajasthan,4.3,4.11,rajasthani north indian,500.0
+Flavours - Octave Hotel & Spa,3.0,2.19,north indian chinese,700.0
+Equinox Bar - DoubleTree Suites By Hilton,3.9,3.52,continental thai vietnamese american chinese north indian finger food,1.9
+Story Time,3.7,3.22,north indian south indian andhra cafe,500.0
+The Salad Studio,4.0,3.67,cafe healthy food salad,400.0
+Mont Blanc Cafe,3.8,3.37,cafe bakery italian,650.0
+Chef Baker's,3.6,3.07,bakery fast food pizza burger cafe,600.0
+Cafe Jezve,4.0,3.67,cafe,500.0
+Starbucks,3.9,3.67,cafe desserts,700.0
+Puro Gusto,3.9,3.52,cafe,400.0
+Tata Cha,3.6,3.07,tea fast food cafe,400.0
+Cafe Coffee Day,3.1,2.7,cafe fast food,900.0
+Tea Totallers,2.9,2.04,cafe continental tea,500.0
+Delitz Creamvilla Cafe,4.0,3.67,cafe desserts ice cream,600.0
+The Brewing Bean,3.7,3.22,cafe,500.0
+Cuppa,3.7,2.73,cafe fast food,550.0
+Costa Coffee,3.0,2.19,cafe fast food,500.0
+Cafe Olive,3.8,3.37,cafe european beverages italian,550.0
+Cafe Thulp,4.0,3.67,cafe burger italian salad,1.0
+Chai Resto,3.6,3.07,fast food tea,200.0
+Stoner,4.3,4.11,ice cream cafe pizza burger desserts beverages,500.0
+Zoey's,4.3,4.11,cafe italian continental burger,600.0
+Eating Love,4.3,4.11,cafe italian pizza,800.0
+Light House Cafe,3.7,3.22,cafe beverages continental north indian chinese,700.0
+Chaai Resto,4.1,3.81,cafe rolls fast food,200.0
+Imperio Cafe,3.9,3.52,cafe fast food pizza burger beverages,200.0
+eat.fit,4.4,4.41,healthy food north indian biryani continental sandwich desserts,500.0
+Sher-E-Punjab,3.4,2.63,north indian chinese,400.0
+Blue Berry Restaurant,3.9,2.53,north indian biryani chinese beverages,650.0
+BOX8- Desi Meals,4.1,3.81,north indian mughlai fast food,500.0
+FreshMenu,3.2,3.04,healthy food chinese biryani north indian continental salad american burger,450.0
+Udupi Ruchi,3.8,3.48,south indian north indian chinese street food,200.0
+Rangla Punjab,2.9,2.04,north indian chinese,450.0
+Thiruvithamkoor Restaurant,3.3,2.63,kerala seafood south indian biryani,400.0
+The Paratha Company,4.3,4.11,north indian,400.0
+nu.tree,4.4,4.26,north indian healthy food beverages,400.0
+Best Of Bengal,3.8,3.37,bengali,300.0
+Kerala Panoor Restaurant,3.5,2.93,kerala seafood biryani south indian,350.0
+Odians,3.2,2.48,north indian chinese oriya,500.0
+Pet Full @ 99,3.1,2.33,north indian,200.0
+New Punjabi Dhaba,3.9,3.52,north indian chinese,300.0
+Punjabi Dawat,2.9,2.04,north indian chinese,400.0
+Burger King,3.8,3.03,burger fast food,500.0
+Kerala Mess Upahar,3.7,3.22,kerala biryani south indian,300.0
+Phulke Ghar Ke,4.0,3.67,north indian chinese,300.0
+XO Belgian Waffle,4.5,3.72,desserts beverages,400.0
+Lassi Corner,3.8,3.27,beverages juices ice cream fast food sandwich,200.0
+Bathinda Junction,4.0,3.57,north indian,600.0
+The Meal Story,4.2,3.96,north indian street food,700.0
+Meghana Foods Grand,4.2,3.96,biryani seafood andhra north indian,600.0
+Murli,3.9,3.52,north indian chinese street food fast food mithai,500.0
+Barbeque Delight,3.8,3.37,arabian kerala north indian chinese bbq,800.0
+Basmati Restaurant,3.8,3.37,biryani andhra north indian chinese,900.0
+Empire Restaurant,3.8,3.94,north indian mughlai south indian chinese,750.0
+Reddy's Restaurant,3.6,3.07,andhra biryani south indian chinese,500.0
+Hyderabad Biryaani House,3.7,3.12,biryani north indian chinese,550.0
+Sukhi Bhava,3.6,3.07,andhra chinese biryani,300.0
+Kanti Sweets,4.0,3.54,mithai street food,400.0
+Fun Kitchen,3.8,3.37,north indian chinese fast food,400.0
+Hyderabadi Biryani Hub,3.5,2.93,biryani north indian,600.0
+Moriz Restaurant,2.9,2.04,arabian north indian seafood chinese biryani,800.0
+Polar Bear,3.9,3.47,ice cream desserts beverages sandwich,400.0
+Blueberry Restaurant,3.7,3.22,north indian biryani south indian,400.0
+Biryani Kitchen,3.9,3.52,biryani,400.0
+Udupi Aatithya,4.0,3.67,south indian north indian chinese,300.0
+Pepperwood,3.8,3.37,biryani rolls,300.0
+Biriyani House,3.6,3.07,biryani,400.0
+Punjabi Khana,3.0,2.19,north indian,500.0
+Al Daaz,4.2,3.96,north indian continental bbq,550.0
+Mojo Pizza - 2X Toppings,4.1,3.91,pizza,600.0
+Chai Point,4.0,2.96,tea beverages fast food,250.0
+Onesta,4.4,4.44,pizza cafe italian,600.0
+Bihar Ki Shan,3.9,3.52,north indian,300.0
+Sai Santhi Cafe,3.8,3.37,south indian north indian chinese,400.0
+Sri Vishnu Veg,3.5,2.93,south indian,200.0
+Shudh,4.1,3.81,north indian,300.0
+Biryani Miya,3.8,3.3,biryani north indian,600.0
+Mani's Dum Biryani,4.0,3.86,biryani kebab,750.0
+Sri Vishnu Grand & Garden Restaurant,3.8,3.37,south indian north indian fast food,500.0
+Donne Biriyani House,3.2,3.05,biryani,300.0
+Potful,3.8,3.37,biryani kebab rolls mughlai,650.0
+Bahar Cafe,4.0,3.67,andhra biryani chinese hyderabadi north indian south indian,750.0
+Subway,3.7,3.03,salad fast food,600.0
+KFC,3.2,3.26,burger fast food,450.0
+DinePost9,3.8,3.37,north indian south indian chinese continental,450.0
+Thalassery Restaurant,3.4,2.78,seafood biryani south indian north indian chinese arabian kebab kerala,600.0
+Sri Vishnu Grand,3.8,3.37,south indian north indian chinese,400.0
+Bathinda Dine,4.0,3.67,north indian,950.0
+WOW! Momo,3.5,2.93,chinese momos,400.0
+Behrouz Biryani,4.0,3.59,biryani,650.0
+Sri Krishna Kitchen,3.6,3.07,north indian chinese,350.0
+Maa Bhook Lagi,4.1,3.81,north indian,400.0
+Cake Town Cafe,3.9,3.52,bakery desserts,500.0
+Kairali Restaurant,3.9,3.52,kerala,200.0
+Basaveshwara Khanavali,3.6,3.07,south indian,150.0
+Punjabi Food Point,3.3,2.63,north indian mughlai biryani chinese,450.0
+Punjabi Tadka,2.8,1.89,north indian chinese,400.0
+Costa Biryanis,3.3,2.63,andhra biryani north indian south indian,300.0
+Sri Udupi Park,3.1,2.33,south indian north indian chinese beverages,500.0
+Pizza Hut,2.8,2.42,pizza fast food,600.0
+The Punjabi Rasoi,3.7,3.22,north indian,800.0
+Punjab Di Shaan,3.0,2.19,north indian,450.0
+Punjabi Nukkad Pure Veg,3.5,2.93,north indian chinese juices,500.0
+Atithi Sambrama,3.9,3.52,south indian north indian chinese,200.0
+Navya's,2.9,2.04,north indian andhra,600.0
+Lassi Shop,3.9,3.26,beverages ice cream fast food,300.0
+Mandya Gowdru Donne Biriyani,3.8,3.37,biryani south indian,350.0
+Marwari Basa,3.1,2.33,rajasthani north indian,300.0
+Indori Zaika,2.8,1.89,north indian,300.0
+Mealer.in,3.9,3.59,north indian biryani,450.0
+Kya Khaoge,3.7,3.22,north indian chinese,300.0
+Rayalaseema Chefs,3.9,3.52,north indian biryani andhra chinese,800.0
+Ambur Dum Biriyani,3.4,2.78,biryani,200.0
+The Nosh House,4.3,4.11,american italian bakery desserts sandwich beverages salad rolls,600.0
+Frozen Bottle,4.0,3.59,beverages desserts,400.0
+Warm Oven,3.8,3.47,bakery desserts,500.0
+Firangi Bake,4.1,3.7,mexican italian,600.0
+Chaarcoal,4.0,3.67,north indian,1.2
+Savoury Restaurant,2.9,2.04,arabian north indian chinese kerala seafood biryani,800.0
+Delhite Food,3.5,2.93,north indian,300.0
+Faasos,4.1,3.65,north indian biryani fast food,500.0
+The Flying Cup,4.2,3.96,beverages fast food tea,150.0
+The Rasaganga,3.7,3.22,south indian north indian chinese street food,500.0
+Udupi Nalapaka,3.7,3.22,south indian north indian chinese,400.0
+Sarjapur Social,4.6,4.56,american north indian chinese finger food,1.5
+The Fisherman's Wharf,4.4,4.26,seafood goan north indian continental asian,1.4
+Just Shawarma,3.9,3.43,arabian,300.0
+Konaseema Kitchen,3.8,3.37,north indian biryani andhra south indian,600.0
+PSV's Andhra Paradise,3.5,2.93,andhra chinese north indian hyderabadi,600.0
+Maia - Eat | Bake | Mom,4.3,4.11,continental north indian beverages,1.2
+Punjab Zone,2.9,2.04,north indian,400.0
+Yummy Punjabi,2.9,2.04,north indian chinese,400.0
+Happy Endings,4.3,4.11,bakery desserts italian,500.0
+Meghana Biryani,2.3,1.15,north indian,800.0
+Andhra Bhojanam,3.6,3.07,andhra,400.0
+Cupcake Bliss,3.3,2.78,bakery,250.0
+Spicy Khana Point,3.0,2.19,north indian chinese biryani,500.0
+Hyderabad Chefs,4.0,3.67,hyderabadi andhra north indian chinese south indian,800.0
+The Hidden Home,4.3,4.11,asian chinese continental north indian south indian,1.3
+Byg Brewski Brewing Company,4.9,5.0,continental north indian italian south indian finger food,1.6
+Nutty Affair,3.7,3.22,desserts,350.0
+Waffle Talesz,3.6,3.07,desserts,200.0
+Suryawanshi,4.5,3.62,maharashtrian seafood,700.0
+Chili's American Grill & Bar,4.5,4.41,american texmex burger bbq,1.8
+Hyderabadi Zaiqa,3.1,2.33,hyderabadi north indian biryani,700.0
+RRoyal Rajasthan,4.3,4.11,rajasthani north indian,500.0
+Indiana Burgers,3.5,2.85,burger,300.0
+Abhiruchi Restaurant,3.4,2.78,andhra north indian chinese,400.0
+Pasta Twist Plus,2.6,1.59,fast food continental,400.0
+Delite Chaat House,3.5,2.93,street food gujarati,300.0
+Hyderabadi Biriyani,3.4,2.78,biryani hyderabadi chinese north indian,800.0
+Sri Krishna Sagar,3.5,2.6,south indian north indian chinese street food juices,400.0
+Momo Rice Noodles,3.4,2.78,chinese momos,600.0
+Bombay Sandwich Company,3.5,2.93,sandwich beverages,400.0
+Hungry Bird,3.6,3.07,north indian chinese biryani,400.0
+The Good Bowl,3.6,3.07,italian north indian biryani,500.0
+The Salad Studio,4.0,3.67,cafe healthy food salad,400.0
+Veg Rasoi,3.9,3.52,north indian rajasthani,600.0
+Curry Flavours,3.7,3.22,tamil south indian north indian chinese,200.0
+Petoo,4.1,3.39,north indian fast food street food,800.0
+Dhaba Estd 1986 Delhi,4.4,4.26,north indian,1.1
+Inhouse Burger,4.0,3.67,fast food,400.0
+Manchow,3.8,3.37,chinese asian momos,600.0
+Andhra Vilaas,3.7,3.22,andhra north indian biryani,350.0
+Bangaliana,3.7,2.43,bengali,600.0
+La Casa Brewery And Kitchen,4.4,4.26,finger food continental seafood,1.5
+Biriyani Zone,3.9,3.52,biryani north indian chinese seafood,800.0
+Tata Cha,3.6,3.07,tea fast food cafe,400.0
+Soup'ermanz Kitchen,4.1,3.81,cafe continental burger,750.0
+MAP- My Appetite Place,3.8,3.37,north indian italian chinese,600.0
+Healthie,3.9,3.52,healthy food beverages,600.0
+Sri Dalma,3.8,3.37,oriya bengali,350.0
+Chai World,3.5,2.93,tea beverages sandwich fast food,300.0
+Baker's Home,4.0,3.67,bakery desserts,300.0
+Paratha Treat,3.6,3.07,north indian,200.0
+New Cool Joint,3.5,2.93,fast food beverages ice cream juices sandwich,150.0
+Al Khansah,3.9,3.52,biryani mughlai chinese north indian kebab,550.0
+Chullah Bhatti,4.0,3.67,north indian chinese,900.0
+Matka,3.6,3.15,north indian biryani,500.0
+Feel@Home,3.6,3.07,north indian chinese,300.0
+Mangala Hotel,3.8,3.37,kerala chinese north indian,300.0
+Kabab Magic,3.1,3.44,north indian kebab chinese fast food,400.0
+Keventers,3.6,3.3,desserts beverages ice cream,400.0
+The Kebab House,4.3,4.11,kebab biryani,250.0
+Daniyal's,3.6,2.58,north indian biryani mughlai kebab,800.0
+Poha On Wheels,4.1,3.81,street food,100.0
+Float,4.4,4.26,north indian japanese,1.5
+Domino's Pizza,3.6,3.18,pizza fast food,800.0
+Makers of Milkshakes,3.9,3.52,beverages,300.0
+Shake It Off,4.0,3.86,beverages fast food,600.0
+Udupi Savi Thindi,3.6,3.07,south indian north indian chinese,300.0
+Karavali Kitchen,3.1,2.33,mangalorean,400.0
+InnerChef,3.9,3.52,north indian continental,500.0
+RP Sweets,3.4,2.78,mithai fast food,300.0

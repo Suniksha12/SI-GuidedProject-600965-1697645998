@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant Recommendation System</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-direction: column;
+            color: black;
+            background-color: white;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            inline-size: 100%;
+            background-color: black;
+            color: white;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+        }
+        header div {
+            display: flex;
+            gap: 10px;
+        }
+        button {
+            background-color: black;
+            color: white;
+            border: none;
+            padding: 10px 20px; /* Increase horizontal padding */
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            transition: background-color 0.3s ease; /* Add transition for hover effect */
+        }
+        button:hover {
+            background-color: #444; /* Darken background on hover */
+        }
+        .middle-content {
+            display: flex;
+            justify-content: space-between;
+            inline-size: 100%;
+            padding: 20px;
+        }
+        .middle-content .text {
+            inline-size: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        .middle-content .image {
+            inline-size: 50%;
+        }
+        .middle-content img {
+            inline-size: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Restaurant Recommendation System</h1>
+        <div>
+            <button onclick="location.href='/'">Home</button>
+            <button onclick="location.href='/recommend'">Recommend</button>
+        </div>
+    </header>
+    <div class="middle-content">
+        <div class="text">
+            <h2>Build Recommendation System with ease!!</h2>
+            <p>In this age of information overload, people use a variety of strategies to make 
+                choices about what to buy, how to spend their leisure time, and even where to go. 
+                Recommender systems automate some of these strategies with the goal of providing affordable food items.
+                The aim is to create a content-based recommender system in which when we write a restaurant name, the 
+                recommender system will look at the reviews of other restaurants, and the system will recommend us other 
+                restaurants with similar reviews and sort them from the highest-rated.
+            </p>
+            <h2>Test the System</h2>
+            <button onclick="location.href='/recommend'">Recommend</button>
+        </div>
+        <div class="image">
+            <img src="{{ url_for('static', filename='image.jpeg') }}" alt="Your Image">
+        </div>
+    </div>
+</body>
+</html>
